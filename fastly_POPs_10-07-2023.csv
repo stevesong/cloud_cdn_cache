@@ -1,0 +1,81 @@
+Provider,Service Name,URL,City,Country,Status,Zone Name,Region,Parent Region,Latitude,Longitude
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Ashburn,United States,Active,,North America,,39.03,-77.47
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Atlanta,United States,Active,,North America,,33.749,-84.39
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Boston,United States,Active,,North America,,42.355,-71.061
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Calgary,Canada,Active,,North America,,51.046,-114.058
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Chicago,United States,Active,,North America,,41.876,-87.624
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Columbus,United States,Active,,North America,,39.962,-83.001
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Dallas,United States,Active,,North America,,32.776,-96.797
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Denver,United States,Active,,North America,,39.739,-104.985
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Detroit,United States,Active,,North America,,42.332,-83.047
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Honolulu,United States,Active,,North America,,21.305,-157.856
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Houston,United States,Active,,North America,,29.759,-95.368
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Jacksonville,United States,Active,,North America,,30.332,-81.656
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Kansas City,United States,Active,,North America,,39.1,-94.578
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Los Angeles,United States,Active,,North America,,34.054,-118.243
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Miami,United States,Active,,North America,,25.774,-80.194
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Minneapolis,United States,Active,,North America,,44.977,-93.265
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Montreal,Canada,Active,,North America,,45.503,-73.57
+Fastly,Point of Presence,https://www.fastly.com/network-map/,New York,United States,Active,,North America,,40.713,-74.006
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Phoenix,United States,Active,,North America,,33.448,-112.074
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Portland,United States,Active,,North America,,45.52,-122.674
+Fastly,Point of Presence,https://www.fastly.com/network-map/,San Jose,United States,Active,,North America,,37.336,-121.891
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Seattle,United States,Active,,North America,,47.604,-122.33
+Fastly,Point of Presence,https://www.fastly.com/network-map/,St Louis,United States,Active,,North America,,38.628,-90.191
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Toronto,Canada,Active,,North America,,43.653,-79.384
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Vancouver,Canada,Active,,North America,,49.261,-123.114
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Bogota,Colombia,Active,,South America,,4.653,-74.084
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Buenos Aires,Argentina,Active,,South America,,-34.608,-58.437
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Curitiba,Brasil,Active,,South America,,-25.43,-49.271
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Fortaleza,Brasil,Active,,South America,,-3.73,-38.522
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Lima,Perú,Active,,South America,,-12.062,-77.037
+Fastly,Point of Presence,https://www.fastly.com/network-map/,São Paulo,Brasil,Active,,South America,,-23.551,-46.633
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Santiago,Costa Rica,Active,,South America,,9.869,-83.798
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Rio de Janeiro,Brasil,Active,,South America,,-22.911,-43.209
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Amsterdam,Nederland,Active,,Europe,,52.373,4.892
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Copenhagen,Danmark,Active,,Europe,,55.687,12.57
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Brussels,België / Belgique / Belgien,Active,,Europe,,50.847,4.352
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Dublin,Éire / Ireland,Active,,Europe,,53.349,-6.261
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Frankfurt,Deutschland,Active,,Europe,,50.111,8.682
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Helsinki,Suomi / Finland,Active,,Europe,,60.167,24.943
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Lisbon,Portugal,Active,,Europe,,38.708,-9.137
+Fastly,Point of Presence,https://www.fastly.com/network-map/,London,United Kingdom,Active,,Europe,,51.507,-0.128
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Madrid,España,Active,,Europe,,40.417,-3.704
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Manchester,United Kingdom,Active,,Europe,,53.479,-2.245
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Marseille,France,Active,,Europe,,43.296,5.37
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Milan,Italia,Active,,Europe,,45.464,9.19
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Munich,Deutschland,Active,,Europe,,48.137,11.575
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Oslo,Norge,Active,,Europe,,59.913,10.739
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Palermo,Italia,Active,,Europe,,38.111,13.352
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Paris,France,Active,,Europe,,48.853,2.348
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Rome,Italia,Active,,Europe,,41.893,12.483
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Sofia,Madagasikara / Madagascar,Active,,Europe,,-15.254,48.256
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Stockholm,Sverige,Active,,Europe,,59.325,18.071
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Vienna,Österreich,Active,,Europe,,48.208,16.373
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Accra,Ghana,Active,,Africa,,5.557,-0.201
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Cape Town,South Africa,Active,,Africa,,-33.929,18.417
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Johannesburg,South Africa,Active,,Africa,,-26.205,28.05
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Bangkok,ประเทศไทย,Active,,Asia,,13.752,100.494
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Chennai,India,Active,,Asia,,13.084,80.27
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Dubai,الإمارات العربية المتحدة,Active,,Asia,,25.074,55.189
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Fujairah,الإمارات العربية المتحدة,Active,,Asia,,25.124,56.336
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Hong Kong,中国,Active,,Asia,,22.279,114.163
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Hyderabad,India,Active,,Asia,,17.361,78.474
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Kolkata,India,Active,,Asia,,22.573,88.364
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Kuala Lumpur,Malaysia,Active,,Asia,,3.152,101.694
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Manila,Philippines,Active,,Asia,,14.581,120.976
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Mumbai,India,Active,,Asia,,19.079,72.878
+Fastly,Point of Presence,https://www.fastly.com/network-map/,New Delhi,India,Active,,Asia,,28.614,77.209
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Osaka,日本,Active,,Asia,,34.662,135.5
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Seoul,대한민국,Active,,Asia,,37.567,126.978
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Singapore,Singapore,Active,,Asia,,1.357,103.819
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Tokyo,日本,Active,,Asia,,35.684,139.774
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Adelaide,Australia,Active,,Australia & New Zealand,,-34.928,138.6
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Auckland,New Zealand/Aotearoa,Active,,Australia & New Zealand,,-36.852,174.763
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Brisbane,Australia,Active,,Australia & New Zealand,,-27.469,153.023
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Christchurch,New Zealand/Aotearoa,Active,,Australia & New Zealand,,-43.531,172.637
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Melbourne,Australia,Active,,Australia & New Zealand,,-37.814,144.963
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Perth,Australia,Active,,Australia & New Zealand,,-31.956,115.861
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Sydney,Australia,Active,,Australia & New Zealand,,-33.87,151.208
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Wellington,New Zealand/Aotearoa,Active,,Australia & New Zealand,,-41.289,174.777
+Fastly,Point of Presence,https://www.fastly.com/network-map/,Nairobi,Kenya,Planned,,,,-1.283,36.817
