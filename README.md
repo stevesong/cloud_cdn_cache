@@ -7,6 +7,7 @@ With the aim of creating a more comprehensive picture of global cloud and CDN in
 - [Amazon's Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/)
 - [Microsoft's Edge Locations](https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region)
 - [Google's Edge Locations](https://cloud.google.com/vpc/docs/edge-locations)
+- [Fastly PoPs](https://www.fastly.com/network-map/)
 
 For the above, I took the cache locations from the websites and geolocated them. Thus the map is only accurate to city level.
 
