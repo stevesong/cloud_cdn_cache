@@ -1,0 +1,417 @@
+Provider,Service Name,URL,City,Country,Status,Zone Name,Region,Parent Region,Last Update,Latitude,Longitude
+Akamai,core,https://www.akamai.com/why-akamai,Atlanta,United States,existing,,,,2023-07-12,33.751,-84.389
+Akamai,core,https://www.akamai.com/why-akamai,Dallas,United States,existing,,,,2023-07-12,32.777,-96.796
+Akamai,core,https://www.akamai.com/why-akamai,Frankfurt,Germany,existing,,,,2023-07-12,50.109,8.68
+Akamai,core,https://www.akamai.com/why-akamai,Fremont,United States,existing,,,,2023-07-12,37.548,-121.988
+Akamai,core,https://www.akamai.com/why-akamai,London,United Kingdom,existing,,,,2023-07-12,51.508,-0.127
+Akamai,core,https://www.akamai.com/why-akamai,Mumbai,India,existing,,,,2023-07-12,19.08,72.88
+Akamai,core,https://www.akamai.com/why-akamai,Newark,United States,existing,,,,2023-07-12,40.736,-74.172
+Akamai,core,https://www.akamai.com/why-akamai,Singapore,Singapore,existing,,,,2023-07-12,1.355,103.818
+Akamai,core,https://www.akamai.com/why-akamai,Sydney,Australia,existing,,,,2023-07-12,-33.873,151.205
+Akamai,core,https://www.akamai.com/why-akamai,Tokyo,Japan,existing,,,,2023-07-12,35.684,139.774
+Akamai,core,https://www.akamai.com/why-akamai,Toronto,Canada,existing,,,,2023-07-12,43.653,-79.385
+Akamai,core,https://www.akamai.com/why-akamai,Amsterdam,Netherlands,planned,,,,2023-07-12,52.37,4.89
+Akamai,core,https://www.akamai.com/why-akamai,Chicago,United States,planned,,,,2023-07-12,41.878,-87.622
+Akamai,core,https://www.akamai.com/why-akamai,Los Angeles,United States,planned,,,,2023-07-12,34.057,-118.24
+Akamai,core,https://www.akamai.com/why-akamai,Osaka,Japan,planned,,,,2023-07-12,34.665,135.503
+Akamai,core,https://www.akamai.com/why-akamai,Paris,France,planned,,,,2023-07-12,48.854,2.349
+Akamai,core,https://www.akamai.com/why-akamai,Stockholm,Sweden,planned,,,,2023-07-12,59.323,18.069
+Akamai,core,https://www.akamai.com/why-akamai,Miami,United States,planned,,,,2023-07-12,25.774,-80.193
+Akamai,core,https://www.akamai.com/why-akamai,Sao Paulo,Brazil,planned,,,,2023-07-12,-23.553,-46.636
+Akamai,core,https://www.akamai.com/why-akamai,Seattle,United States,planned,,,,2023-07-12,47.602,-122.332
+Akamai,core,https://www.akamai.com/why-akamai,Chennai,India,planned,,,,2023-07-12,13.084,80.27
+Akamai,core,https://www.akamai.com/why-akamai,Jakarta,Indonesia,planned,,,,2023-07-12,-6.173,106.829
+Akamai,core,https://www.akamai.com/why-akamai,Milan,Italy,planned,,,,2023-07-12,45.466,9.192
+Akamai,core,https://www.akamai.com/why-akamai,Washington DC,United States,planned,,,,2023-07-12,38.894,-77.038
+Akamai,core,https://www.akamai.com/why-akamai,Seoul,South Korea,planned,,,,2023-07-12,37.564,126.976
+Akamai,core,https://www.akamai.com/why-akamai,Madrid,Spain,planned,,,,2023-07-12,40.416,-3.704
+Akamai,core,https://www.akamai.com/why-akamai,Auckland,New Zealand,planned,,,,2023-07-12,-36.849,174.766
+Akamai,distributed,https://www.akamai.com/why-akamai,Bogota,Colombia,planned,,,,2023-07-12,4.653,-74.084
+Akamai,distributed,https://www.akamai.com/why-akamai,Boston,United States,planned,,,,2023-07-12,42.351,-71.065
+Akamai,distributed,https://www.akamai.com/why-akamai,Buenos Aires,Argentina,planned,,,,2023-07-12,-34.611,-58.441
+Akamai,distributed,https://www.akamai.com/why-akamai,Denver,United States,planned,,,,2023-07-12,39.736,-104.988
+Akamai,distributed,https://www.akamai.com/why-akamai,Detroit,United States,planned,,,,2023-07-12,42.334,-83.044
+Akamai,distributed,https://www.akamai.com/why-akamai,Houston,United States,planned,,,,2023-07-12,29.757,-95.37
+Akamai,distributed,https://www.akamai.com/why-akamai,Las Vegas,United States,planned,,,,2023-07-12,36.168,-115.148
+Akamai,distributed,https://www.akamai.com/why-akamai,Mexico City,Mexico,planned,,,,2023-07-12,19.435,-99.131
+Akamai,distributed,https://www.akamai.com/why-akamai,Minneapolis,United States,planned,,,,2023-07-12,44.976,-93.267
+Akamai,distributed,https://www.akamai.com/why-akamai,Phoenix,United States,planned,,,,2023-07-12,33.451,-112.071
+Akamai,distributed,https://www.akamai.com/why-akamai,Rio de Janeiro,Brazil,planned,,,,2023-07-12,-22.908,-43.207
+Akamai,distributed,https://www.akamai.com/why-akamai,Santiago,Chile,planned,,,,2023-07-12,-33.439,-70.652
+Akamai,distributed,https://www.akamai.com/why-akamai,Athens,Greece,planned,,,,2023-07-12,37.976,23.735
+Akamai,distributed,https://www.akamai.com/why-akamai,Baghdad,Iraq,planned,,,,2023-07-12,33.31,44.391
+Akamai,distributed,https://www.akamai.com/why-akamai,Barcelona,Spain,planned,,,,2023-07-12,41.382,2.176
+Akamai,distributed,https://www.akamai.com/why-akamai,Brussels,Belgium,planned,,,,2023-07-12,50.843,4.349
+Akamai,distributed,https://www.akamai.com/why-akamai,Berlin,Germany,planned,,,,2023-07-12,52.514,13.386
+Akamai,distributed,https://www.akamai.com/why-akamai,Copenhagen,Denmark,planned,,,,2023-07-12,55.685,12.568
+Akamai,distributed,https://www.akamai.com/why-akamai,Delhi,India,planned,,,,2023-07-12,28.625,77.169
+Akamai,distributed,https://www.akamai.com/why-akamai,Dublin,Ireland,planned,,,,2023-07-12,53.348,-6.262
+Akamai,distributed,https://www.akamai.com/why-akamai,Dusseldorf,Germany,planned,,,,2023-07-12,51.229,6.78
+Akamai,distributed,https://www.akamai.com/why-akamai,Hamburg,Germany,planned,,,,2023-07-12,53.554,10.004
+Akamai,distributed,https://www.akamai.com/why-akamai,Helsinki,Finland,planned,,,,2023-07-12,60.165,24.941
+Akamai,distributed,https://www.akamai.com/why-akamai,Istanbul,Turkey,planned,,,,2023-07-12,41.008,28.965
+Akamai,distributed,https://www.akamai.com/why-akamai,Lisbon,Portugal,planned,,,,2023-07-12,38.709,-9.135
+Akamai,distributed,https://www.akamai.com/why-akamai,Madrid,Spain,planned,,,,2023-07-12,40.417,-3.703
+Akamai,distributed,https://www.akamai.com/why-akamai,Marseille,France,planned,,,,2023-07-12,43.295,5.369
+Akamai,distributed,https://www.akamai.com/why-akamai,Munich,Germany,planned,,,,2023-07-12,48.133,11.572
+Akamai,distributed,https://www.akamai.com/why-akamai,Oslo,Norway,planned,,,,2023-07-12,59.913,10.739
+Akamai,distributed,https://www.akamai.com/why-akamai,Rome,Italy,planned,,,,2023-07-12,41.891,12.481
+Akamai,distributed,https://www.akamai.com/why-akamai,Vienna,Austria,planned,,,,2023-07-12,48.21,16.374
+Akamai,distributed,https://www.akamai.com/why-akamai,Warsaw,Poland,planned,,,,2023-07-12,52.228,21.003
+Akamai,distributed,https://www.akamai.com/why-akamai,Zurich,Switzerland,planned,,,,2023-07-12,47.376,8.542
+Akamai,distributed,https://www.akamai.com/why-akamai,Adelaide,Australia,planned,,,,2023-07-12,-34.928,138.6
+Akamai,distributed,https://www.akamai.com/why-akamai,Auckland,New Zealand,planned,,,,2023-07-12,-36.851,174.764
+Akamai,distributed,https://www.akamai.com/why-akamai,Bangalore,India,planned,,,,2023-07-12,12.972,77.586
+Akamai,distributed,https://www.akamai.com/why-akamai,Brisbane,Australia,planned,,,,2023-07-12,-27.467,153.025
+Akamai,distributed,https://www.akamai.com/why-akamai,Calcutta,India,planned,,,,2023-07-12,22.571,88.362
+Akamai,distributed,https://www.akamai.com/why-akamai,Hong Kong,China,planned,,,,2023-07-12,22.278,114.161
+Akamai,distributed,https://www.akamai.com/why-akamai,Johannesburg,South Africa,planned,,,,2023-07-12,-26.209,28.046
+Akamai,distributed,https://www.akamai.com/why-akamai,Kuala Lumpur,Malaysia,planned,,,,2023-07-12,3.151,101.694
+Akamai,distributed,https://www.akamai.com/why-akamai,Manila,Philippines,planned,,,,2023-07-12,14.583,120.978
+Akamai,distributed,https://www.akamai.com/why-akamai,Melbourne,Australia,planned,,,,2023-07-12,-37.81,144.967
+Akamai,distributed,https://www.akamai.com/why-akamai,Perth,Australia,planned,,,,2023-07-12,-31.956,115.861
+Akamai,distributed,https://www.akamai.com/why-akamai,Taipei,Taiwan,planned,,,,2023-07-12,25.039,121.565
+Akamai,edge,https://www.akamai.com/why-akamai,A Coruna,Spain,existing,,,,2023-07-12,43.371,-8.395
+Akamai,edge,https://www.akamai.com/why-akamai,Aarhus,Denmark,existing,,,,2023-07-12,56.148,10.212
+Akamai,edge,https://www.akamai.com/why-akamai,Abu Dhabi,United Arab Emirates,existing,,,,2023-07-12,24.456,54.379
+Akamai,edge,https://www.akamai.com/why-akamai,Accra,Ghana,existing,,,,2023-07-12,5.557,-0.201
+Akamai,edge,https://www.akamai.com/why-akamai,Adelaide,Australia,existing,,,,2023-07-12,-34.924,138.604
+Akamai,edge,https://www.akamai.com/why-akamai,Agartala,India,existing,,,,2023-07-12,23.828,91.279
+Akamai,edge,https://www.akamai.com/why-akamai,Agra,India,existing,,,,2023-07-12,27.174,78.008
+Akamai,edge,https://www.akamai.com/why-akamai,Ahmedabad,India,existing,,,,2023-07-12,23.017,72.575
+Akamai,edge,https://www.akamai.com/why-akamai,Albuquerque,United States,existing,,,,2023-07-12,35.083,-106.653
+Akamai,edge,https://www.akamai.com/why-akamai,Alexandria,Egypt,existing,,,,2023-07-12,31.201,29.897
+Akamai,edge,https://www.akamai.com/why-akamai,Amman,Jordan,existing,,,,2023-07-12,31.952,35.924
+Akamai,edge,https://www.akamai.com/why-akamai,Amsterdam,Netherlands,existing,,,,2023-07-12,52.369,4.888
+Akamai,edge,https://www.akamai.com/why-akamai,Anchorage,United States,existing,,,,2023-07-12,61.219,-149.892
+Akamai,edge,https://www.akamai.com/why-akamai,Ankara,Turkey,existing,,,,2023-07-12,39.921,32.854
+Akamai,edge,https://www.akamai.com/why-akamai,Antananarivo,Madagascar,existing,,,,2023-07-12,-18.783,46.708
+Akamai,edge,https://www.akamai.com/why-akamai,Astana,Kazakhstan,existing,,,,2023-07-12,51.13,71.432
+Akamai,edge,https://www.akamai.com/why-akamai,Asuncion,Paraguay,existing,,,,2023-07-12,-25.277,-57.631
+Akamai,edge,https://www.akamai.com/why-akamai,Athens,Greece,existing,,,,2023-07-12,37.978,23.737
+Akamai,edge,https://www.akamai.com/why-akamai,Atlanta,United States,existing,,,,2023-07-12,33.746,-84.393
+Akamai,edge,https://www.akamai.com/why-akamai,Auckland,New Zealand,existing,,,,2023-07-12,-36.85,174.766
+Akamai,edge,https://www.akamai.com/why-akamai,Austin,United States,existing,,,,2023-07-12,30.275,-97.739
+Akamai,edge,https://www.akamai.com/why-akamai,Baghdad,Iraq,existing,,,,2023-07-12,33.304,44.385
+Akamai,edge,https://www.akamai.com/why-akamai,Baku,Azerbaijan,existing,,,,2023-07-12,40.378,49.836
+Akamai,edge,https://www.akamai.com/why-akamai,Bandung,Indonesia,existing,,,,2023-07-12,-6.921,107.611
+Akamai,edge,https://www.akamai.com/why-akamai,Bangalore,India,existing,,,,2023-07-12,12.981,77.594
+Akamai,edge,https://www.akamai.com/why-akamai,Bangkok,Thailand,existing,,,,2023-07-12,13.749,100.49
+Akamai,edge,https://www.akamai.com/why-akamai,Banjarmasin,Indonesia,existing,,,,2023-07-12,-3.318,114.593
+Akamai,edge,https://www.akamai.com/why-akamai,Barcelona,Spain,existing,,,,2023-07-12,41.387,2.181
+Akamai,edge,https://www.akamai.com/why-akamai,Barranquilla,Colombia,existing,,,,2023-07-12,10.994,-74.793
+Akamai,edge,https://www.akamai.com/why-akamai,Basse-Terre,Guadeloupe,existing,,,,2023-07-12,15.998,-61.736
+Akamai,edge,https://www.akamai.com/why-akamai,Batam,Indonesia,existing,,,,2023-07-12,1.1,104.035
+Akamai,edge,https://www.akamai.com/why-akamai,Beijing,China,existing,,,,2023-07-12,39.908,116.394
+Akamai,edge,https://www.akamai.com/why-akamai,Beirut,Lebanon,existing,,,,2023-07-12,33.886,35.5
+Akamai,edge,https://www.akamai.com/why-akamai,Belem,Brazil,existing,,,,2023-07-12,-1.447,-48.464
+Akamai,edge,https://www.akamai.com/why-akamai,Belgrade,Serbia,existing,,,,2023-07-12,44.814,20.453
+Akamai,edge,https://www.akamai.com/why-akamai,Belmopan,Belize,existing,,,,2023-07-12,17.249,-88.771
+Akamai,edge,https://www.akamai.com/why-akamai,Belo Horizonte,Brazil,existing,,,,2023-07-12,-19.92,-43.943
+Akamai,edge,https://www.akamai.com/why-akamai,Berlin,Germany,existing,,,,2023-07-12,52.516,13.388
+Akamai,edge,https://www.akamai.com/why-akamai,Bern,Switzerland,existing,,,,2023-07-12,46.951,7.455
+Akamai,edge,https://www.akamai.com/why-akamai,Bilbao,Spain,existing,,,,2023-07-12,43.266,-2.932
+Akamai,edge,https://www.akamai.com/why-akamai,Birmingham,United Kingdom,existing,,,,2023-07-12,52.477,-1.906
+Akamai,edge,https://www.akamai.com/why-akamai,Bishkek,Kyrgyzstan,existing,,,,2023-07-12,42.879,74.608
+Akamai,edge,https://www.akamai.com/why-akamai,Bogota,Colombia,existing,,,,2023-07-12,4.651,-74.086
+Akamai,edge,https://www.akamai.com/why-akamai,Boston,United States,existing,,,,2023-07-12,42.357,-71.059
+Akamai,edge,https://www.akamai.com/why-akamai,Brasilia,Brazil,existing,,,,2023-07-12,-10.336,-53.203
+Akamai,edge,https://www.akamai.com/why-akamai,Bratislava,Slovakia,existing,,,,2023-07-12,48.154,17.112
+Akamai,edge,https://www.akamai.com/why-akamai,Bridgetown,Barbados,existing,,,,2023-07-12,13.096,-59.62
+Akamai,edge,https://www.akamai.com/why-akamai,Brisbane,Australia,existing,,,,2023-07-12,-27.471,153.022
+Akamai,edge,https://www.akamai.com/why-akamai,Bristol,United Kingdom,existing,,,,2023-07-12,51.454,-2.598
+Akamai,edge,https://www.akamai.com/why-akamai,Brunei,Brunei,existing,,,,2023-07-12,4.413,114.564
+Akamai,edge,https://www.akamai.com/why-akamai,Brussels,Belgium,existing,,,,2023-07-12,50.845,4.35
+Akamai,edge,https://www.akamai.com/why-akamai,Bucharest,Romania,existing,,,,2023-07-12,44.436,26.102
+Akamai,edge,https://www.akamai.com/why-akamai,Budapest,Hungary,existing,,,,2023-07-12,47.499,19.042
+Akamai,edge,https://www.akamai.com/why-akamai,Buenos Aires,Argentina,existing,,,,2023-07-12,-34.611,-58.441
+Akamai,edge,https://www.akamai.com/why-akamai,Bujumbura,Burundi,existing,,,,2023-07-12,-3.364,29.367
+Akamai,edge,https://www.akamai.com/why-akamai,Cagayan de Oro,Philippines,existing,,,,2023-07-12,8.477,124.643
+Akamai,edge,https://www.akamai.com/why-akamai,Cairo,Egypt,existing,,,,2023-07-12,30.047,31.239
+Akamai,edge,https://www.akamai.com/why-akamai,Calcutta,India,existing,,,,2023-07-12,22.572,88.364
+Akamai,edge,https://www.akamai.com/why-akamai,Calgary,Canada,existing,,,,2023-07-12,51.045,-114.058
+Akamai,edge,https://www.akamai.com/why-akamai,Cali,Colombia,existing,,,,2023-07-12,3.451,-76.534
+Akamai,edge,https://www.akamai.com/why-akamai,Campinas,Brazil,existing,,,,2023-07-12,-22.904,-47.058
+Akamai,edge,https://www.akamai.com/why-akamai,Canberra,Australia,existing,,,,2023-07-12,-35.299,149.1
+Akamai,edge,https://www.akamai.com/why-akamai,Cancun,Mexico,existing,,,,2023-07-12,21.162,-86.851
+Akamai,edge,https://www.akamai.com/why-akamai,Cape Town,South Africa,existing,,,,2023-07-12,-33.933,18.413
+Akamai,edge,https://www.akamai.com/why-akamai,Caracas,Venezuela,existing,,,,2023-07-12,10.508,-66.913
+Akamai,edge,https://www.akamai.com/why-akamai,Casablanca,Morocco,existing,,,,2023-07-12,33.595,-7.62
+Akamai,edge,https://www.akamai.com/why-akamai,Castries,Saint Lucia,existing,,,,2023-07-12,13.913,-60.974
+Akamai,edge,https://www.akamai.com/why-akamai,Cayenne,French Guiana,existing,,,,2023-07-12,4.934,-52.329
+Akamai,edge,https://www.akamai.com/why-akamai,Cebu,Philippines,existing,,,,2023-07-12,10.289,123.898
+Akamai,edge,https://www.akamai.com/why-akamai,Chandigarh,India,existing,,,,2023-07-12,30.73,76.785
+Akamai,edge,https://www.akamai.com/why-akamai,Charlotte,United States,existing,,,,2023-07-12,35.23,-80.841
+Akamai,edge,https://www.akamai.com/why-akamai,Chelyabinsk,Russia,existing,,,,2023-07-12,55.157,61.399
+Akamai,edge,https://www.akamai.com/why-akamai,Chengdu,China,existing,,,,2023-07-12,30.662,104.065
+Akamai,edge,https://www.akamai.com/why-akamai,Chennai,India,existing,,,,2023-07-12,13.086,80.273
+Akamai,edge,https://www.akamai.com/why-akamai,Chicago,United States,existing,,,,2023-07-12,41.874,-87.626
+Akamai,edge,https://www.akamai.com/why-akamai,Chisinau,Moldova,existing,,,,2023-07-12,47.026,28.834
+Akamai,edge,https://www.akamai.com/why-akamai,Christchurch,New Zealand,existing,,,,2023-07-12,-43.531,172.637
+Akamai,edge,https://www.akamai.com/why-akamai,Cincinnati,United States,existing,,,,2023-07-12,39.106,-84.508
+Akamai,edge,https://www.akamai.com/why-akamai,Cleveland,United States,existing,,,,2023-07-12,41.504,-81.689
+Akamai,edge,https://www.akamai.com/why-akamai,Coimbatore,India,existing,,,,2023-07-12,11.004,76.965
+Akamai,edge,https://www.akamai.com/why-akamai,Colombo,Sri Lanka,existing,,,,2023-07-12,6.94,79.855
+Akamai,edge,https://www.akamai.com/why-akamai,Columbus,United States,existing,,,,2023-07-12,39.961,-83.002
+Akamai,edge,https://www.akamai.com/why-akamai,Conakry,Guinea,existing,,,,2023-07-12,9.513,-13.704
+Akamai,edge,https://www.akamai.com/why-akamai,Copenhagen,Denmark,existing,,,,2023-07-12,55.685,12.568
+Akamai,edge,https://www.akamai.com/why-akamai,Cuiaba,Brazil,existing,,,,2023-07-12,-15.597,-56.098
+Akamai,edge,https://www.akamai.com/why-akamai,Curitiba,Brazil,existing,,,,2023-07-12,-25.428,-49.27
+Akamai,edge,https://www.akamai.com/why-akamai,Daejeon,South Korea,existing,,,,2023-07-12,36.346,127.382
+Akamai,edge,https://www.akamai.com/why-akamai,Dakar,Senegal,existing,,,,2023-07-12,14.69,-17.452
+Akamai,edge,https://www.akamai.com/why-akamai,Dallas,United States,existing,,,,2023-07-12,32.777,-96.796
+Akamai,edge,https://www.akamai.com/why-akamai,Dammam,Saudi Arabia,existing,,,,2023-07-12,26.438,50.106
+Akamai,edge,https://www.akamai.com/why-akamai,Dar es Salaam,Tanzania,existing,,,,2023-07-12,-6.819,39.277
+Akamai,edge,https://www.akamai.com/why-akamai,Delhi,India,existing,,,,2023-07-12,28.625,77.169
+Akamai,edge,https://www.akamai.com/why-akamai,Denver,United States,existing,,,,2023-07-12,39.742,-104.983
+Akamai,edge,https://www.akamai.com/why-akamai,Detroit,United States,existing,,,,2023-07-12,42.335,-83.043
+Akamai,edge,https://www.akamai.com/why-akamai,Dhaka,Bangladesh,existing,,,,2023-07-12,23.761,90.385
+Akamai,edge,https://www.akamai.com/why-akamai,Doha,Qatar,existing,,,,2023-07-12,25.283,51.524
+Akamai,edge,https://www.akamai.com/why-akamai,Douglas,Isle of Man,existing,,,,2023-07-12,54.146,-4.481
+Akamai,edge,https://www.akamai.com/why-akamai,Dubai,United Arab Emirates,existing,,,,2023-07-12,25.07,55.184
+Akamai,edge,https://www.akamai.com/why-akamai,Dublin,Ireland,existing,,,,2023-07-12,53.349,-6.261
+Akamai,edge,https://www.akamai.com/why-akamai,Dusseldorf,Germany,existing,,,,2023-07-12,51.226,6.777
+Akamai,edge,https://www.akamai.com/why-akamai,Edinburgh,United Kingdom,existing,,,,2023-07-12,55.952,-3.19
+Akamai,edge,https://www.akamai.com/why-akamai,Edmonton,Canada,existing,,,,2023-07-12,53.549,-113.489
+Akamai,edge,https://www.akamai.com/why-akamai,Florence,Italy,existing,,,,2023-07-12,43.769,11.255
+Akamai,edge,https://www.akamai.com/why-akamai,Fort-de-France,Martinique,existing,,,,2023-07-12,14.599,-61.072
+Akamai,edge,https://www.akamai.com/why-akamai,Fortaleza,Brazil,existing,,,,2023-07-12,-3.729,-38.52
+Akamai,edge,https://www.akamai.com/why-akamai,Frankfurt,Germany,existing,,,,2023-07-12,50.113,8.684
+Akamai,edge,https://www.akamai.com/why-akamai,Fukuoka,Japan,existing,,,,2023-07-12,33.629,130.622
+Akamai,edge,https://www.akamai.com/why-akamai,Gaborone,Botswana,existing,,,,2023-07-12,-24.657,25.91
+Akamai,edge,https://www.akamai.com/why-akamai,Gibraltar,Gibraltar,existing,,,,2023-07-12,36.127,-5.349
+Akamai,edge,https://www.akamai.com/why-akamai,Glasgow,United Kingdom,existing,,,,2023-07-12,55.86,-4.251
+Akamai,edge,https://www.akamai.com/why-akamai,Goiania,Brazil,existing,,,,2023-07-12,-16.679,-49.251
+Akamai,edge,https://www.akamai.com/why-akamai,Guadalajara,Mexico,existing,,,,2023-07-12,20.675,-103.335
+Akamai,edge,https://www.akamai.com/why-akamai,Guangzhou,China,existing,,,,2023-07-12,23.133,113.262
+Akamai,edge,https://www.akamai.com/why-akamai,Guatemala City,Guatemala,existing,,,,2023-07-12,14.626,-90.514
+Akamai,edge,https://www.akamai.com/why-akamai,Guayaquil,Ecuador,existing,,,,2023-07-12,-2.172,-79.907
+Akamai,edge,https://www.akamai.com/why-akamai,Hagatna,Guam,existing,,,,2023-07-12,13.475,144.755
+Akamai,edge,https://www.akamai.com/why-akamai,Halifax,Canada,existing,,,,2023-07-12,44.649,-63.586
+Akamai,edge,https://www.akamai.com/why-akamai,Hamburg,Germany,existing,,,,2023-07-12,53.548,9.999
+Akamai,edge,https://www.akamai.com/why-akamai,Hangzhou,China,existing,,,,2023-07-12,30.253,120.209
+Akamai,edge,https://www.akamai.com/why-akamai,Hanoi,Vietnam,existing,,,,2023-07-12,21.033,105.858
+Akamai,edge,https://www.akamai.com/why-akamai,Helsinki,Finland,existing,,,,2023-07-12,60.17,24.945
+Akamai,edge,https://www.akamai.com/why-akamai,Hermosillo,Mexico,existing,,,,2023-07-12,29.096,-110.968
+Akamai,edge,https://www.akamai.com/why-akamai,Ho Chi Minh City,Vietnam,existing,,,,2023-07-12,10.78,106.704
+Akamai,edge,https://www.akamai.com/why-akamai,Hong Kong,China,existing,,,,2023-07-12,22.279,114.163
+Akamai,edge,https://www.akamai.com/why-akamai,Honolulu,United States,existing,,,,2023-07-12,21.303,-157.857
+Akamai,edge,https://www.akamai.com/why-akamai,Houston,United States,existing,,,,2023-07-12,29.761,-95.365
+Akamai,edge,https://www.akamai.com/why-akamai,Hull,United Kingdom,existing,,,,2023-07-12,53.741,-0.342
+Akamai,edge,https://www.akamai.com/why-akamai,Hyderabad,India,existing,,,,2023-07-12,17.36,78.474
+Akamai,edge,https://www.akamai.com/why-akamai,Indianapolis,United States,existing,,,,2023-07-12,39.769,-86.158
+Akamai,edge,https://www.akamai.com/why-akamai,Indore,India,existing,,,,2023-07-12,22.719,75.867
+Akamai,edge,https://www.akamai.com/why-akamai,Islamabad,Pakistan,existing,,,,2023-07-12,33.698,73.069
+Akamai,edge,https://www.akamai.com/why-akamai,Istanbul,Turkey,existing,,,,2023-07-12,41.013,28.97
+Akamai,edge,https://www.akamai.com/why-akamai,Izmir,Turkey,existing,,,,2023-07-12,38.42,27.128
+Akamai,edge,https://www.akamai.com/why-akamai,Jackson,United States,existing,,,,2023-07-12,32.305,-90.202
+Akamai,edge,https://www.akamai.com/why-akamai,Jacksonville,United States,existing,,,,2023-07-12,30.329,-81.659
+Akamai,edge,https://www.akamai.com/why-akamai,Jaipur,India,existing,,,,2023-07-12,26.917,75.82
+Akamai,edge,https://www.akamai.com/why-akamai,Jakarta,Indonesia,existing,,,,2023-07-12,-6.178,106.824
+Akamai,edge,https://www.akamai.com/why-akamai,Jeddah,Saudi Arabia,existing,,,,2023-07-12,21.58,39.165
+Akamai,edge,https://www.akamai.com/why-akamai,Jinan,China,existing,,,,2023-07-12,36.649,117.112
+Akamai,edge,https://www.akamai.com/why-akamai,Jingdezhen,China,existing,,,,2023-07-12,29.273,117.175
+Akamai,edge,https://www.akamai.com/why-akamai,Johannesburg,South Africa,existing,,,,2023-07-12,-26.208,28.047
+Akamai,edge,https://www.akamai.com/why-akamai,Johor Bahru,Malaysia,existing,,,,2023-07-12,1.502,103.748
+Akamai,edge,https://www.akamai.com/why-akamai,Kampala,Uganda,existing,,,,2023-07-12,0.318,32.582
+Akamai,edge,https://www.akamai.com/why-akamai,Kanazawa,Japan,existing,,,,2023-07-12,36.577,136.647
+Akamai,edge,https://www.akamai.com/why-akamai,Kansas City,United States,existing,,,,2023-07-12,39.099,-94.579
+Akamai,edge,https://www.akamai.com/why-akamai,Karachi,Pakistan,existing,,,,2023-07-12,24.851,67.017
+Akamai,edge,https://www.akamai.com/why-akamai,Kathmandu,Nepal,existing,,,,2023-07-12,27.707,85.32
+Akamai,edge,https://www.akamai.com/why-akamai,Katowice,Poland,existing,,,,2023-07-12,50.256,19.018
+Akamai,edge,https://www.akamai.com/why-akamai,Kiev,Ukraine,existing,,,,2023-07-12,50.446,30.52
+Akamai,edge,https://www.akamai.com/why-akamai,Kigali,Rwanda,existing,,,,2023-07-12,-1.954,30.059
+Akamai,edge,https://www.akamai.com/why-akamai,Kingston,Jamaica,existing,,,,2023-07-12,17.969,-76.795
+Akamai,edge,https://www.akamai.com/why-akamai,Kuala Lumpur,Malaysia,existing,,,,2023-07-12,3.15,101.692
+Akamai,edge,https://www.akamai.com/why-akamai,Kuwait,Kuwait,existing,,,,2023-07-12,29.271,47.496
+Akamai,edge,https://www.akamai.com/why-akamai,La Paz,Bolivia,existing,,,,2023-07-12,-16.498,-68.136
+Akamai,edge,https://www.akamai.com/why-akamai,Lagos,Nigeria,existing,,,,2023-07-12,6.455,3.394
+Akamai,edge,https://www.akamai.com/why-akamai,Lahore,Pakistan,existing,,,,2023-07-12,31.567,74.315
+Akamai,edge,https://www.akamai.com/why-akamai,Las Vegas,United States,existing,,,,2023-07-12,36.164,-115.152
+Akamai,edge,https://www.akamai.com/why-akamai,Leeds,United Kingdom,existing,,,,2023-07-12,53.794,-1.547
+Akamai,edge,https://www.akamai.com/why-akamai,Leicester,United Kingdom,existing,,,,2023-07-12,52.639,-1.13
+Akamai,edge,https://www.akamai.com/why-akamai,Lexington,United States,existing,,,,2023-07-12,38.049,-84.494
+Akamai,edge,https://www.akamai.com/why-akamai,Lilongwe,Malawi,existing,,,,2023-07-12,-13.987,33.769
+Akamai,edge,https://www.akamai.com/why-akamai,Lima,Peru,existing,,,,2023-07-12,-12.059,-77.034
+Akamai,edge,https://www.akamai.com/why-akamai,Lisbon,Portugal,existing,,,,2023-07-12,38.71,-9.134
+Akamai,edge,https://www.akamai.com/why-akamai,Liverpool,United Kingdom,existing,,,,2023-07-12,53.405,-2.994
+Akamai,edge,https://www.akamai.com/why-akamai,Ljubljana,Slovenia,existing,,,,2023-07-12,46.05,14.507
+Akamai,edge,https://www.akamai.com/why-akamai,Lome,Togo,existing,,,,2023-07-12,6.131,1.217
+Akamai,edge,https://www.akamai.com/why-akamai,London,United Kingdom,existing,,,,2023-07-12,51.509,-0.126
+Akamai,edge,https://www.akamai.com/why-akamai,Los Angeles,United States,existing,,,,2023-07-12,34.057,-118.24
+Akamai,edge,https://www.akamai.com/why-akamai,Luanda,Angola,existing,,,,2023-07-12,-8.827,13.244
+Akamai,edge,https://www.akamai.com/why-akamai,Lucknow,India,existing,,,,2023-07-12,26.836,80.933
+Akamai,edge,https://www.akamai.com/why-akamai,Ludhiana,India,existing,,,,2023-07-12,30.907,75.85
+Akamai,edge,https://www.akamai.com/why-akamai,Lusaka,Zambia,existing,,,,2023-07-12,-15.412,28.286
+Akamai,edge,https://www.akamai.com/why-akamai,Luxembourg,Luxembourg,existing,,,,2023-07-12,49.611,6.13
+Akamai,edge,https://www.akamai.com/why-akamai,Macao,Macau,existing,,,,2023-07-12,22.194,113.542
+Akamai,edge,https://www.akamai.com/why-akamai,Madison,United States,existing,,,,2023-07-12,43.075,-89.383
+Akamai,edge,https://www.akamai.com/why-akamai,Madrid,Spain,existing,,,,2023-07-12,40.421,-3.699
+Akamai,edge,https://www.akamai.com/why-akamai,Makassar,Indonesia,existing,,,,2023-07-12,-5.134,119.413
+Akamai,edge,https://www.akamai.com/why-akamai,Male,Maldives,existing,,,,2023-07-12,4.178,73.511
+Akamai,edge,https://www.akamai.com/why-akamai,Malmoe,Sweden,existing,,,,2023-07-12,55.608,13.002
+Akamai,edge,https://www.akamai.com/why-akamai,Managua,Nicaragua,existing,,,,2023-07-12,12.153,-86.275
+Akamai,edge,https://www.akamai.com/why-akamai,Manama,Bahrain,existing,,,,2023-07-12,26.224,50.583
+Akamai,edge,https://www.akamai.com/why-akamai,Manchester,United Kingdom,existing,,,,2023-07-12,53.479,-2.245
+Akamai,edge,https://www.akamai.com/why-akamai,Mandalay,Myanmar,existing,,,,2023-07-12,21.982,96.084
+Akamai,edge,https://www.akamai.com/why-akamai,Manila,Philippines,existing,,,,2023-07-12,14.578,120.973
+Akamai,edge,https://www.akamai.com/why-akamai,Maputo,Mozambique,existing,,,,2023-07-12,-25.967,32.567
+Akamai,edge,https://www.akamai.com/why-akamai,Marseille,France,existing,,,,2023-07-12,43.293,5.367
+Akamai,edge,https://www.akamai.com/why-akamai,Maseru,Lesotho,existing,,,,2023-07-12,-29.58,27.826
+Akamai,edge,https://www.akamai.com/why-akamai,Mazatlan,Mexico,existing,,,,2023-07-12,23.228,-106.419
+Akamai,edge,https://www.akamai.com/why-akamai,Medellin,Colombia,existing,,,,2023-07-12,6.247,-75.57
+Akamai,edge,https://www.akamai.com/why-akamai,Melbourne,Australia,existing,,,,2023-07-12,-37.811,144.966
+Akamai,edge,https://www.akamai.com/why-akamai,Memphis,United States,existing,,,,2023-07-12,35.142,-90.056
+Akamai,edge,https://www.akamai.com/why-akamai,Mexico City,Mexico,existing,,,,2023-07-12,19.43,-99.135
+Akamai,edge,https://www.akamai.com/why-akamai,Miami,United States,existing,,,,2023-07-12,25.778,-80.19
+Akamai,edge,https://www.akamai.com/why-akamai,Milan,Italy,existing,,,,2023-07-12,45.465,9.19
+Akamai,edge,https://www.akamai.com/why-akamai,Milwaukee,United States,existing,,,,2023-07-12,43.034,-87.924
+Akamai,edge,https://www.akamai.com/why-akamai,Minneapolis,United States,existing,,,,2023-07-12,44.975,-93.268
+Akamai,edge,https://www.akamai.com/why-akamai,Minsk,Belarus,existing,,,,2023-07-12,53.906,27.565
+Akamai,edge,https://www.akamai.com/why-akamai,Monaco,Monaco,existing,,,,2023-07-12,43.735,7.431
+Akamai,edge,https://www.akamai.com/why-akamai,Monterrey,Mexico,existing,,,,2023-07-12,25.679,-100.316
+Akamai,edge,https://www.akamai.com/why-akamai,Montevideo,Uruguay,existing,,,,2023-07-12,-34.908,-56.193
+Akamai,edge,https://www.akamai.com/why-akamai,Montreal,Canada,existing,,,,2023-07-12,45.503,-73.57
+Akamai,edge,https://www.akamai.com/why-akamai,Moscow,Russia,existing,,,,2023-07-12,55.753,37.62
+Akamai,edge,https://www.akamai.com/why-akamai,Mumbai,India,existing,,,,2023-07-12,19.074,72.874
+Akamai,edge,https://www.akamai.com/why-akamai,Munich,Germany,existing,,,,2023-07-12,48.136,11.574
+Akamai,edge,https://www.akamai.com/why-akamai,Muscat,Oman,existing,,,,2023-07-12,23.591,58.385
+Akamai,edge,https://www.akamai.com/why-akamai,Nagano,Japan,existing,,,,2023-07-12,36.118,138.035
+Akamai,edge,https://www.akamai.com/why-akamai,Nagoya,Japan,existing,,,,2023-07-12,35.189,136.904
+Akamai,edge,https://www.akamai.com/why-akamai,Nagpur,India,existing,,,,2023-07-12,21.147,79.079
+Akamai,edge,https://www.akamai.com/why-akamai,Nairobi,Kenya,existing,,,,2023-07-12,-1.287,36.814
+Akamai,edge,https://www.akamai.com/why-akamai,Nashville,United States,existing,,,,2023-07-12,36.164,-86.772
+Akamai,edge,https://www.akamai.com/why-akamai,Nassau,Bahamas,existing,,,,2023-07-12,25.074,-77.342
+Akamai,edge,https://www.akamai.com/why-akamai,New Orleans,United States,existing,,,,2023-07-12,29.975,-90.079
+Akamai,edge,https://www.akamai.com/why-akamai,New York,United States,existing,,,,2023-07-12,40.711,-74.008
+Akamai,edge,https://www.akamai.com/why-akamai,Nicosia,Cyprus,existing,,,,2023-07-12,35.177,33.366
+Akamai,edge,https://www.akamai.com/why-akamai,Ningbo,China,existing,,,,2023-07-12,29.862,121.62
+Akamai,edge,https://www.akamai.com/why-akamai,Nizhny Novgorod,Russia,existing,,,,2023-07-12,56.322,44.001
+Akamai,edge,https://www.akamai.com/why-akamai,Noumea,New Caledonia,existing,,,,2023-07-12,-22.279,166.438
+Akamai,edge,https://www.akamai.com/why-akamai,Novosibirsk,Russia,existing,,,,2023-07-12,55.028,82.922
+Akamai,edge,https://www.akamai.com/why-akamai,Nuremberg,Germany,existing,,,,2023-07-12,49.451,11.074
+Akamai,edge,https://www.akamai.com/why-akamai,Nursultan,Kazakhstan,existing,,,,2023-07-12,51.124,71.426
+Akamai,edge,https://www.akamai.com/why-akamai,Nuuk,Greenland,existing,,,,2023-07-12,64.177,-51.736
+Akamai,edge,https://www.akamai.com/why-akamai,Oita,Japan,existing,,,,2023-07-12,33.179,131.424
+Akamai,edge,https://www.akamai.com/why-akamai,Oklahoma City,United States,existing,,,,2023-07-12,35.473,-97.517
+Akamai,edge,https://www.akamai.com/why-akamai,Omaha,United States,existing,,,,2023-07-12,41.262,-95.935
+Akamai,edge,https://www.akamai.com/why-akamai,Omsk,Russia,existing,,,,2023-07-12,54.99,73.37
+Akamai,edge,https://www.akamai.com/why-akamai,Osaka,Japan,existing,,,,2023-07-12,34.664,135.502
+Akamai,edge,https://www.akamai.com/why-akamai,Oslo,Norway,existing,,,,2023-07-12,59.918,10.743
+Akamai,edge,https://www.akamai.com/why-akamai,Ottawa,Canada,existing,,,,2023-07-12,45.422,-75.689
+Akamai,edge,https://www.akamai.com/why-akamai,Oviedo,Spain,existing,,,,2023-07-12,43.358,-5.847
+Akamai,edge,https://www.akamai.com/why-akamai,Pago Pago,American Samoa,existing,,,,2023-07-12,-14.277,-170.706
+Akamai,edge,https://www.akamai.com/why-akamai,Palermo,Italy,existing,,,,2023-07-12,38.113,13.354
+Akamai,edge,https://www.akamai.com/why-akamai,Panama City,Panama,existing,,,,2023-07-12,8.968,-79.538
+Akamai,edge,https://www.akamai.com/why-akamai,Papeete,French Polynesia,existing,,,,2023-07-12,-17.539,-149.567
+Akamai,edge,https://www.akamai.com/why-akamai,Paramaribo,Suriname,existing,,,,2023-07-12,5.823,-55.172
+Akamai,edge,https://www.akamai.com/why-akamai,Paris,France,existing,,,,2023-07-12,48.85,2.345
+Akamai,edge,https://www.akamai.com/why-akamai,Patna,India,existing,,,,2023-07-12,25.613,85.127
+Akamai,edge,https://www.akamai.com/why-akamai,Perm,Russia,existing,,,,2023-07-12,58.017,56.249
+Akamai,edge,https://www.akamai.com/why-akamai,Perth,Australia,existing,,,,2023-07-12,-31.952,115.864
+Akamai,edge,https://www.akamai.com/why-akamai,Philadelphia,United States,existing,,,,2023-07-12,39.951,-75.166
+Akamai,edge,https://www.akamai.com/why-akamai,Philipsburg,Sint Maarten,existing,,,,2023-07-12,18.026,-63.04
+Akamai,edge,https://www.akamai.com/why-akamai,Phnom Penh,Cambodia,existing,,,,2023-07-12,11.565,104.92
+Akamai,edge,https://www.akamai.com/why-akamai,Phoenix,United States,existing,,,,2023-07-12,33.452,-112.071
+Akamai,edge,https://www.akamai.com/why-akamai,Pittsburgh,United States,existing,,,,2023-07-12,40.442,-79.99
+Akamai,edge,https://www.akamai.com/why-akamai,Port Louis,Mauritius,existing,,,,2023-07-12,-20.16,57.506
+Akamai,edge,https://www.akamai.com/why-akamai,Port of Spain,Trinidad and Tobago,existing,,,,2023-07-12,10.657,-61.518
+Akamai,edge,https://www.akamai.com/why-akamai,Port-au-Prince,Haiti,existing,,,,2023-07-12,18.552,-72.335
+Akamai,edge,https://www.akamai.com/why-akamai,Portland,United States,existing,,,,2023-07-12,45.523,-122.671
+Akamai,edge,https://www.akamai.com/why-akamai,Porto,Portugal,existing,,,,2023-07-12,41.15,-8.61
+Akamai,edge,https://www.akamai.com/why-akamai,Porto Alegre,Brazil,existing,,,,2023-07-12,-30.03,-51.228
+Akamai,edge,https://www.akamai.com/why-akamai,Prague,Czech Republic,existing,,,,2023-07-12,50.086,14.42
+Akamai,edge,https://www.akamai.com/why-akamai,Puebla City,Mexico,existing,,,,2023-07-12,19.41,-99.08
+Akamai,edge,https://www.akamai.com/why-akamai,Pune,India,existing,,,,2023-07-12,18.521,73.854
+Akamai,edge,https://www.akamai.com/why-akamai,Queretaro,Mexico,existing,,,,2023-07-12,20.594,-100.389
+Akamai,edge,https://www.akamai.com/why-akamai,Quito,Ecuador,existing,,,,2023-07-12,-0.217,-78.509
+Akamai,edge,https://www.akamai.com/why-akamai,Rabat,Morocco,existing,,,,2023-07-12,34.022,-6.834
+Akamai,edge,https://www.akamai.com/why-akamai,Raleigh,United States,existing,,,,2023-07-12,35.782,-78.638
+Akamai,edge,https://www.akamai.com/why-akamai,Recife,Brazil,existing,,,,2023-07-12,-8.058,-34.885
+Akamai,edge,https://www.akamai.com/why-akamai,Reykjavik,Iceland,existing,,,,2023-07-12,64.144,-21.945
+Akamai,edge,https://www.akamai.com/why-akamai,Richmond,United States,existing,,,,2023-07-12,37.535,-77.438
+Akamai,edge,https://www.akamai.com/why-akamai,Riga,Latvia,existing,,,,2023-07-12,56.949,24.105
+Akamai,edge,https://www.akamai.com/why-akamai,Rio de Janeiro,Brazil,existing,,,,2023-07-12,-22.911,-43.209
+Akamai,edge,https://www.akamai.com/why-akamai,Riyadh,Saudi Arabia,existing,,,,2023-07-12,24.643,46.72
+Akamai,edge,https://www.akamai.com/why-akamai,Rome,Italy,existing,,,,2023-07-12,41.892,12.481
+Akamai,edge,https://www.akamai.com/why-akamai,Sacramento,United States,existing,,,,2023-07-12,38.578,-121.497
+Akamai,edge,https://www.akamai.com/why-akamai,Saint Helier,Jersey,existing,,,,2023-07-12,49.183,-2.113
+Akamai,edge,https://www.akamai.com/why-akamai,Saint Louis,United States,existing,,,,2023-07-12,38.629,-90.19
+Akamai,edge,https://www.akamai.com/why-akamai,Saint Petersburg,Russia,existing,,,,2023-07-12,59.937,30.314
+Akamai,edge,https://www.akamai.com/why-akamai,Saint-Denis,Reunion,existing,,,,2023-07-12,-20.879,55.449
+Akamai,edge,https://www.akamai.com/why-akamai,Saipan,Northern Mariana Islands,existing,,,,2023-07-12,15.191,145.747
+Akamai,edge,https://www.akamai.com/why-akamai,Salt Lake City,United States,existing,,,,2023-07-12,40.756,-111.89
+Akamai,edge,https://www.akamai.com/why-akamai,Salvador,Brazil,existing,,,,2023-07-12,-12.982,-38.481
+Akamai,edge,https://www.akamai.com/why-akamai,Samara,Russia,existing,,,,2023-07-12,53.198,50.114
+Akamai,edge,https://www.akamai.com/why-akamai,San Antonio,United States,existing,,,,2023-07-12,29.427,-98.493
+Akamai,edge,https://www.akamai.com/why-akamai,San Diego,United States,existing,,,,2023-07-12,32.717,-117.163
+Akamai,edge,https://www.akamai.com/why-akamai,San Jose,United States,existing,,,,2023-07-12,37.336,-121.891
+Akamai,edge,https://www.akamai.com/why-akamai,San Jose CR,Costa Rica,existing,,,,2023-07-12,9.932,-84.08
+Akamai,edge,https://www.akamai.com/why-akamai,San Juan,Puerto Rico,existing,,,,2023-07-12,18.464,-66.118
+Akamai,edge,https://www.akamai.com/why-akamai,San Pedro Sula,Honduras,existing,,,,2023-07-12,15.51,-88.021
+Akamai,edge,https://www.akamai.com/why-akamai,San Salvador,El Salvador,existing,,,,2023-07-12,13.7,-89.191
+Akamai,edge,https://www.akamai.com/why-akamai,Santiago,Chile,existing,,,,2023-07-12,-33.437,-70.65
+Akamai,edge,https://www.akamai.com/why-akamai,Santo Domingo,Dominican Republic,existing,,,,2023-07-12,18.48,-69.942
+Akamai,edge,https://www.akamai.com/why-akamai,Sao Paulo,Brazil,existing,,,,2023-07-12,-23.555,-46.637
+Akamai,edge,https://www.akamai.com/why-akamai,Seattle,United States,existing,,,,2023-07-12,47.606,-122.328
+Akamai,edge,https://www.akamai.com/why-akamai,Seoul,South Korea,existing,,,,2023-07-12,37.567,126.979
+Akamai,edge,https://www.akamai.com/why-akamai,Seville,Spain,existing,,,,2023-07-12,37.389,-5.995
+Akamai,edge,https://www.akamai.com/why-akamai,Shanghai,China,existing,,,,2023-07-12,31.232,121.468
+Akamai,edge,https://www.akamai.com/why-akamai,Shijiazhuang,China,existing,,,,2023-07-12,38.04,114.506
+Akamai,edge,https://www.akamai.com/why-akamai,Singapore,Singapore,existing,,,,2023-07-12,1.354,103.817
+Akamai,edge,https://www.akamai.com/why-akamai,Sioux Falls,United States,existing,,,,2023-07-12,43.551,-96.729
+Akamai,edge,https://www.akamai.com/why-akamai,Skopje,North Macedonia,existing,,,,2023-07-12,41.997,21.433
+Akamai,edge,https://www.akamai.com/why-akamai,Sofia,Bulgaria,existing,,,,2023-07-12,42.693,23.317
+Akamai,edge,https://www.akamai.com/why-akamai,South Yorkshire,United Kingdom,existing,,,,2023-07-12,53.479,-1.384
+Akamai,edge,https://www.akamai.com/why-akamai,St Georges,Grenada,existing,,,,2023-07-12,12.053,-61.752
+Akamai,edge,https://www.akamai.com/why-akamai,St Peter Port,Guernsey,existing,,,,2023-07-12,49.455,-2.541
+Akamai,edge,https://www.akamai.com/why-akamai,Stavanger,Norway,existing,,,,2023-07-12,58.969,5.731
+Akamai,edge,https://www.akamai.com/why-akamai,Stockholm,Sweden,existing,,,,2023-07-12,59.326,18.072
+Akamai,edge,https://www.akamai.com/why-akamai,Stuttgart,Germany,existing,,,,2023-07-12,48.775,9.177
+Akamai,edge,https://www.akamai.com/why-akamai,Surabaya,Indonesia,existing,,,,2023-07-12,-7.248,112.736
+Akamai,edge,https://www.akamai.com/why-akamai,Suva,Fiji,existing,,,,2023-07-12,-18.145,178.439
+Akamai,edge,https://www.akamai.com/why-akamai,Suzhou,China,existing,,,,2023-07-12,31.299,120.579
+Akamai,edge,https://www.akamai.com/why-akamai,Sydney,Australia,existing,,,,2023-07-12,-33.868,151.21
+Akamai,edge,https://www.akamai.com/why-akamai,Syracuse,United States,existing,,,,2023-07-12,43.047,-76.149
+Akamai,edge,https://www.akamai.com/why-akamai,Taichung,Taiwan,existing,,,,2023-07-12,24.166,120.65
+Akamai,edge,https://www.akamai.com/why-akamai,Taipei,Taiwan,existing,,,,2023-07-12,25.034,121.56
+Akamai,edge,https://www.akamai.com/why-akamai,Tallinn,Estonia,existing,,,,2023-07-12,59.44,24.748
+Akamai,edge,https://www.akamai.com/why-akamai,Tbilisi,Georgia,existing,,,,2023-07-12,41.692,44.8
+Akamai,edge,https://www.akamai.com/why-akamai,Tegucigalpa,Honduras,existing,,,,2023-07-12,14.11,-87.2
+Akamai,edge,https://www.akamai.com/why-akamai,Tel Aviv,Israel,existing,,,,2023-07-12,32.081,34.778
+Akamai,edge,https://www.akamai.com/why-akamai,Teresina,Brazil,existing,,,,2023-07-12,-5.085,-42.802
+Akamai,edge,https://www.akamai.com/why-akamai,Thimphu,Bhutan,existing,,,,2023-07-12,27.47,89.632
+Akamai,edge,https://www.akamai.com/why-akamai,Tianjin,China,existing,,,,2023-07-12,39.088,117.199
+Akamai,edge,https://www.akamai.com/why-akamai,Tirana,Albania,existing,,,,2023-07-12,41.329,19.82
+Akamai,edge,https://www.akamai.com/why-akamai,Tokyo,Japan,existing,,,,2023-07-12,35.685,139.775
+Akamai,edge,https://www.akamai.com/why-akamai,Toronto,Canada,existing,,,,2023-07-12,43.655,-79.382
+Akamai,edge,https://www.akamai.com/why-akamai,Torshavn,Faroe Islands,existing,,,,2023-07-12,62.015,-6.765
+Akamai,edge,https://www.akamai.com/why-akamai,Tunis,Tunisia,existing,,,,2023-07-12,33.845,9.401
+Akamai,edge,https://www.akamai.com/why-akamai,Turin,Italy,existing,,,,2023-07-12,45.066,7.681
+Akamai,edge,https://www.akamai.com/why-akamai,Ulaanbaatar,Mongolia,existing,,,,2023-07-12,47.92,106.919
+Akamai,edge,https://www.akamai.com/why-akamai,Valletta,Malta,existing,,,,2023-07-12,35.896,14.511
+Akamai,edge,https://www.akamai.com/why-akamai,Vancouver,Canada,existing,,,,2023-07-12,49.26,-123.115
+Akamai,edge,https://www.akamai.com/why-akamai,Victoria,Canada,existing,,,,2023-07-12,48.427,-123.366
+Akamai,edge,https://www.akamai.com/why-akamai,Vienna,Austria,existing,,,,2023-07-12,48.209,16.374
+Akamai,edge,https://www.akamai.com/why-akamai,Vientiane,Laos,existing,,,,2023-07-12,17.966,102.615
+Akamai,edge,https://www.akamai.com/why-akamai,Vijayawada,India,existing,,,,2023-07-12,16.511,80.62
+Akamai,edge,https://www.akamai.com/why-akamai,Vilnius,Lithuania,existing,,,,2023-07-12,54.688,25.284
+Akamai,edge,https://www.akamai.com/why-akamai,Visakhapatnam,India,existing,,,,2023-07-12,17.727,83.305
+Akamai,edge,https://www.akamai.com/why-akamai,Warsaw,Poland,existing,,,,2023-07-12,52.23,21.005
+Akamai,edge,https://www.akamai.com/why-akamai,Washington DC,United States,existing,,,,2023-07-12,38.893,-77.038
+Akamai,edge,https://www.akamai.com/why-akamai,Wellington,New Zealand,existing,,,,2023-07-12,-41.285,174.781
+Akamai,edge,https://www.akamai.com/why-akamai,Wenzhou,China,existing,,,,2023-07-12,27.998,120.697
+Akamai,edge,https://www.akamai.com/why-akamai,Willemstad,Curacao,existing,,,,2023-07-12,12.107,-68.94
+Akamai,edge,https://www.akamai.com/why-akamai,Windhoek,Namibia,existing,,,,2023-07-12,-22.581,17.074
+Akamai,edge,https://www.akamai.com/why-akamai,Windsor,Canada,existing,,,,2023-07-12,42.318,-83.036
+Akamai,edge,https://www.akamai.com/why-akamai,Winnipeg,Canada,existing,,,,2023-07-12,49.893,-97.141
+Akamai,edge,https://www.akamai.com/why-akamai,Wuhan,China,existing,,,,2023-07-12,30.593,114.298
+Akamai,edge,https://www.akamai.com/why-akamai,Xian,China,existing,,,,2023-07-12,38.191,116.119
+Akamai,edge,https://www.akamai.com/why-akamai,Yangon,Myanmar,existing,,,,2023-07-12,16.796,96.16
+Akamai,edge,https://www.akamai.com/why-akamai,Yaounde,Cameroon,existing,,,,2023-07-12,3.867,11.519
+Akamai,edge,https://www.akamai.com/why-akamai,Yekaterinburg,Russia,existing,,,,2023-07-12,56.836,60.605
+Akamai,edge,https://www.akamai.com/why-akamai,Yerevan,Armenia,existing,,,,2023-07-12,40.176,44.511
+Akamai,edge,https://www.akamai.com/why-akamai,Yogyakarta,Indonesia,existing,,,,2023-07-12,-7.979,110.366
+Akamai,edge,https://www.akamai.com/why-akamai,Zagreb,Croatia,existing,,,,2023-07-12,45.841,15.96
+Akamai,edge,https://www.akamai.com/why-akamai,Zhumadian,China,existing,,,,2023-07-12,33.016,114.02
+Akamai,edge,https://www.akamai.com/why-akamai,Zurich,Switzerland,existing,,,,2023-07-12,47.373,8.54

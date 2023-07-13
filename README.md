@@ -8,6 +8,7 @@ With the aim of creating a more comprehensive picture of global cloud and CDN in
 - [Google's Edge Locations](https://cloud.google.com/vpc/docs/edge-locations)
 - [Fastly PoPs](https://www.fastly.com/network-map/)
 - [Facebook (now Meta) Network Appliances](https://anuragbhatia.com/2022/07/networking/isp-column/facebook-cache-fna-updates-july-2022/)
+- [Akamai](https://www.akamai.com/why-akamai)
 
 For the above, I took the cache locations from the websites and geolocated them. Thus the map is only accurate to city level. The dates in the filenames indicate the last time the relevant website was checked.
 

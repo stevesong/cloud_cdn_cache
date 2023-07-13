@@ -1,0 +1,53 @@
+Provider,Service Name,URL,City,Country,Status,Zone Name,Region,Parent Region,Latitude,Longitude
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Atlanta,United States,Generally Available,us-east-1-atl-1a,,US East (N. Virginia),33.749,-84.39
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Auckland,New Zealand,Generally Available,ap-southeast-2-akl-1a,,Asia Pacific (Sydney),-36.852,174.763
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Bangkok,Thailand,Generally Available,ap-southeast-1-bkk-1a,,Asia Pacific (Singapore),13.752,100.494
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Boston,United States,Generally Available,us-east-1-bos-1a,,US East (N. Virginia),42.355,-71.061
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Buenos Aires,Argentina,Generally Available,us-east-1-bue-1a,,US East (N. Virginia),-34.608,-58.437
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Chicago,United States,Generally Available,us-east-1-chi-1a,,US East (N. Virginia),41.876,-87.624
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Copenhagen,Denmark,Generally Available,eu-north-1-cph-1a,,Europe (Stockholm),55.687,12.57
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Dallas,United States,Generally Available,us-east-1-dfw-1a,,US East (N. Virginia),32.776,-96.797
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Delhi,India,Generally Available,ap-south-1-del-1a,,Asia Pacific (Mumbai),28.627,77.172
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Denver,United States,Generally Available,us-west-2-den-1a,,US West (Oregon),39.739,-104.985
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Hamburg,Germany,Generally Available,eu-central-1-ham-1a,,Europe (Frankfurt),53.55,10.001
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Helsinki,Finland,Generally Available,eu-north-1-hel-1a,,Europe (Stockholm),60.167,24.943
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Houston,United States,Generally Available,us-east-1-iah-1a,,US East (N. Virginia),29.759,-95.368
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Kansas City,United States,Generally Available,us-east-1-mci-1a,,US East (N. Virginia),39.1,-94.578
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Kolkata,India,Generally Available,ap-south-1-ccu-1a,,Asia Pacific (Mumbai),22.573,88.364
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Lagos,Nigeria,Generally Available,af-south-1-los-1a,,Africa (Cape Town),6.455,3.394
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Las Vegas,United States,Generally Available,us-west-2-las-1a,,US West (Oregon),36.167,-115.149
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Lima,Peru,Generally Available,us-east-1-lim-1a,,US East (N. Virginia),-12.062,-77.037
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Los Angeles,United States,Generally Available,"us-west-2-lax-1a, us-west-2-lax-1b",,US West (Oregon),34.054,-118.243
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Manila,Philippines,Generally Available,ap-southeast-1-mnl-1a,,Asia Pacific (Singapore),14.581,120.976
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Miami,United States,Generally Available,us-east-1-mia-1a,,US East (N. Virginia),25.774,-80.194
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Minneapolis,United States,Generally Available,us-east-1-msp-1a,,US East (N. Virginia),44.977,-93.265
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Muscat,Oman,Generally Available,me-south-1-mct-1a,,Middle East (Bahrain),23.588,58.383
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,New York City (located in New Jersey),United States,Generally Available,us-east-1-nyc-1a,,US East (N. Virginia),40.076,-74.404
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Perth,Australia,Generally Available,ap-southeast-2-per-1a,,Asia Pacific (Sydney),-31.956,115.861
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Philadelphia,United States,Generally Available,us-east-1-phl-1a,,US East (N. Virginia),39.953,-75.164
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Phoenix,United States,Generally Available,us-west-2-phx-1a,,US West (Oregon),33.448,-112.074
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Portland,United States,Generally Available,us-west-2-pdx-1a,,US West (Oregon),45.52,-122.674
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Querétaro,Mexico,Generally Available,us-east-1-qro-1a,,US East (N. Virginia),20.593,-100.39
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Santiago,Chile,Generally Available,us-east-1-scl-1a,,US East (N. Virginia),-33.438,-70.65
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Seattle,United States,Generally Available,us-west-2-sea-1a,,US West (Oregon),47.604,-122.33
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Taipei,Taiwan,Generally Available,ap-northeast-1-tpe-1a,,Asia Pacific (Tokyo),25.038,121.564
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Warsaw,Poland,Generally Available,eu-central-1-waw-1a,,Europe (Frankfurt),52.232,21.007
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Amsterdam,Netherlands,Announced,eu-central-1-ams-1a,,Europe (Frankfurt),52.373,4.892
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Athens,Greece,Announced,eu-south-1-ath-1a,,Europe (Milan),37.976,23.735
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Bengaluru,India,Announced,ap-south-2-blr-1a,,Asia Pacific (Hyderabad),12.977,77.59
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Berlin,Germany,Announced,eu-central-1-ber-1a,,Europe (Frankfurt),52.517,13.389
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Bogotá,Colombia,Announced,us-east-1-bog-1a,,US East (N. Virginia),4.653,-74.084
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Brisbane,Australia,Announced,ap-southeast-2-bne-1a,,Asia Pacific (Sydney),-27.469,153.023
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Brussels,Belgium,Announced,eu-west-3-bru-1a,,Europe (Paris),50.847,4.352
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Chennai,India,Announced,ap-south-2-maa-1a,,Asia Pacific (Hyderabad),13.084,80.27
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Hanoi,Vietnam,Announced,ap-southeast-1-han-1a,,Asia Pacific (Singapore),21.028,105.854
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Johannesburg,South Africa,Announced,af-south-1-jnb-1a,,Africa (Cape Town),-26.205,28.05
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Lisbon,Portugal,Announced,eu-south-2-lis-1a,,Europe (Spain),38.708,-9.137
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Munich,Germany,Announced,eu-central-1-muc-1a,,Europe (Frankfurt),48.137,11.575
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Nairobi,Kenya,Announced,af-south-1-nbo-1a,,Africa (Cape Town),-1.283,36.817
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Oslo,Norway,Announced,eu-north-1-osl-1a,,Europe (Stockholm),59.913,10.739
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Prague,Czech Republic,Announced,eu-central-1-prg-1a,,Europe (Frankfurt),50.087,14.421
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Rio de Janeiro,Brazil,Announced,us-east-1-rio-1a,,US East (N. Virginia),-22.911,-43.209
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Toronto,Canada,Announced,ca-central-1-yto-1a,,Canada (Central),43.653,-79.384
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Vancouver,Canada,Announced,ca-central-1-yvr-1a,,Canada (Central),49.261,-123.114
+Amazon,Local Zones,https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/,Vienna,Austria,Announced,eu-central-1-vie-1a,,Europe (Frankfurt),48.208,16.373
