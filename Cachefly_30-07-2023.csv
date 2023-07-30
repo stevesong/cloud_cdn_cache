@@ -1,0 +1,70 @@
+Provider,Service Name,URL,City,Country,Status,Zone Name,Region,Parent Region,Latitude,Longitude
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Atlanta,United States,Active,,North America,,33.745,-84.393
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Boston,United States,Active,,North America,,42.357,-71.059
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Calgary,Canada,Active,,North America,,51.042,-114.056
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Chicago,United States,Active,,North America,,41.876,-87.625
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Dallas,United States,Active,,North America,,32.773,-96.801
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Davenport,United States,Active,,North America,,41.524,-90.576
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Denver,United States,Active,,North America,,39.742,-104.981
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Dulles,United States,Active,,North America,,29.458,-98.666
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Los Angeles,United States,Active,,North America,,34.05,-118.243
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Miami,United States,Active,,North America,,25.778,-80.192
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Montreal,Canada,Active,,North America,,45.501,-73.567
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,New York,United States,Active,,North America,,40.71,-74.009
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Phoenix,United States,Active,,North America,,33.446,-112.078
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,San Jose,United States,Active,,North America,,37.339,-121.888
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,San Juan,United States,Active,,North America,,18.463,-66.117
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Seattle,United States,Active,,North America,,47.602,-122.329
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Toronto,Canada,Active,,North America,,43.655,-79.387
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Washington,United States,Active,,North America,,38.893,-77.041
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Amsterdam,Nederland,Active,,Europe,,52.369,4.896
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Bucharest,România,Active,,Europe,,44.441,26.106
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Frankfurt,Deutschland,Active,,Europe,,50.111,8.684
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Helsinki,Suomi / Finland,Active,,Europe,,60.166,24.946
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Istanbul,Türkiye,Active,,Europe,,41.007,28.964
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Lisbon,Portugal,Active,,Europe,,38.707,-9.139
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,London,United Kingdom,Active,,Europe,,51.508,-0.126
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Madrid,España,Active,,Europe,,40.418,-3.705
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Milan,Italia,Active,,Europe,,45.466,9.187
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Paris,France,Active,,Europe,,48.853,2.349
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Sofia,Madagasikara / Madagascar,Active,,Europe,,-15.255,48.253
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Stockholm,Sverige,Active,,Europe,,59.325,18.074
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Vilnius,Lietuva,Active,,Europe,,54.686,25.283
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Vienna,Österreich,Active,,Europe,,48.208,16.377
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Warsaw,Polska,Active,,Europe,,52.233,21.007
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Zurich,Schweiz/Suisse/Svizzera/Svizra,Active,,Europe,,47.376,8.543
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Bangkok,ประเทศไทย,Active,,Asia Pacific,,13.754,100.492
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Beijing,中国,Active,,Asia Pacific,,39.904,116.391
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Hong Kong,中国,Active,,Asia Pacific,,22.279,114.165
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Jakarta,Indonesia,Active,,Asia Pacific,,-6.172,106.828
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Melbourne,Australia,Active,,Asia Pacific,,-37.812,144.961
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Mumbai,India,Active,,Asia Pacific,,19.078,72.885
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Perth,Australia,Active,,Asia Pacific,,-31.959,115.862
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Seoul,대한민국,Active,,Asia Pacific,,37.57,126.982
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Shanghai,中国,Active,,Asia Pacific,,31.233,121.471
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Singapore,Singapore,Active,,Asia Pacific,,1.353,103.816
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Sydney,Australia,Active,,Asia Pacific,,-33.866,151.212
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Tokyo,日本,Active,,Asia Pacific,,35.683,139.771
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Bogota,Colombia,Active,,Central & South America,,4.651,-74.085
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Brasilia,Brasil,Active,,Central & South America,,-10.332,-53.2
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Buenos Aires,Argentina,Active,,Central & South America,,-34.605,-58.439
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Curitiba,Brasil,Active,,Central & South America,,-25.433,-49.275
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Fortaleza,Brasil,Active,,Central & South America,,-3.734,-38.52
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Guadalajara,México,Active,,Central & South America,,20.668,-103.336
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,La Paz,Bolivia,Active,,Central & South America,,-16.496,-68.133
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Lima,Perú,Active,,Central & South America,,-12.063,-77.038
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Mexico City,México,Active,,Central & South America,,19.435,-99.135
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Porto Alegre,Brasil,Active,,Central & South America,,-30.031,-51.234
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Querétaro,México,Active,,Central & South America,,20.592,-100.39
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Quito,Ecuador,Active,,Central & South America,,-0.221,-78.512
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Rio de Janeiro,Brasil,Active,,Central & South America,,-22.908,-43.208
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Salvador,El Salvador,Active,,Central & South America,,13.796,-88.915
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,San Jose,Costa Rica,Active,,Central & South America,,9.932,-84.077
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,San Juan,United States,Active,,Central & South America,,18.469,-66.119
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Sao Paulo,Brasil,Active,,Central & South America,,-23.552,-46.631
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Santiago de Chile,Chile,Active,,Central & South America,,-33.437,-70.65
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Doha,قطر,Active,,Middle East & Africa,,25.288,51.524
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Dubai,الإمارات العربية المتحدة,Active,,Middle East & Africa,,25.074,55.187
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Johannesburg,South Africa,Active,,Middle East & Africa,,-26.208,28.048
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Riyadh,السعودية,Active,,Middle East & Africa,,24.638,46.714
+CacheFly,CDN Locations,https://www.cachefly.com/network-map/,Tel Aviv,ישראל,Active,,Middle East & Africa,,32.089,34.777

@@ -1,0 +1,289 @@
+Provider,Service Name,URL,City,Country,Status,Zone Name,Region,Parent Region,Latitude,Longitude
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ashburn,United States,,,North America,,39.03,-77.469
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Atlanta,United States,,,North America,,33.746,-84.386
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Boston,United States,,,North America,,42.354,-71.061
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Buffalo,United States,,,North America,,42.885,-78.876
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Calgary,Canada,,,North America,,51.044,-114.054
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Charlotte,United States,,,North America,,35.228,-80.846
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chicago,United States,,,North America,,41.878,-87.623
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Columbus,United States,,,North America,,39.962,-83.002
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dallas,United States,,,North America,,32.779,-96.793
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Denver,United States,,,North America,,39.736,-104.984
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Detroit,United States,,,North America,,42.329,-83.05
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Honolulu,United States,,,North America,,21.302,-157.859
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Houston,United States,,,North America,,29.76,-95.368
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Indianapolis,United States,,,North America,,39.764,-86.155
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Jacksonville,United States,,,North America,,30.334,-81.66
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kansas City,United States,,,North America,,39.097,-94.58
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Las Vegas,United States,,,North America,,36.164,-115.146
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Los Angeles,United States,,,North America,,34.055,-118.241
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Mcallen,United States,,,North America,,26.201,-98.233
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Memphis,United States,,,North America,,35.144,-90.048
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Miami,United States,,,North America,,25.777,-80.198
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Minneapolis,United States,,,North America,,44.977,-93.269
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Montgomery,United States,,,North America,,32.364,-86.297
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Montréal,Canada,,,North America,,45.501,-73.566
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Nashville,United States,,,North America,,36.165,-86.777
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Newark,United States,,,North America,,40.738,-74.168
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Norfolk,United States,,,North America,,36.844,-76.285
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Omaha,United States,,,North America,,41.257,-95.934
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ottawa,Canada,,,North America,,45.418,-75.692
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Philadelphia,United States,,,North America,,39.948,-75.16
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Phoenix,United States,,,North America,,33.447,-112.077
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Pittsburgh,United States,,,North America,,40.442,-79.99
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Portland,United States,,,North America,,45.516,-122.678
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Richmond,United States,,,North America,,37.535,-77.439
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Sacramento,United States,,,North America,,38.579,-121.496
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Salt Lake City,United States,,,North America,,40.763,-111.884
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,San Diego,United States,,,North America,,32.721,-117.16
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,San Jose,United States,,,North America,,37.334,-121.888
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Saskatoon,Canada,,,North America,,52.133,-106.657
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Seattle,United States,,,North America,,47.608,-122.327
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,St. Louis,United States,,,North America,,38.628,-90.195
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tallahassee,United States,,,North America,,30.434,-84.281
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tampa,United States,,,North America,,27.947,-82.46
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Toronto,Canada,,,North America,,43.653,-79.382
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Vancouver,Canada,,,North America,,49.263,-123.11
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Winnipeg,Canada,,,North America,,49.895,-97.141
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Americana,Brazil,,,Latin America & the Caribbean,,-22.737,-47.334
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Arica,Chile,,,Latin America & the Caribbean,,-18.475,-70.32
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Asuncion,Paraguay,,,Latin America & the Caribbean,,-25.276,-57.636
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Belo Horizonte,Brazil,,,Latin America & the Caribbean,,-19.924,-43.941
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Belém,Brazil,,,Latin America & the Caribbean,,-1.453,-48.466
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Blumenau,Brazil,,,Latin America & the Caribbean,,-26.922,-49.064
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Bogota,Colombia,,,Latin America & the Caribbean,,4.651,-74.08
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Brasília,Brazil,,,Latin America & the Caribbean,,-10.332,-53.202
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Buenos Aires,Argentina,,,Latin America & the Caribbean,,-34.608,-58.436
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Campinas,Brazil,,,Latin America & the Caribbean,,-22.903,-47.062
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Caçador,Brazil,,,Latin America & the Caribbean,,-26.774,-51.014
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Cordoba,Argentina,,,Latin America & the Caribbean,,-31.421,-64.183
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Cuiabá,Brazil,,,Latin America & the Caribbean,,-15.595,-56.1
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Curitiba,Brazil,,,Latin America & the Caribbean,,-25.43,-49.267
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Florianópolis,Brazil,,,Latin America & the Caribbean,,-27.602,-48.55
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Fortaleza,Brazil,,,Latin America & the Caribbean,,-3.73,-38.52
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Georgetown,Guyana,,,Latin America & the Caribbean,,6.813,-58.164
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Goiânia,Brazil,,,Latin America & the Caribbean,,-16.68,-49.25
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Guatemala City,Guatemala,,,Latin America & the Caribbean,,14.626,-90.516
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Guayaquil,Ecuador,,,Latin America & the Caribbean,,-2.287,-80.096
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Itajaí,Brazil,,,Latin America & the Caribbean,,-26.907,-48.651
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Joinville,Brazil,,,Latin America & the Caribbean,,-26.3,-48.849
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Juazeiro do Norte,Brazil,,,Latin America & the Caribbean,,-7.215,-39.314
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Lima,Peru,,,Latin America & the Caribbean,,-12.066,-77.039
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Manaus,Brazil,,,Latin America & the Caribbean,,-3.131,-59.98
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Medellín,Colombia,,,Latin America & the Caribbean,,6.244,-75.574
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Mexico City,Mexico,,,Latin America & the Caribbean,,19.435,-99.136
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Neuquen,Argentina,,,Latin America & the Caribbean,,-38.373,-69.828
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Panama City,Panama,,,Latin America & the Caribbean,,8.975,-79.534
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Paramaribo,Suriname,,,Latin America & the Caribbean,,5.826,-55.17
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Port-Au-Prince,Haiti,,,Latin America & the Caribbean,,18.55,-72.339
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Porto Alegre,Brazil,,,Latin America & the Caribbean,,-30.03,-51.23
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Queretaro,Mexico,,,Latin America & the Caribbean,,20.596,-100.391
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Quito,Ecuador,,,Latin America & the Caribbean,,-0.217,-78.508
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ribeirão Preto,Brazil,,,Latin America & the Caribbean,,-21.176,-47.806
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Rio de Janeiro,Brazil,,,Latin America & the Caribbean,,-22.912,-43.21
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Salvador,Brazil,,,Latin America & the Caribbean,,-12.983,-38.484
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,San José,Costa Rica,,,Latin America & the Caribbean,,9.935,-84.08
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Santo Domingo,Dominican Republic,,,Latin America & the Caribbean,,18.477,-69.946
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Sorocaba,Brazil,,,Latin America & the Caribbean,,-23.503,-47.461
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,St. George's,Grenada,,,Latin America & the Caribbean,,12.053,-61.754
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,São José do Rio Preto,Brazil,,,Latin America & the Caribbean,,-20.811,-49.383
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,São Paulo,Brazil,,,Latin America & the Caribbean,,-23.551,-46.636
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tegucigalpa,Honduras,,,Latin America & the Caribbean,,14.102,-87.204
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Uberlândia,Brazil,,,Latin America & the Caribbean,,-18.916,-48.274
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Valparaíso,Chile,,,Latin America & the Caribbean,,-33.049,-71.623
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Willemstad,Curaçao,,,Latin America & the Caribbean,,12.114,-68.938
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Accra,Ghana,,,Africa,,5.557,-0.197
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Algiers,Algeria,,,Africa,,36.778,3.062
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Antananarivo,Madagascar,,,Africa,,-18.78,46.715
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Cape Town,South Africa,,,Africa,,-33.925,18.421
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Casablanca,Morocco,,,Africa,,33.591,-7.623
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dakar,Senegal,,,Africa,,14.696,-17.452
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dar Es Salaam,Tanzania,,,Africa,,-6.815,39.28
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Djibouti,Djibouti,,,Africa,,11.816,42.844
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Durban,South Africa,,,Africa,,-29.859,31.011
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Gaborone,Botswana,,,Africa,,-24.659,25.909
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Harare,Zimbabwe,,,Africa,,-17.828,31.043
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Johannesburg,South Africa,,,Africa,,-26.203,28.053
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kigali,Rwanda,,,Africa,,-1.947,30.059
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Lagos,Nigeria,,,Africa,,6.456,3.399
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Luanda,Angola,,,Africa,,-8.824,13.241
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Maputo,Mozambique,,,Africa,,-25.964,32.571
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Mombasa,Kenya,,,Africa,,-4.046,39.67
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Monrovia,Liberia,,,Africa,,6.331,-10.795
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Nairobi,Kenya,,,Africa,,-1.284,36.821
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Port Louis,Mauritius,,,Africa,,-20.162,57.502
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Reunion,France,,,Africa,,-21.131,55.541
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tunis,Tunisia,,,Africa,,33.84,9.402
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Amsterdam,Netherlands,,,Europe,,52.377,4.894
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Athens,Greece,,,Europe,,37.972,23.739
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Barcelona,Spain,,,Europe,,41.382,2.177
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Belgrade,Serbia,,,Europe,,44.816,20.459
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Berlin,Germany,,,Europe,,52.517,13.386
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Brussels,Belgium,,,Europe,,50.847,4.356
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Bucharest,Romania,,,Europe,,44.44,26.099
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Budapest,Hungary,,,Europe,,47.498,19.044
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chișinău,"Moldova, Republic of",,,Europe,,47.025,28.831
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Copenhagen,Denmark,,,Europe,,55.69,12.574
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Cork,Ireland,,,Europe,,51.899,-8.469
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dublin,Ireland,,,Europe,,53.347,-6.262
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Düsseldorf,Germany,,,Europe,,51.221,6.778
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Edinburgh,United Kingdom,,,Europe,,55.949,-3.184
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ekaterinburg,Russian Federation,,,Europe,,56.838,60.605
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Frankfurt,Germany,,,Europe,,50.113,8.684
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Geneva,Switzerland,,,Europe,,46.204,6.145
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Gothenburg,Sweden,,,Europe,,57.703,11.965
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Hamburg,Germany,,,Europe,,53.547,10.0
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Helsinki,Finland,,,Europe,,60.168,24.939
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Istanbul,Turkey,,,Europe,,41.005,28.97
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Khabarovsk,Russian Federation,,,Europe,,51.627,136.124
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Krasnoyarsk,Russian Federation,,,Europe,,56.005,92.875
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kyiv,Ukraine,,,Europe,,50.452,30.527
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Lisbon,Portugal,,,Europe,,38.712,-9.135
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,London,United Kingdom,,,Europe,,51.506,-0.126
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Luxembourg City,Luxembourg,,,Europe,,49.615,6.126
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Madrid,Spain,,,Europe,,40.413,-3.703
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Manchester,United Kingdom,,,Europe,,53.479,-2.244
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Marseille,France,,,Europe,,43.297,5.367
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Milan,Italy,,,Europe,,45.465,9.191
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Minsk,Belarus,,,Europe,,53.901,27.56
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Moscow,Russian Federation,,,Europe,,55.755,37.616
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Munich,Germany,,,Europe,,48.137,11.578
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Nicosia,Cyprus,,,Europe,,35.178,33.362
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Oslo,Norway,,,Europe,,59.914,10.742
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Palermo,Italy,,,Europe,,38.11,13.355
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Paris,France,,,Europe,,48.854,2.345
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Prague,Czechia,,,Europe,,50.086,14.419
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Reykjavík,Iceland,,,Europe,,64.145,-21.94
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Riga,Latvia,,,Europe,,56.945,24.107
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Rome,Italy,,,Europe,,41.893,12.482
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Sofia,Bulgaria,,,Europe,,42.693,23.32
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,St. Petersburg,Russian Federation,,,Europe,,59.939,30.319
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Stockholm,Sweden,,,Europe,,59.329,18.072
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tallinn,Estonia,,,Europe,,59.436,24.745
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Thessaloniki,Greece,,,Europe,,40.644,22.933
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Vienna,Austria,,,Europe,,48.206,16.371
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Vilnius,Lithuania,,,Europe,,54.685,25.284
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Warsaw,Poland,,,Europe,,52.232,21.008
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Zagreb,Croatia,,,Europe,,45.838,15.962
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Zürich,Switzerland,,,Europe,,47.373,8.537
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Amman,Jordan,,,Middle East,,31.953,35.924
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Baghdad,Iraq,,,Middle East,,33.302,44.39
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Basra,Iraq,,,Middle East,,30.494,47.809
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Beirut,Lebanon,,,Middle East,,33.892,35.5
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dammam,Saudi Arabia,,,Middle East,,26.433,50.101
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Doha,Qatar,,,Middle East,,25.282,51.524
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dubai,United Arab Emirates,,,Middle East,,25.078,55.187
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Erbil,Iraq,,,Middle East,,36.193,44.014
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Haifa,Israel,,,Middle East,,32.823,34.997
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Jeddah,Saudi Arabia,,,Middle East,,21.578,39.166
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kuwait City,Kuwait,,,Middle East,,29.382,47.973
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Manama,Bahrain,,,Middle East,,26.226,50.581
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Muscat,Oman,,,Middle East,,23.59,58.382
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Najaf,Iraq,,,Middle East,,31.997,44.33
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ramallah,,,,Middle East,,31.903,35.198
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Riyadh,Saudi Arabia,,,Middle East,,24.636,46.714
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tel Aviv,Israel,,,Middle East,,32.081,34.781
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ahmedabad,India,,,Asia,,23.025,72.581
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Almaty,Kazakhstan,,,Asia,,43.238,76.942
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Astara,Azerbaijan,,,Asia,,38.512,48.828
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Baku,Azerbaijan,,,Asia,,40.378,49.833
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Bandar Seri Begawan,Brunei Darussalam,,,Asia,,4.889,114.938
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Bangkok,Thailand,,,Asia,,13.752,100.491
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Bengaluru,India,,,Asia,,12.979,77.589
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Bhubaneshwar,India,,,Asia,,20.257,85.84
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Cagayan,Philippines,,,Asia,,17.996,121.835
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Cebu,Philippines,,,Asia,,10.293,123.906
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chandigarh,India,,,Asia,,30.727,76.783
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chennai,India,,,Asia,,13.08,80.27
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chiang Mai,Thailand,,,Asia,,18.793,98.983
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chittagong,Bangladesh,,,Asia,,22.687,91.788
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Colombo,Sri Lanka,,,Asia,,6.936,79.855
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dhaka,Bangladesh,,,Asia,,23.762,90.388
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Fukuoka,Japan,,,Asia,,33.625,130.621
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Hanoi,Viet Nam,,,Asia,,21.027,105.853
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ho Chi Minh City,Viet Nam,,,Asia,,10.775,106.701
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Hong Kong,,,,Asia,,22.276,114.163
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Hyderabad,India,,,Asia,,17.364,78.476
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Islamabad,Pakistan,,,Asia,,33.691,73.068
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Jakarta,Indonesia,,,Asia,,-6.176,106.825
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Jashore,Bangladesh,,,Asia,,23.167,89.212
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Johor Bahru,Malaysia,,,Asia,,1.5,103.748
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kanpur,India,,,Asia,,26.461,80.32
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Karachi,Pakistan,,,Asia,,24.858,67.016
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kathmandu,Nepal,,,Asia,,27.706,85.325
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kolkata,India,,,Asia,,22.576,88.364
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Kuala Lumpur,Malaysia,,,Asia,,3.154,101.698
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Lahore,Pakistan,,,Asia,,31.566,74.312
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Macau,,,,Asia,,22.193,113.536
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Male,Maldives,,,Asia,,4.177,73.509
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Mandalay,Myanmar,,,Asia,,21.977,96.082
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Manila,Philippines,,,Asia,,14.579,120.972
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Mumbai,India,,,Asia,,19.081,72.887
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Nagpur,India,,,Asia,,21.154,79.081
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Naha,Japan,,,Asia,,26.216,127.676
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Nasiriyah,Iraq,,,Asia,,31.044,46.259
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,New Delhi,India,,,Asia,,28.613,77.213
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Osaka,Japan,,,Asia,,34.665,135.499
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Patna,India,,,Asia,,25.607,85.122
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Phnom Penh,Cambodia,,,Asia,,11.564,104.925
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Seoul,"Korea, Republic of",,,Asia,,37.539,126.995
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Singapore,Singapore,,,Asia,,1.353,103.819
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Surat Thani,Thailand,,,Asia,,9.466,98.827
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Taipei,,,,Asia,,25.035,121.567
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tashkent,Uzbekistan,,,Asia,,41.31,69.281
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tbilisi,Georgia,,,Asia,,41.695,44.798
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Thimphu,Bhutan,,,Asia,,27.472,89.634
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Tokyo,Japan,,,Asia,,35.68,139.774
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Ulaanbaatar,Mongolia,,,Asia,,47.915,106.922
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Vientiane,Lao People's Democratic Republic,,,Asia,,17.963,102.615
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Yangon,Myanmar,,,Asia,,16.792,96.158
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Yerevan,Armenia,,,Asia,,40.18,44.51
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Yogyakarta,Indonesia,,,Asia,,-7.978,110.369
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Anqing,China,,,Mainland China,,30.663,116.63
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Baoji,China,,,Mainland China,,34.361,107.231
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Beijing,China,,,Mainland China,,39.902,116.391
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Changde,China,,,Mainland China,,29.037,111.691
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Changzhou,China,,,Mainland China,,31.809,119.968
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chengdu,China,,,Mainland China,,30.662,104.062
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Chengmai,China,,,Mainland China,,19.74,110.0
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Dalian,China,,,Mainland China,,38.915,121.628
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Foshan,China,,,Mainland China,,23.023,113.116
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Fuzhou,China,,,Mainland China,,27.953,116.35
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Guangzhou,China,,,Mainland China,,23.132,113.257
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Guiyang,China,,,Mainland China,,26.652,106.627
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Haikou,China,,,Mainland China,,20.046,110.194
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Hohhot,China,,,Mainland China,,40.836,111.673
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Huainan,China,,,Mainland China,,32.587,117.01
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Jinan,China,,,Mainland China,,36.652,117.118
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Jinhua,China,,,Mainland China,,29.108,119.649
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Langfang,China,,,Mainland China,,39.533,116.682
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Lanzhou,China,,,Mainland China,,36.066,103.836
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Maoming,China,,,Mainland China,,21.662,110.919
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Nanchang,China,,,Mainland China,,28.687,115.852
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Qingdao,China,,,Mainland China,,36.063,120.382
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Qinhuangdao,China,,,Mainland China,,39.939,119.594
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Quanzhou,China,,,Mainland China,,24.876,118.676
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Quzhou,China,,,Mainland China,,36.769,114.955
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Shanghai,China,,,Mainland China,,31.236,121.465
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Shenyang,China,,,Mainland China,,41.802,123.427
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Shiyan,China,,,Mainland China,,32.632,110.79
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Suqian,China,,,Mainland China,,33.969,118.268
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Taizhou,China,,,Mainland China,,28.661,121.416
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Wuxi,China,,,Mainland China,,31.578,120.299
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Xianyang,China,,,Mainland China,,34.329,108.7
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Xining,China,,,Mainland China,,36.616,101.778
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Xinyu,China,,,Mainland China,,27.857,114.889
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Yichang,China,,,Mainland China,,30.692,111.285
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Yiyang,China,,,Mainland China,,28.555,112.346
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Zhengzhou,China,,,Mainland China,,34.752,113.622
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Adelaide,Australia,,,Oceania,,-34.93,138.597
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Auckland,New Zealand,,,Oceania,,-36.851,174.762
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Brisbane,Australia,,,Oceania,,-27.469,153.021
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Canberra,Australia,,,Oceania,,-35.299,149.098
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Christchurch,New Zealand,,,Oceania,,-43.533,172.64
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Guam,Guam,,,Oceania,,13.45,144.755
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Hobart,Australia,,,Oceania,,-42.886,147.329
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Melbourne,Australia,,,Oceania,,-37.815,144.964
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Noumea,New Caledonia,,,Oceania,,-22.274,166.445
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Perth,Australia,,,Oceania,,-31.953,115.862
+Cloudflare,CDN,https://www.cloudflare.com/en-gb/network/,Sydney,Australia,,,Oceania,,-33.869,151.206
