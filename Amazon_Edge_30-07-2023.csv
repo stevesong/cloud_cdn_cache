@@ -1,0 +1,502 @@
+Provider,Service Name,URL,City,Country,Status,Zone Name,Region,Parent Region,Latitude,Longitude
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.893,-77.039
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.895,-77.037
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.891,-77.04
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.891,-77.041
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.894,-77.038
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.892,-77.039
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.894,-77.038
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.896,-77.035
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.897,-77.035
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.893,-77.038
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.895,-77.037
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.899,-77.032
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.892,-77.039
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.891,-77.041
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.894,-77.038
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.893,-77.038
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.893,-77.038
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.893,-77.039
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.892,-77.04
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Washington,DC,Active,,North America,,38.899,-77.032
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.871,-87.628
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.875,-87.625
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.88,-87.62
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.873,-87.627
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.874,-87.626
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.876,-87.624
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.877,-87.623
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.878,-87.622
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.873,-87.627
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.874,-87.626
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.873,-87.627
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.879,-87.621
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.875,-87.625
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.872,-87.628
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.875,-87.625
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.876,-87.624
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.877,-87.623
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.874,-87.626
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.876,-87.624
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.876,-87.624
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.874,-87.626
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.874,-87.626
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.875,-87.625
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chicago,IL,Active,,North America,,41.875,-87.625
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.711,-74.008
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.714,-74.004
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.713,-74.006
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.71,-74.009
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.71,-74.009
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.713,-74.006
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.713,-74.006
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.714,-74.004
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New York City,NY,Active,,North America,,40.712,-74.006
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.751,-84.388
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.746,-84.393
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.753,-84.386
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.75,-84.389
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.751,-84.388
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.753,-84.386
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.747,-84.392
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.751,-84.388
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.75,-84.389
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.753,-84.386
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.752,-84.387
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.752,-84.388
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.748,-84.391
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.75,-84.389
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.752,-84.387
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.75,-84.389
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Atlanta,GA,Active,,North America,,33.753,-84.386
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.056,-118.24
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.051,-118.245
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.051,-118.246
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.051,-118.246
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.053,-118.243
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.055,-118.241
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.052,-118.244
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.058,-118.238
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.055,-118.242
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.053,-118.243
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.057,-118.239
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.058,-118.238
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.057,-118.24
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.053,-118.244
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Los Angeles,CA,Active,,North America,,34.05,-118.246
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.773,-80.195
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.771,-80.197
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.772,-80.196
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.771,-80.197
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.771,-80.197
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.774,-80.194
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.775,-80.193
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.77,-80.198
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.773,-80.195
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.77,-80.197
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Miami,FL,Active,,North America,,25.778,-80.19
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.895,-97.048
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.9,-97.043
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.901,-97.042
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.901,-97.042
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.895,-97.048
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.896,-97.048
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.893,-97.05
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.9,-97.043
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.896,-97.047
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.893,-97.05
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.899,-97.044
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.892,-97.051
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.895,-97.048
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.894,-97.049
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.897,-97.046
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.894,-97.049
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.896,-97.047
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dallas-Fort Worth,TX,Active,,North America,,32.896,-97.047
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Houston,TX,Active,,North America,,29.755,-95.372
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Houston,TX,Active,,North America,,29.755,-95.372
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Houston,TX,Active,,North America,,29.755,-95.371
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Houston,TX,Active,,North America,,29.758,-95.369
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Houston,TX,Active,,North America,,29.757,-95.37
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Houston,TX,Active,,North America,,29.756,-95.37
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.783,-122.416
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.776,-122.423
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.781,-122.418
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.775,-122.424
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.779,-122.42
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.777,-122.422
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.782,-122.417
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,San Francisco,CA,Active,,North America,,37.775,-122.424
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Boston,MA,Active,,North America,,42.358,-71.058
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Boston,MA,Active,,North America,,42.358,-71.058
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Boston,MA,Active,,North America,,42.358,-71.058
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Boston,MA,Active,,North America,,42.359,-71.057
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Boston,MA,Active,,North America,,42.356,-71.059
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Denver,CO,Active,,North America,,39.74,-104.984
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Denver,CO,Active,,North America,,39.742,-104.982
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Denver,CO,Active,,North America,,39.738,-104.986
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Denver,CO,Active,,North America,,39.743,-104.981
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Denver,CO,Active,,North America,,39.739,-104.985
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Denver,CO,Active,,North America,,39.741,-104.983
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Portland,OR,Active,,North America,,45.524,-122.671
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Portland,OR,Active,,North America,,45.52,-122.674
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Portland,OR,Active,,North America,,45.522,-122.673
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seattle,WA,Active,,North America,,47.605,-122.329
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seattle,WA,Active,,North America,,47.603,-122.331
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seattle,WA,Active,,North America,,47.601,-122.333
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seattle,WA,Active,,North America,,47.6,-122.334
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seattle,WA,Active,,North America,,47.608,-122.326
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seattle,WA,Active,,North America,,47.604,-122.329
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Minneapolis,MN,Active,,North America,,44.978,-93.265
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Minneapolis,MN,Active,,North America,,44.973,-93.269
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Minneapolis,MN,Active,,North America,,44.978,-93.265
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Minneapolis,MN,Active,,North America,,44.974,-93.269
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Phoenix,AZ,Active,,North America,,33.452,-112.07
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Phoenix,AZ,Active,,North America,,33.452,-112.071
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Phoenix,AZ,Active,,North America,,33.448,-112.075
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Philadelphia,PA,Active,,North America,,39.954,-75.162
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Philadelphia,PA,Active,,North America,,39.951,-75.165
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Salt Lake City,UT,Active,,North America,,40.757,-111.89
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Nashville,TN,Active,,North America,,36.16,-86.777
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Nashville,TN,Active,,North America,,36.163,-86.773
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Detroit,MI,Active,,North America,,42.332,-83.046
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Detroit,MI,Active,,North America,,42.328,-83.051
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tampa,FL,Active,,North America,,27.95,-82.456
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tampa,FL,Active,,North America,,27.952,-82.455
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.735,-74.173
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.735,-74.173
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.735,-74.173
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.736,-74.172
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.739,-74.169
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.74,-74.168
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.733,-74.175
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.738,-74.17
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Newark,NJ,Active,,North America,,40.732,-74.176
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Columbus,OH,Active,,North America,,39.966,-82.997
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Columbus,OH,Active,,North America,,39.961,-83.002
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kansas City,MO,Active,,North America,,39.104,-94.574
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kansas City,MO,Active,,North America,,39.101,-94.577
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Pittsburgh,PA,Active,,North America,,40.442,-79.99
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Pittsburgh,PA,Active,,North America,,40.44,-79.992
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Querétaro,Mexico,Active,,North America,,20.594,-100.389
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Querétaro,Mexico,Active,,North America,,20.589,-100.394
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Querétaro,Mexico,Active,,North America,,20.592,-100.391
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Querétaro,Mexico,Active,,North America,,20.592,-100.391
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Toronto,Canada,Active,,North America,,43.651,-79.386
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Toronto,Canada,Active,,North America,,43.657,-79.38
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Toronto,Canada,Active,,North America,,43.653,-79.384
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Toronto,Canada,Active,,North America,,43.656,-79.382
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Toronto,Canada,Active,,North America,,43.656,-79.381
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Montreal,Canada,Active,,North America,,45.502,-73.571
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Montreal,Canada,Active,,North America,,45.502,-73.571
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Vancouver,Canada,Active,,North America,,49.262,-123.113
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.11,8.681
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.114,8.685
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.11,8.681
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.112,8.683
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.107,8.679
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.107,8.678
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.111,8.683
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.112,8.683
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.112,8.684
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.109,8.681
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.107,8.678
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.11,8.682
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.111,8.683
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.109,8.681
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.114,8.685
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.112,8.683
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Frankfurt am Main,Germany,Active,,Europe,,50.112,8.683
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Düsseldorf,Germany,Active,,Europe,,51.225,6.776
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Düsseldorf,Germany,Active,,Europe,,51.226,6.777
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Düsseldorf,Germany,Active,,Europe,,51.228,6.779
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Düsseldorf,Germany,Active,,Europe,,51.225,6.776
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Düsseldorf,Germany,Active,,Europe,,51.229,6.78
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hamburg,Germany,Active,,Europe,,53.547,9.997
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hamburg,Germany,Active,,Europe,,53.554,10.004
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hamburg,Germany,Active,,Europe,,53.551,10.002
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hamburg,Germany,Active,,Europe,,53.547,9.997
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hamburg,Germany,Active,,Europe,,53.547,9.997
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hamburg,Germany,Active,,Europe,,53.552,10.002
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Munich,Germany,Active,,Europe,,48.135,11.573
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Munich,Germany,Active,,Europe,,48.141,11.579
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Munich,Germany,Active,,Europe,,48.133,11.571
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Munich,Germany,Active,,Europe,,48.137,11.575
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Berlin,Germany,Active,,Europe,,52.521,13.393
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Berlin,Germany,Active,,Europe,,52.518,13.389
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Berlin,Germany,Active,,Europe,,52.519,13.391
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Berlin,Germany,Active,,Europe,,52.514,13.386
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Berlin,Germany,Active,,Europe,,52.515,13.387
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.857,2.351
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.852,2.347
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.858,2.353
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.851,2.346
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.852,2.347
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.85,2.345
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.858,2.353
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.856,2.351
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.854,2.349
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.852,2.347
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Paris,France,Active,,Europe,,48.857,2.352
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Marseille,France,Active,,Europe,,43.301,5.374
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Marseille,France,Active,,Europe,,43.293,5.367
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Marseille,France,Active,,Europe,,43.299,5.373
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Marseille,France,Active,,Europe,,43.296,5.37
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Marseille,France,Active,,Europe,,43.294,5.368
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Marseille,France,Active,,Europe,,43.294,5.368
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.463,9.188
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.46,9.186
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.466,9.192
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.461,9.187
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.465,9.19
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.463,9.189
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.464,9.19
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.465,9.19
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Milan,Italy,Active,,Europe,,45.466,9.191
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rome,Italy,Active,,Europe,,41.898,12.487
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rome,Italy,Active,,Europe,,41.894,12.484
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rome,Italy,Active,,Europe,,41.891,12.481
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rome,Italy,Active,,Europe,,41.892,12.481
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rome,Italy,Active,,Europe,,41.893,12.482
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rome,Italy,Active,,Europe,,41.894,12.483
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Palermo,Italy,Active,,Europe,,38.108,13.349
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Amsterdam,Netherlands,Active,,Europe,,52.369,4.889
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Amsterdam,Netherlands,Active,,Europe,,52.372,4.892
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Amsterdam,Netherlands,Active,,Europe,,52.369,4.889
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Amsterdam,Netherlands,Active,,Europe,,52.371,4.89
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Amsterdam,Netherlands,Active,,Europe,,52.373,4.893
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Manchester,UK,Active,,Europe,,53.481,-2.243
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Manchester,UK,Active,,Europe,,53.479,-2.246
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Manchester,UK,Active,,Europe,,53.484,-2.241
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Manchester,UK,Active,,Europe,,53.476,-2.249
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Manchester,UK,Active,,Europe,,53.481,-2.244
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.503,-0.132
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.505,-0.13
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.503,-0.132
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.508,-0.127
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.508,-0.127
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.506,-0.129
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.508,-0.127
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.505,-0.13
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.506,-0.129
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.509,-0.126
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.509,-0.126
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.508,-0.127
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.504,-0.131
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.506,-0.129
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.503,-0.132
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.504,-0.131
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.508,-0.127
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.506,-0.129
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.508,-0.127
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.509,-0.126
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.507,-0.128
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.51,-0.125
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.509,-0.126
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.506,-0.129
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,London,UK,Active,,Europe,,51.509,-0.126
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dublin,Ireland,Active,,Europe,,53.345,-6.265
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Dublin,Ireland,Active,,Europe,,53.352,-6.258
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Vienna,Austria,Active,,Europe,,48.211,16.375
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Vienna,Austria,Active,,Europe,,48.205,16.369
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Vienna,Austria,Active,,Europe,,48.212,16.376
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Stockholm,Sweden,Active,,Europe,,59.327,18.073
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Stockholm,Sweden,Active,,Europe,,59.329,18.075
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Stockholm,Sweden,Active,,Europe,,59.327,18.073
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Stockholm,Sweden,Active,,Europe,,59.322,18.068
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Copenhagen,Denmark,Active,,Europe,,55.684,12.568
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Copenhagen,Denmark,Active,,Europe,,55.687,12.57
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Copenhagen,Denmark,Active,,Europe,,55.687,12.57
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Helsinki,Finland,Active,,Europe,,60.164,24.939
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Helsinki,Finland,Active,,Europe,,60.163,24.938
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Helsinki,Finland,Active,,Europe,,60.167,24.942
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Helsinki,Finland,Active,,Europe,,60.171,24.947
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Athens,Greece,Active,,Europe,,37.977,23.736
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Brussels,Belgium,Active,,Europe,,50.848,4.353
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Budapest,Hungary,Active,,Europe,,47.502,19.045
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Lisbon,Portugal,Active,,Europe,,38.709,-9.135
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Oslo,Norway,Active,,Europe,,59.913,10.739
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Oslo,Norway,Active,,Europe,,59.917,10.742
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bucharest,Romania,Active,,Europe,,44.432,26.099
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Prague,Czech Republic,Active,,Europe,,50.09,14.424
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sofia,Bulgaria,Active,,Europe,,42.698,23.322
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sofia,Bulgaria,Active,,Europe,,42.699,23.323
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sofia,Bulgaria,Active,,Europe,,42.697,23.321
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Warsaw,Poland,Active,,Europe,,52.231,21.006
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Warsaw,Poland,Active,,Europe,,52.235,21.009
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Warsaw,Poland,Active,,Europe,,52.234,21.008
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Warsaw,Poland,Active,,Europe,,52.229,21.004
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Warsaw,Poland,Active,,Europe,,52.234,21.009
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Zagreb,Croatia,Active,,Europe,,45.845,15.965
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Zurich,Switzerland,Active,,Europe,,47.374,8.541
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Zurich,Switzerland,Active,,Europe,,47.371,8.538
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Barcelona,Spain,Active,,Europe,,41.379,2.173
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Barcelona,Spain,Active,,Europe,,41.381,2.176
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.413,-3.707
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.42,-3.7
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.42,-3.7
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.416,-3.704
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.413,-3.707
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.421,-3.7
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.417,-3.703
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.419,-3.701
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.413,-3.707
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Madrid,Spain,Active,,Europe,,40.417,-3.703
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.615,77.21
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.611,77.207
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.613,77.208
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.616,77.211
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.617,77.212
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.618,77.213
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.618,77.213
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.615,77.21
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.618,77.213
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.617,77.212
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.615,77.21
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.61,77.206
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.617,77.212
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,New Delhi,India,Active,,Asia,,28.61,77.205
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.086,80.272
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.087,80.274
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.082,80.268
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.081,80.268
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.085,80.271
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.08,80.267
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.085,80.271
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Chennai,India,Active,,Asia,,13.086,80.272
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.083,72.888
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.079,72.884
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.077,72.882
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.079,72.884
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.084,72.889
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.079,72.884
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.084,72.889
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Mumbai,India,Active,,Asia,,19.085,72.891
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Pune,India,Active,,Asia,,18.517,73.85
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Pune,India,Active,,Asia,,18.523,73.856
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Pune,India,Active,,Asia,,18.521,73.854
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Pune,India,Active,,Asia,,18.524,73.857
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bangalore,India,Active,,Asia,,12.981,77.594
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bangalore,India,Active,,Asia,,12.973,77.587
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bangalore,India,Active,,Asia,,12.973,77.586
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bangalore,India,Active,,Asia,,12.977,77.59
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bangalore,India,Active,,Asia,,12.978,77.592
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hyderabad,India,Active,,Asia,,17.358,78.471
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hyderabad,India,Active,,Asia,,17.36,78.474
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hyderabad,India,Active,,Asia,,17.365,78.478
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hyderabad,India,Active,,Asia,,17.358,78.472
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hyderabad,India,Active,,Asia,,17.358,78.472
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Osaka,Japan,Active,,Asia,,34.663,135.501
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Osaka,Japan,Active,,Asia,,34.662,135.501
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Osaka,Japan,Active,,Asia,,34.664,135.503
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Osaka,Japan,Active,,Asia,,34.661,135.499
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Osaka,Japan,Active,,Asia,,34.659,135.498
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.684,139.774
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.688,139.779
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.681,139.771
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.687,139.777
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.68,139.771
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.686,139.776
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.688,139.778
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.687,139.778
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.686,139.776
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.687,139.777
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.687,139.778
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.683,139.773
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.687,139.777
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.681,139.771
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.686,139.777
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.681,139.772
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.682,139.772
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.688,139.779
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.688,139.778
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.681,139.772
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.681,139.772
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Tokyo,Japan,Active,,Asia,,35.687,139.778
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Taoyuan,Taiwan,Active,,Asia,,24.997,121.305
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Taoyuan,Taiwan,Active,,Asia,,24.993,121.301
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Taoyuan,Taiwan,Active,,Asia,,24.991,121.299
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.567,126.979
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.57,126.981
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.565,126.977
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.565,126.977
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.566,126.978
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.563,126.975
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.567,126.979
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Seoul,Korea,Active,,Asia,,37.566,126.978
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bangkok,Thailand,Active,,Asia,,13.757,100.498
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bangkok,Thailand,Active,,Asia,,13.755,100.496
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kolkata,India,Active,,Asia,,22.575,88.366
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kolkata,India,Active,,Asia,,22.576,88.368
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kolkata,India,Active,,Asia,,22.574,88.365
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kolkata,India,Active,,Asia,,22.577,88.368
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Jakarta,Indonesia,Active,,Asia,,-6.172,106.83
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Jakarta,Indonesia,Active,,Asia,,-6.173,106.829
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Jakarta,Indonesia,Active,,Asia,,-6.179,106.823
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Jakarta,Indonesia,Active,,Asia,,-6.176,106.827
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Jakarta,Indonesia,Active,,Asia,,-6.174,106.828
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kuala Lumpur,Malaysia,Active,,Asia,,3.152,101.695
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Kuala Lumpur,Malaysia,Active,,Asia,,3.156,101.698
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Manila,Philippines,Active,,Asia,,14.585,120.979
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Manila,Philippines,Active,,Asia,,14.577,120.972
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hanoi,Vietnam,Active,,Asia,,21.026,105.851
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Ho Chi Minh City,Vietnam,Active,,Asia,,10.781,106.705
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sydney,Australia,Active,,Australia & New Zealand,,-33.867,151.212
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sydney,Australia,Active,,Australia & New Zealand,,-33.873,151.205
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sydney,Australia,Active,,Australia & New Zealand,,-33.867,151.211
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sydney,Australia,Active,,Australia & New Zealand,,-33.868,151.21
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Auckland,New Zealand,Active,,Australia & New Zealand,,-36.852,174.764
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Auckland,New Zealand,Active,,Australia & New Zealand,,-36.855,174.76
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Melbourne,Australia,Active,,Australia & New Zealand,,-37.814,144.964
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Melbourne,Australia,Active,,Australia & New Zealand,,-37.811,144.966
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Melbourne,Australia,Active,,Australia & New Zealand,,-37.812,144.965
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Perth,Australia,Active,,Australia & New Zealand,,-31.952,115.864
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Brisbane,Australia,Active,,Australia & New Zealand,,-27.471,153.021
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Brisbane,Australia,Active,,Australia & New Zealand,,-27.473,153.02
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.554,-46.637
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.548,-46.63
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.546,-46.629
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.549,-46.631
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.548,-46.631
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.551,-46.633
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.55,-46.633
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.548,-46.63
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.552,-46.634
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.55,-46.632
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Sao Paulo,Brazil,Active,,South America,,-23.547,-46.63
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rio De Janeiro,Brazil,Active,,South America,,-22.915,-43.213
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rio De Janeiro,Brazil,Active,,South America,,-22.912,-43.211
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rio De Janeiro,Brazil,Active,,South America,,-22.908,-43.206
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rio De Janeiro,Brazil,Active,,South America,,-22.908,-43.206
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rio De Janeiro,Brazil,Active,,South America,,-22.909,-43.208
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Rio De Janeiro,Brazil,Active,,South America,,-22.911,-43.209
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Fortaleza,Brazil,Active,,South America,,-3.733,-38.525
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Fortaleza,Brazil,Active,,South America,,-3.728,-38.519
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Fortaleza,Brazil,Active,,South America,,-3.73,-38.522
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Fortaleza,Brazil,Active,,South America,,-3.732,-38.523
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bogota,Colombia,Active,,South America,,4.654,-74.082
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bogota,Colombia,Active,,South America,,4.653,-74.084
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Bogota,Colombia,Active,,South America,,4.649,-74.087
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Buenos Aires,Argentina,Active,,South America,,-34.611,-58.44
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Buenos Aires,Argentina,Active,,South America,,-34.606,-58.436
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Buenos Aires,Argentina,Active,,South America,,-34.607,-58.437
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Santiago,Chile,Active,,South America,,-33.437,-70.65
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Santiago,Chile,Active,,South America,,-33.436,-70.649
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Santiago,Chile,Active,,South America,,-33.435,-70.647
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Santiago,Chile,Active,,South America,,-33.44,-70.652
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Santiago,Chile,Active,,South America,,-33.434,-70.647
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Santiago,Chile,Active,,South America,,-33.436,-70.648
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Lima,Peru,Active,,South America,,-12.06,-77.034
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Lima,Peru,Active,,South America,,-12.061,-77.036
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Cape Town,South Africa,Active,,Africa,,-33.931,18.415
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Johannesburg,South Africa,Active,,Africa,,-26.207,28.048
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Nairobi,Kenya,Active,,Africa,,-1.287,36.814
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Lagos,Nigeria,Active,,Africa,,6.454,3.393
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Shanghai,China,Active,,China,,31.228,121.465
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Shenzhen,China,Active,,China,,22.547,114.057
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Zhongwei,China,Active,,China,,37.503,105.196
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Beijing,China,Active,,China,,39.908,116.394
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hong Kong,China,Active,,China,,22.282,114.166
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hong Kong,China,Active,,China,,22.277,114.161
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hong Kong,China,Active,,China,,22.275,114.158
+Amazon,Edge Locations,https://aws.amazon.com/cloudfront/features/,Hong Kong,China,Active,,China,,22.276,114.159
