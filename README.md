@@ -3,8 +3,8 @@
 With the aim of creating a more comprehensive picture of global cloud and CDN infrastructure, I have collected data scraped from various service provider websites into CSV and GeoJSON format. So far, I have collected information from:
 
 - [Cloudflare's Global Network](https://www.cloudflare.com/en-gb/network/)
-- [Amazon's Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/)
-- [Microsoft's Edge Locations](https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region)
+- [Amazon Global Edge Network](https://aws.amazon.com/cloudfront/features/)
+- [Microsoft Edge Locations](https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region)
 - [Google's Edge Locations](https://cloud.google.com/vpc/docs/edge-locations)
 - [Fastly PoPs](https://www.fastly.com/network-map/)
 - [Facebook (now Meta) Network Appliances](https://anuragbhatia.com/2022/07/networking/isp-column/facebook-cache-fna-updates-july-2022/)
