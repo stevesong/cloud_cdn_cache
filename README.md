@@ -5,7 +5,7 @@ With the aim of creating a more comprehensive picture of global cloud and CDN in
 - [Cloudflare's Global Network](https://www.cloudflare.com/en-gb/network/)
 - [Amazon Global Edge Network](https://aws.amazon.com/cloudfront/features/)
 - [Microsoft Edge Locations](https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region)
-- [Google's Edge Locations](https://cloud.google.com/vpc/docs/edge-locations)
+- [Google Datacentre/PoP/GGC Locations](https://peering.google.com/static/js/site/modules/pages/infrastructure.html)
 - [Fastly PoPs](https://www.fastly.com/network-map/)
 - [Facebook (now Meta) Network Appliances](https://anuragbhatia.com/2022/07/networking/isp-column/facebook-cache-fna-updates-july-2022/)
 - [Akamai](https://www.akamai.com/why-akamai)
