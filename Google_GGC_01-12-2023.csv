@@ -1,0 +1,1268 @@
+Provider,Service Name,URL,City,Country,Status,IP Version,Hosting Provider,C Number,Airport Code,Airport Code Number,ISP Name,CDN Type,Zone Name,Region,Parent Region,Latitude,Longitude
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Moncks Corner,United States,Active,,,,,0,,,,,,33.195,-80.01
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zhanghua City,"Taiwan, Province of China",Active,,,,,0,,,,,,24.076,120.545
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Council Bluffs,United States,Active,,,,,0,,,,,,41.259,-95.854
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Effingham County,United States,Active,,,,,0,,,,,,39.059,-88.545
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dublin,Ireland,Active,,,,,0,,,,,,53.35,-6.26
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Eemshaven,Netherlands,Active,,,,,0,,,,,,53.448,6.85
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fredericia,Denmark,Active,,,,,0,,,,,,55.565,9.756
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hamina,Finland,Active,,,,,0,,,,,,60.569,27.188
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Henderson,United States,Active,,,,,0,,,,,,36.03,-114.983
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jackson County,United States,Active,,,,,0,,,,,,34.769,-85.987
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kinston,United States,Active,,,,,0,,,,,,35.259,-77.648
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Loudoun County,United States,Active,,,,,0,,,,,,39.098,-77.671
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mayes County,United States,Active,,,,,0,,,,,,36.305,-95.236
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Middenmeer,Netherlands,Active,,,,,0,,,,,,52.811,4.995
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Midlothian,United States,Active,,,,,0,,,,,,32.482,-96.994
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Montgomery County,United States,Active,,,,,0,,,,,,36.48,-87.379
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New Albany,United States,Active,,,,,0,,,,,,40.081,-82.809
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Papillion,United States,Active,,,,,0,,,,,,41.154,-96.042
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Provincia de Santiago,Chile,Active,,,,,0,,,,,,-33.359,-70.713
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Singapore,Singapore,Active,,,,,0,,,,,,1.357,103.819
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint-Ghislain,Belgium,Active,,,,,0,,,,,,50.448,3.82
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Storey County,United States,Active,,,,,0,,,,,,39.457,-119.516
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,The Dalles,United States,Active,,,,,0,,,,,,45.602,-121.184
+Google,datacenters,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Inzai,Japan,Active,,,,,0,,,,,,35.815,140.134
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Melbourne,Australia,Active,,,,,0,,,,,,-37.669,144.839
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Phoenix,United States,Active,,,,,0,,,,,,33.434,-112.035
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Laval (administrative region),Canada,Active,,,,,0,,,,,,45.558,-73.73
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Amsterdam,Netherlands,Active,,,,,0,,,,,,52.37,4.895
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ashburn,United States,Active,,,,,0,,,,,,39.044,-77.487
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Atlanta,United States,Active,,,,,0,,,,,,33.749,-84.388
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Budapest,Hungary,Active,,,,,0,,,,,,47.498,19.04
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buenos Aires,Argentina,Active,,,,,0,,,,,,-34.604,-58.382
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chennai,India,Active,,,,,0,,,,,,13.052,80.251
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chicago,United States,Active,,,,,0,,,,,,41.878,-87.63
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dallas,United States,Active,,,,,0,,,,,,32.78,-96.8
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Denver,United States,Active,,,,,0,,,,,,39.738,-104.985
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dublin,Ireland,Active,,,,,0,,,,,,53.35,-6.26
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Frankfurt,Germany,Active,,,,,0,,,,,,50.111,8.682
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fujairah,United Arab Emirates,Active,,,,,0,,,,,,25.117,56.353
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hamburg,Germany,Active,,,,,0,,,,,,53.551,9.994
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tsuen Wan District,China,Active,,,,,0,,,,,,22.396,114.109
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Johannesburg,South Africa,Active,,,,,0,,,,,,-26.204,28.047
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kyiv,Ukraine,Active,,,,,0,,,,,,50.45,30.523
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kuala Lumpur,Malaysia,Active,,,,,0,,,,,,3.139,101.687
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Shomolu,Nigeria,Active,,,,,0,,,,,,6.524,3.379
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lisbon,Portugal,Active,,,,,0,,,,,,38.722,-9.139
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of Westminster,United Kingdom,Active,,,,,0,,,,,,51.509,-0.125
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Los Angeles,United States,Active,,,,,0,,,,,,34.052,-118.244
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Madrid,Spain,Active,,,,,0,,,,,,40.417,-3.704
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Marseille,France,Active,,,,,0,,,,,,43.296,5.37
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mexico City,Mexico,Active,,,,,0,,,,,,19.433,-99.133
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Miami,United States,Active,,,,,0,,,,,,25.789,-80.204
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Milan,Italy,Active,,,,,0,,,,,,45.465,9.187
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tudor ward,Kenya,Active,,,,,0,,,,,,-4.043,39.668
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Moscow,Russian Federation,Active,,,,,0,,,,,,55.756,37.617
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mumbai,India,Active,,,,,0,,,,,,19.076,72.878
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Munich,Germany,Active,,,,,0,,,,,,48.135,11.582
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Muscat,Oman,Active,,,,,0,,,,,,23.61,58.54
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kotwali Tehsil,India,Active,,,,,0,,,,,,28.635,77.225
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New York,United States,Active,,,,,0,,,,,,40.706,-73.978
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Osaka,Japan,Active,,,,,0,,,,,,34.694,135.502
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palo Alto,United States,Active,,,,,0,,,,,,37.442,-122.143
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Paris,France,Active,,,,,0,,,,,,48.857,2.352
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Prague,Czechia,Active,,,,,0,,,,,,50.076,14.438
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rio de Janeiro,Brazil,Active,,,,,0,,,,,,-22.908,-43.197
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint Petersburg,Russian Federation,Active,,,,,0,,,,,,59.934,30.335
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Jose,United States,Active,,,,,0,,,,,,37.339,-121.895
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santiago,Chile,Active,,,,,0,,,,,,-33.469,-70.642
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São Paulo,Brazil,Active,,,,,0,,,,,,-23.551,-46.633
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Seattle,United States,Active,,,,,0,,,,,,47.606,-122.332
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Singapore,Singapore,Active,,,,,0,,,,,,1.28,103.851
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sofia,Bulgaria,Active,,,,,0,,,,,,42.698,23.322
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Stockholm,Sweden,Active,,,,,0,,,,,,59.329,18.065
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sydney,Australia,Active,,,,,0,,,,,,-33.867,151.207
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Taipei,"Taiwan, Province of China",Active,,,,,0,,,,,,25.091,121.56
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Shinjuku,Japan,Active,,,,,0,,,,,,35.689,139.692
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Old Toronto,Canada,Active,,,,,0,,,,,,43.653,-79.383
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zurich,Switzerland,Active,,,,,0,,,,,,47.369,8.539
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bogota,Colombia,Active,,,,,0,,,,,,4.598,-74.076
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Warsaw,Poland,Active,,,,,0,,,,,,52.227,21.004
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Brussels,Belgium,Active,,,,,0,,,,,,50.85,4.349
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Doha,Qatar,Active,,,,,0,,,,,,25.286,51.535
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Helsinki,Finland,Active,,,,,0,,,,,,60.192,24.946
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Special Capital Region of Jakarta,Indonesia,Active,,,,,0,,,,,,-6.2,106.817
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Manila,Philippines,Active,,,,,0,,,,,,14.6,120.984
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Salt Lake City,United States,Active,,,,,0,,,,,,40.759,-111.876
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Seoul,"Korea, Republic of",Active,,,,,0,,,,,,37.533,127.025
+Google,pops,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Herzliya,Israel,Active,,,,,0,,,,,,32.166,34.843
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Matsapha,Eswatini,Active,,,,,0,,,,,,-26.52,31.314
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lago Sul,Brazil,Active,,,,,0,,,,,,-15.871,-47.919
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hà Nội,Viet Nam,Active,,,,,0,,,,,,21.221,105.807
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tajiri,Japan,Active,,,,,0,,,,,,34.427,135.244
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tbilisi,Georgia,Active,,,,,0,,,,,,41.669,44.955
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint Croix District,United States,Active,,,,,0,,,,,,17.702,-64.799
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buchchampeta,India,Active,,,,,0,,,,,,17.11,81.819
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Richmond,Canada,Active,,,,,0,,,,,,49.194,-123.184
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cần Thơ,Viet Nam,Active,,,,,0,,,,,,10.051,105.763
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Namibia,Active,,,,,0,,,,,,-22.48,17.471
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palmira,Colombia,Active,,,,,0,,,,,,3.543,-76.382
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Khimki,Russian Federation,Active,,,,,0,,,,,,55.973,37.415
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kharkiv,Ukraine,Active,,,,,0,,,,,,49.926,36.284
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,La Victoria,Peru,Active,,,,,0,,,,,,-6.787,-79.828
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buqar Jıraw District,Kazakhstan,Active,,,,,0,,,,,,49.671,73.334
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Australia,Active,,,,,0,,,,,,-27.384,153.118
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Melbourne,Australia,Active,,,,,0,,,,,,-37.673,144.843
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Valente Díaz,Mexico,Active,,,,,0,,,,,,19.146,-96.187
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Khan Pou Senchey,Cambodia,Active,,,,,0,,,,,,11.547,104.844
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ivanovo,Russian Federation,Active,,,,,0,,,,,,57.058,40.98
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vinnytsia,Ukraine,Active,,,,,0,,,,,,49.245,28.61
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of Belmont,Australia,Active,,,,,0,,,,,,-31.94,115.967
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Antofagasta,Chile,Active,,,,,0,,,,,,-23.444,-70.445
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lower Swatara Township,United States,Active,,,,,0,,,,,,40.194,-76.763
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint-Louis,France,Active,,,,,0,,,,,,47.601,7.522
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Binə Atçılıq,Azerbaijan,Active,,,,,0,,,,,,40.468,50.047
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Porto Seguro,Brazil,Active,,,,,0,,,,,,-16.439,-39.081
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fortaleza,Brazil,Active,,,,,0,,,,,,-3.776,-38.532
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sola,Norway,Active,,,,,0,,,,,,58.877,5.638
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Little Rock,United States,Active,,,,,0,,,,,,34.729,-92.224
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Portland,United States,Active,,,,,0,,,,,,45.589,-122.597
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Romulus,United States,Active,,,,,0,,,,,,42.212,-83.353
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bhopal,India,Active,,,,,0,,,,,,23.288,77.338
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Es Senia,Algeria,Active,,,,,0,,,,,,35.624,-0.621
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Шаған ауылдық округі,Kazakhstan,Active,,,,,0,,,,,,51.151,51.542
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pattaya City,Thailand,Active,,,,,0,,,,,,12.95,100.883
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rio Largo,Brazil,Active,,,,,0,,,,,,-9.511,-35.792
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cary,United States,Active,,,,,0,,,,,,35.878,-78.787
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Latacunga,Ecuador,Active,,,,,0,,,,,,-0.907,-78.616
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,St.Thomas Mount-Pallavaram Cantonment Board,India,Active,,,,,0,,,,,,12.994,80.181
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Cayetano,Mexico,Active,,,,,0,,,,,,21.419,-104.843
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tijuana,Mexico,Active,,,,,0,,,,,,32.541,-116.97
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Goiânia,Brazil,Active,,,,,0,,,,,,-16.632,-49.221
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wrocław,Poland,Active,,,,,0,,,,,,51.103,16.886
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Uzhhorod,Ukraine,Active,,,,,0,,,,,,48.634,22.263
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rushcliffe,United Kingdom,Active,,,,,0,,,,,,52.92,-1.079
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nairobi,Kenya,Active,,,,,0,,,,,,-1.319,36.928
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Austin,United States,Active,,,,,0,,,,,,30.194,-97.67
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tegucigalpa,Honduras,Active,,,,,0,,,,,,14.061,-87.217
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Regina,Canada,Active,,,,,0,,,,,,50.429,-104.657
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Madison,United States,Active,,,,,0,,,,,,43.14,-89.338
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lucas County,United States,Active,,,,,0,,,,,,41.587,-83.808
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Champaign County,United States,Active,,,,,0,,,,,,40.039,-88.278
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Juan Bautista,Peru,Active,,,,,0,,,,,,-3.785,-73.309
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Reykjavik,Iceland,Active,,,,,0,,,,,,64.13,-21.941
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,eThekwini Metropolitan Municipality,South Africa,Active,,,,,0,,,,,,-29.614,31.116
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Seville,Spain,Active,,,,,0,,,,,,37.418,-5.893
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gornje Dubrave,Bosnia and Herzegovina,Active,,,,,0,,,,,,44.459,18.726
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Grand Junction,United States,Active,,,,,0,,,,,,39.123,-108.526
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Culiacán,Mexico,Active,,,,,0,,,,,,24.764,-107.475
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bologna,Italy,Active,,,,,0,,,,,,44.531,11.297
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Punta Arenas,Chile,Active,,,,,0,,,,,,-53.003,-70.855
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Arica,Chile,Active,,,,,0,,,,,,-18.349,-70.339
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mošnov,Czechia,Active,,,,,0,,,,,,49.696,18.111
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pointe La Rue,Seychelles,Active,,,,,0,,,,,,-4.674,55.522
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Quilpué,Chile,Active,,,,,0,,,,,,-33.05,-71.417
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Matoury,France,Active,,,,,0,,,,,,4.82,-52.361
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Napier,New Zealand,Active,,,,,0,,,,,,-39.464,176.868
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tanjung Aru,Malaysia,Active,,,,,0,,,,,,5.937,116.053
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Conakry,Guinea,Active,,,,,0,,,,,,9.577,-13.612
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Timika,Indonesia,Active,,,,,0,,,,,,-4.528,136.887
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Güémez,Mexico,Active,,,,,0,,,,,,23.703,-98.956
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Salekhard Urban Okrug,Russian Federation,Active,,,,,0,,,,,,66.591,66.611
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kostroma,Russian Federation,Active,,,,,0,,,,,,57.75,40.933
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Feira de Santana,Brazil,Active,,,,,0,,,,,,-12.201,-38.907
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ban Rai Phathana,Thailand,Active,,,,,0,,,,,,16.677,101.195
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Arkhangelsk Urban Okrug,Russian Federation,Active,,,,,0,,,,,,64.6,40.717
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gaborone,Botswana,Active,,,,,0,,,,,,-24.555,25.918
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pamandzi,France,Active,,,,,0,,,,,,-12.807,45.281
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Clarksdale,United States,Active,,,,,0,,,,,,34.2,-90.567
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aberdeen City,United Kingdom,Active,,,,,0,,,,,,57.204,-2.2
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tây Sơn District,Viet Nam,Active,,,,,0,,,,,,13.954,109.043
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Thiruvananthapuram,India,Active,,,,,0,,,,,,8.482,76.92
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palmas,Brazil,Active,,,,,0,,,,,,-10.291,-48.357
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Timehri,Guyana,Active,,,,,0,,,,,,6.499,-58.254
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ternopil,Ukraine,Active,,,,,0,,,,,,49.567,25.6
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Davao City,Philippines,Active,,,,,0,,,,,,7.125,125.646
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mfou,Cameroon,Active,,,,,0,,,,,,3.723,11.553
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mogadishu,Somalia,Active,,,,,0,,,,,,2.015,45.305
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Montes Claros,Brazil,Active,,,,,0,,,,,,-16.707,-43.819
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Joaquin County,United States,Active,,,,,0,,,,,,37.894,-121.238
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Speen,United Kingdom,Active,,,,,0,,,,,,51.417,-1.333
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saga,Japan,Active,,,,,0,,,,,,33.15,130.302
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Teixeira de Freitas,Brazil,Active,,,,,0,,,,,,-17.524,-39.669
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gulfport,United States,Active,,,,,0,,,,,,30.407,-89.07
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Iowa City,United States,Active,,,,,0,,,,,,41.667,-91.533
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Araguaína,Brazil,Active,,,,,0,,,,,,-7.217,-48.233
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Perímetro Urbano Cúcuta,Colombia,Active,,,,,0,,,,,,7.928,-72.512
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nuevo Laredo,Mexico,Active,,,,,0,,,,,,27.444,-99.571
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Salzburg,Austria,Active,,,,,0,,,,,,47.793,13.004
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,arrondissement de Menara المنارة,Morocco,Active,,,,,0,,,,,,31.607,-8.036
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mossoró,Brazil,Active,,,,,0,,,,,,-5.183,-37.333
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Marignane,France,Active,,,,,0,,,,,,43.437,5.215
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,London,United Kingdom,Active,,,,,0,,,,,,51.477,-0.461
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Netherlands,Active,,,,,0,,,,,,52.308,4.764
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ban Du,Thailand,Active,,,,,0,,,,,,19.952,99.883
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Taoyuan City,"Taiwan, Province of China",Active,,,,,0,,,,,,25.078,121.233
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kaluga,Russian Federation,Active,,,,,0,,,,,,54.549,36.372
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jileeb Al-Shiyukh,Kuwait,Active,,,,,0,,,,,,29.227,47.969
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jaipur Municipal Corporation,India,Active,,,,,0,,,,,,26.824,75.812
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Manchester,United Kingdom,Active,,,,,0,,,,,,53.354,-2.275
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jeddah,Saudi Arabia,Active,,,,,0,,,,,,21.679,39.157
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Matosinhos,Portugal,Active,,,,,0,,,,,,41.236,-8.678
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Guatemala City,Guatemala,Active,,,,,0,,,,,,14.584,-90.527
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Araraquara,Brazil,Active,,,,,0,,,,,,-21.812,-48.133
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Soamanandray,Madagascar,Active,,,,,0,,,,,,-18.797,47.479
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Saudi Arabia,Active,,,,,0,,,,,,24.958,46.699
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zaventem,Belgium,Active,,,,,0,,,,,,50.901,4.484
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chicago,United States,Active,,,,,0,,,,,,41.979,-87.905
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ciudad Juárez,Mexico,Active,,,,,0,,,,,,31.636,-106.429
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Busan,"Korea, Republic of",Active,,,,,0,,,,,,35.177,128.942
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Corpus Christi,United States,Active,,,,,0,,,,,,27.77,-97.501
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Argentina,Active,,,,,0,,,,,,-32.832,-68.793
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Luton,United Kingdom,Active,,,,,0,,,,,,51.875,-0.368
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Udon Thani,Thailand,Active,,,,,0,,,,,,17.386,102.788
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Los Angeles,United States,Active,,,,,0,,,,,,33.783,-118.25
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lampang,Thailand,Active,,,,,0,,,,,,18.272,99.504
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nashville-Davidson,United States,Active,,,,,0,,,,,,36.124,-86.678
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Florianópolis,Brazil,Active,,,,,0,,,,,,-27.671,-48.547
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Iraq,Active,,,,,0,,,,,,36.238,43.963
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Doha,Qatar,Active,,,,,0,,,,,,25.274,51.608
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bremen,Germany,Active,,,,,0,,,,,,53.047,8.787
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mineralovodsky District,Russian Federation,Active,,,,,0,,,,,,44.225,43.082
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bratislava,Slovakia,Active,,,,,0,,,,,,48.17,17.213
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Amarillo,United States,Active,,,,,0,,,,,,35.219,-101.706
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Navegantes,Brazil,Active,,,,,0,,,,,,-26.88,-48.651
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Krasnodar Municipality,Russian Federation,Active,,,,,0,,,,,,45.032,39.166
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Qushqaya,Iraq,Active,,,,,0,,,,,,35.517,44.3
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Ukraine,Active,,,,,0,,,,,,48.9,38.55
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Takamatsu,Japan,Active,,,,,0,,,,,,34.214,134.016
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Des Moines,United States,Active,,,,,0,,,,,,41.534,-93.658
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Junín,Argentina,Active,,,,,0,,,,,,-34.583,-60.967
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Qayyum Abad,Pakistan,Active,,,,,0,,,,,,33.617,73.099
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Port-au-Prince,Haiti,Active,,,,,0,,,,,,18.58,-72.293
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Myrtle Beach,United States,Active,,,,,0,,,,,,33.68,-78.928
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Alexandria,Egypt,Active,,,,,0,,,,,,31.184,29.949
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Douala,Cameroon,Active,,,,,0,,,,,,4.006,9.719
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Miskolc,Hungary,Active,,,,,0,,,,,,48.139,20.794
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Presidente Prudente,Brazil,Active,,,,,0,,,,,,-22.175,-51.425
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lages,Brazil,Active,,,,,0,,,,,,-27.783,-50.281
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Erechim,Brazil,Active,,,,,0,,,,,,-27.663,-52.272
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hyvinkää,Finland,Active,,,,,0,,,,,,60.654,24.884
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Álvaro Obregón,Mexico,Active,,,,,0,,,,,,19.85,-101.026
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Adur,United Kingdom,Active,,,,,0,,,,,,50.836,-0.297
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Cruz,Portugal,Active,,,,,0,,,,,,32.694,-16.778
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Narita,Japan,Active,,,,,0,,,,,,35.765,140.386
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rostov-on-Don,Russian Federation,Active,,,,,0,,,,,,47.258,39.818
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Oradea,Romania,Active,,,,,0,,,,,,47.025,21.902
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Surgut,Russian Federation,Active,,,,,0,,,,,,61.344,73.402
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Eugene,United States,Active,,,,,0,,,,,,44.125,-123.212
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Luque,Paraguay,Active,,,,,0,,,,,,-25.24,-57.519
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tewkesbury,United Kingdom,Active,,,,,0,,,,,,51.894,-2.167
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lawrence,United States,Active,,,,,0,,,,,,38.95,-95.283
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Liverpool,United Kingdom,Active,,,,,0,,,,,,53.334,-2.85
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,городской округ Барнаул,Russian Federation,Active,,,,,0,,,,,,53.363,83.547
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Abzelilovsky District,Russian Federation,Active,,,,,0,,,,,,53.393,58.756
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fort Lauderdale,United States,Active,,,,,0,,,,,,26.073,-80.153
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kostanay,Kazakhstan,Active,,,,,0,,,,,,53.207,63.55
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Division No. 11,Canada,Active,,,,,0,,,,,,53.307,-113.586
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sochi,Russian Federation,Active,,,,,0,,,,,,43.45,39.957
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pskov,Russian Federation,Active,,,,,0,,,,,,57.784,28.396
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Astana,Kazakhstan,Active,,,,,0,,,,,,51.023,71.467
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chhatrapati Sambhajinagar,India,Active,,,,,0,,,,,,19.863,75.398
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Low Crosby,United Kingdom,Active,,,,,0,,,,,,54.938,-2.809
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Old Toronto,Canada,Active,,,,,0,,,,,,43.627,-79.396
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São Lourenço,Brazil,Active,,,,,0,,,,,,-22.1,-45.033
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tuban,Indonesia,Active,,,,,0,,,,,,-8.748,115.167
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zalavár,Hungary,Active,,,,,0,,,,,,46.686,17.159
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Umuarama,Brazil,Active,,,,,0,,,,,,-23.799,-53.314
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jasionka,Poland,Active,,,,,0,,,,,,50.11,22.019
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Woolwich,Canada,Active,,,,,0,,,,,,43.461,-80.379
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Helsinki,Finland,Active,,,,,0,,,,,,60.254,25.035
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cot Malem,Indonesia,Active,,,,,0,,,,,,5.524,95.42
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tacna,Peru,Active,,,,,0,,,,,,-18.053,-70.276
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Joplin,United States,Active,,,,,0,,,,,,37.152,-94.498
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Catamayo,Ecuador,Active,,,,,0,,,,,,-3.996,-79.372
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bouguenais,France,Active,,,,,0,,,,,,47.157,-1.608
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Villa Mercedes,Argentina,Active,,,,,0,,,,,,-33.725,-65.378
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sambrial,Pakistan,Active,,,,,0,,,,,,32.535,74.364
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pleiku,Viet Nam,Active,,,,,0,,,,,,14.004,108.017
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Newcastle upon Tyne,United Kingdom,Active,,,,,0,,,,,,55.038,-1.692
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Feira de Santana,Brazil,Active,,,,,0,,,,,,-12.203,-38.906
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Montería,Colombia,Active,,,,,0,,,,,,8.824,-75.826
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Syktyvkar,Russian Federation,Active,,,,,0,,,,,,61.647,50.845
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Eindhoven,Netherlands,Active,,,,,0,,,,,,51.45,5.374
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Orlando,United States,Active,,,,,0,,,,,,28.429,-81.309
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Liên Hiệp,Viet Nam,Active,,,,,0,,,,,,11.75,108.367
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Maria,Brazil,Active,,,,,0,,,,,,-29.711,-53.688
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sylhet,Bangladesh,Active,,,,,0,,,,,,24.963,91.867
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Birmingham,United States,Active,,,,,0,,,,,,33.563,-86.754
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pindra,India,Active,,,,,0,,,,,,25.452,82.859
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tafuna,United States,Active,,,,,0,,,,,,-14.334,-170.713
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Irecê,Brazil,Active,,,,,0,,,,,,-11.3,-41.867
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Qasr Bin Ghashir,Libya,Active,,,,,0,,,,,,32.664,13.159
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tula,Russian Federation,Active,,,,,0,,,,,,54.2,37.617
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Östersund,Sweden,Active,,,,,0,,,,,,63.194,14.5
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Avoca,United States,Active,,,,,0,,,,,,41.339,-75.723
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Blumenau,Brazil,Active,,,,,0,,,,,,-26.933,-49.05
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Monsha'et Al Amary,Egypt,Active,,,,,0,,,,,,25.671,32.707
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Camiri,"Bolivia, Plurinational State of",Active,,,,,0,,,,,,-20.017,-63.567
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,La Plata,Argentina,Active,,,,,0,,,,,,-34.917,-57.95
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bari,Italy,Active,,,,,0,,,,,,41.138,16.765
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ourinhos,Brazil,Active,,,,,0,,,,,,-22.983,-49.867
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Araguaína,Brazil,Active,,,,,0,,,,,,-7.228,-48.24
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pimenta Bueno,Brazil,Active,,,,,0,,,,,,-11.635,-61.169
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vitória da Conquista,Brazil,Active,,,,,0,,,,,,-14.863,-40.863
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Morelos,Mexico,Active,,,,,0,,,,,,22.897,-102.687
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Phan Thiết City,Viet Nam,Active,,,,,0,,,,,,10.9,108.067
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,North Woodbury Township,United States,Active,,,,,0,,,,,,40.296,-78.32
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,El Calafate,Argentina,Active,,,,,0,,,,,,-50.28,-72.053
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Medvedevsky District,Russian Federation,Active,,,,,0,,,,,,56.701,47.896
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,El Paso,United States,Active,,,,,0,,,,,,31.802,-106.398
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Heroica Nogales,Mexico,Active,,,,,0,,,,,,31.226,-110.976
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Las Veredas,Mexico,Active,,,,,0,,,,,,23.152,-109.721
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Рыбинский район,Russian Federation,Active,,,,,0,,,,,,58.133,38.867
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hollymead,United States,Active,,,,,0,,,,,,38.139,-78.453
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Ukraine,Active,,,,,0,,,,,,50.345,30.895
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cherdaklinsky District,Russian Federation,Active,,,,,0,,,,,,54.401,48.803
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Porto Alegre,Brazil,Active,,,,,0,,,,,,-29.994,-51.171
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hải Phòng,Viet Nam,Active,,,,,0,,,,,,20.819,106.725
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Campo Grande,Brazil,Active,,,,,0,,,,,,-20.469,-54.672
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Warsaw,Poland,Active,,,,,0,,,,,,52.166,20.967
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mumbai,India,Active,,,,,0,,,,,,19.089,72.868
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Ana,United States,Active,,,,,0,,,,,,33.676,-117.868
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Al Kufa,Iraq,Active,,,,,0,,,,,,31.99,44.404
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Otopeni,Romania,Active,,,,,0,,,,,,44.572,26.102
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rio de Janeiro,Brazil,Active,,,,,0,,,,,,-22.812,-43.248
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Metropolitan Borough of Solihull,United Kingdom,Active,,,,,0,,,,,,52.454,-1.748
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Batam City,Indonesia,Active,,,,,0,,,,,,1.121,104.119
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Boise,United States,Active,,,,,0,,,,,,43.564,-116.223
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New Barrackpore,India,Active,,,,,0,,,,,,22.655,88.447
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tocumen,Panama,Active,,,,,0,,,,,,9.071,-79.383
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gemeinde Fischamend,Austria,Active,,,,,0,,,,,,48.11,16.578
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Billund,Denmark,Active,,,,,0,,,,,,55.74,9.152
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Ukraine,Active,,,,,0,,,,,,48.043,33.21
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Salé,Morocco,Active,,,,,0,,,,,,34.051,-6.751
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Larnaca,Cyprus,Active,,,,,0,,,,,,34.875,33.625
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vesele,Ukraine,Active,,,,,0,,,,,,48.074,37.74
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Piarco,Trinidad and Tobago,Active,,,,,0,,,,,,10.595,-61.337
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fukuoka,Japan,Active,,,,,0,,,,,,33.586,130.451
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Egypt,Active,,,,,0,,,,,,30.918,29.696
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kirovsk Urban Okrug,Russian Federation,Active,,,,,0,,,,,,67.576,33.58
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chattanooga,United States,Active,,,,,0,,,,,,35.035,-85.204
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Milan,Italy,Active,,,,,0,,,,,,45.449,9.278
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bontoa,Indonesia,Active,,,,,0,,,,,,-5.062,119.554
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Teresina,Brazil,Active,,,,,0,,,,,,-5.06,-42.824
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Visakhapatnam (Rural),India,Active,,,,,0,,,,,,17.721,83.224
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chassieu,France,Active,,,,,0,,,,,,45.729,4.939
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Coloane,China,Active,,,,,0,,,,,,22.149,113.592
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Concepcion,Chile,Active,,,,,0,,,,,,-36.773,-73.063
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vilhena,Brazil,Active,,,,,0,,,,,,-12.694,-60.098
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Soledad,Colombia,Active,,,,,0,,,,,,10.89,-74.781
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Thailand,Active,,,,,0,,,,,,13.912,100.607
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint Petersburg,Russian Federation,Active,,,,,0,,,,,,59.8,30.262
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kjojlija,North Macedonia,Active,,,,,0,,,,,,41.962,21.621
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dumas,India,Active,,,,,0,,,,,,21.114,72.742
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Denver,United States,Active,,,,,0,,,,,,39.862,-104.673
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chandigarh,India,Active,,,,,0,,,,,,30.673,76.789
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kirmington,United Kingdom,Active,,,,,0,,,,,,53.574,-0.351
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Diego,United States,Active,,,,,0,,,,,,32.734,-117.19
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Boone County,United States,Active,,,,,0,,,,,,39.049,-84.668
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Volgograd,Russian Federation,Active,,,,,0,,,,,,48.782,44.346
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Perimetro Urbano Pereira,Colombia,Active,,,,,0,,,,,,4.813,-75.739
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,СК Связист,Kyrgyzstan,Active,,,,,0,,,,,,43.061,74.478
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hermosillo,Mexico,Active,,,,,0,,,,,,29.096,-111.048
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Omsk,Russian Federation,Active,,,,,0,,,,,,54.967,73.311
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Laktaši,Bosnia and Herzegovina,Active,,,,,0,,,,,,44.941,17.297
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cartagena,Colombia,Active,,,,,0,,,,,,10.443,-75.513
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Paradise,United States,Active,,,,,0,,,,,,36.08,-115.152
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Katunayake,Sri Lanka,Active,,,,,0,,,,,,7.18,79.885
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Krykhivtsi,Ukraine,Active,,,,,0,,,,,,48.884,24.686
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Artyom City District,Russian Federation,Active,,,,,0,,,,,,43.399,132.148
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palo Alto,United States,Active,,,,,0,,,,,,37.467,-122.117
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Houston,United States,Active,,,,,0,,,,,,29.984,-95.341
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Malawi,Active,,,,,0,,,,,,-15.679,34.974
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ubon Ratchathani,Thailand,Active,,,,,0,,,,,,15.251,104.87
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Juliaca,Peru,Active,,,,,0,,,,,,-15.467,-70.158
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cotonou,Benin,Active,,,,,0,,,,,,6.357,2.384
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bandung,Indonesia,Active,,,,,0,,,,,,-6.901,107.576
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Maputo,Mozambique,Active,,,,,0,,,,,,-25.921,32.572
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vadum,Denmark,Active,,,,,0,,,,,,57.093,9.849
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Málaga,Spain,Active,,,,,0,,,,,,36.675,-4.499
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ibagué,Colombia,Active,,,,,0,,,,,,4.421,-75.134
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Denmark,Active,,,,,0,,,,,,56.297,9.125
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São José do Rio Preto,Brazil,Active,,,,,0,,,,,,-20.817,-49.406
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Thailand,Active,,,,,0,,,,,,8.112,98.305
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Marta,Colombia,Active,,,,,0,,,,,,11.12,-74.231
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zabdor,Kyrgyzstan,Active,,,,,0,,,,,,40.609,72.793
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Rosa,Argentina,Active,,,,,0,,,,,,-36.588,-64.276
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Magnolia,United States,Active,,,,,0,,,,,,31.179,-90.472
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Windsor Locks,United States,Active,,,,,0,,,,,,41.939,-72.683
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of White Plains,United States,Active,,,,,0,,,,,,41.067,-73.707
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Smolensk,Russian Federation,Active,,,,,0,,,,,,54.8,32.05
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Большое Савино,Russian Federation,Active,,,,,0,,,,,,57.914,56.021
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,городской округ Норильск,Russian Federation,Active,,,,,0,,,,,,69.311,87.332
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Altenrhein,Switzerland,Active,,,,,0,,,,,,47.485,9.561
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rinconada,Mexico,Active,,,,,0,,,,,,22.254,-100.931
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kloten,Switzerland,Active,,,,,0,,,,,,47.465,8.549
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tyumen,Russian Federation,Active,,,,,0,,,,,,57.189,65.324
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cologne,Germany,Active,,,,,0,,,,,,50.866,7.143
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Schkeuditz,Germany,Active,,,,,0,,,,,,51.432,12.242
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,North West Leicestershire,United Kingdom,Active,,,,,0,,,,,,52.831,-1.328
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,County Antrim,United Kingdom,Active,,,,,0,,,,,,54.657,-6.216
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Plottier,Argentina,Active,,,,,0,,,,,,-38.949,-68.156
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Show Low,United States,Active,,,,,0,,,,,,34.267,-110
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buffalo County,United States,Active,,,,,0,,,,,,44.083,-91.65
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kabul,Afghanistan,Active,,,,,0,,,,,,34.566,69.213
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Belgorod,Russian Federation,Active,,,,,0,,,,,,50.644,36.59
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Naha,Japan,Active,,,,,0,,,,,,26.196,127.646
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Paba Upazila,Bangladesh,Active,,,,,0,,,,,,24.437,88.616
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sunzhensky District,Russian Federation,Active,,,,,0,,,,,,43.324,45.003
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Shpakovsky District,Russian Federation,Active,,,,,0,,,,,,45.109,42.113
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pravoberezhny District,Russian Federation,Active,,,,,0,,,,,,43.205,44.607
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jacksonville,United States,Active,,,,,0,,,,,,30.494,-81.688
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yevlakh,Azerbaijan,Active,,,,,0,,,,,,40.636,47.138
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Houston,United States,Active,,,,,0,,,,,,29.646,-95.279
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Salta,Argentina,Active,,,,,0,,,,,,-24.86,-65.487
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Savannakhet,Lao People's Democratic Republic,Active,,,,,0,,,,,,16.561,104.764
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Resende,Brazil,Active,,,,,0,,,,,,-22.478,-44.481
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bagé,Brazil,Active,,,,,0,,,,,,-31.383,-54.117
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Augusta,United States,Active,,,,,0,,,,,,33.37,-81.964
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Manizales,Colombia,Active,,,,,0,,,,,,5.03,-75.465
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Colonia Aeropuerto,Mexico,Active,,,,,0,,,,,,17.602,-101.461
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Su Masu/Elmas,Italy,Active,,,,,0,,,,,,39.251,9.058
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bergen,Norway,Active,,,,,0,,,,,,60.293,5.218
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Washington County,United States,Active,,,,,0,,,,,,39.708,-77.729
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Matsumoto,Japan,Active,,,,,0,,,,,,36.167,137.923
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kirishima,Japan,Active,,,,,0,,,,,,31.803,130.719
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Page City Limits,United States,Active,,,,,0,,,,,,36.924,-111.448
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Warwick,United States,Active,,,,,0,,,,,,41.725,-71.426
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Møre og Romsdal,Norway,Active,,,,,0,,,,,,62.56,6.11
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Szymany,Poland,Active,,,,,0,,,,,,53.481,20.937
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Colombier-Saugnieu,France,Active,,,,,0,,,,,,45.726,5.081
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Idaho Falls,United States,Active,,,,,0,,,,,,43.514,-112.071
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Flagstaff,United States,Active,,,,,0,,,,,,35.138,-111.671
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Netherlands,Active,,,,,0,,,,,,12.189,-68.96
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santiago del Estero,Argentina,Active,,,,,0,,,,,,-27.766,-64.31
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Concordia,Argentina,Active,,,,,0,,,,,,-31.3,-58.017
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yopal,Colombia,Active,,,,,0,,,,,,5.319,-72.384
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Conroe,United States,Active,,,,,0,,,,,,30.317,-95.45
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nice,France,Active,,,,,0,,,,,,43.665,7.215
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ishwardi,Bangladesh,Active,,,,,0,,,,,,24.154,89.049
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mariquina,Chile,Active,,,,,0,,,,,,-39.649,-73.086
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kanawha County,United States,Active,,,,,0,,,,,,38.373,-81.593
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Akureyrarbær,Iceland,Active,,,,,0,,,,,,65.659,-18.072
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cà Mau City,Viet Nam,Active,,,,,0,,,,,,9.178,105.177
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Krasny Kurgan,Russian Federation,Active,,,,,0,,,,,,45.002,37.347
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saarbrücken,Germany,Active,,,,,0,,,,,,49.215,7.111
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Billings,United States,Active,,,,,0,,,,,,45.808,-108.543
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Argentina,Active,,,,,0,,,,,,-32.904,-60.784
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Odesa,Ukraine,Active,,,,,0,,,,,,46.427,30.676
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mazatlán,Mexico,Active,,,,,0,,,,,,23.161,-106.266
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Domodedovsky District,Russian Federation,Active,,,,,0,,,,,,55.409,37.906
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Várzea Grande,Brazil,Active,,,,,0,,,,,,-15.653,-56.117
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Legazpi,Philippines,Active,,,,,0,,,,,,13.157,123.734
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New Delhi,India,Active,,,,,0,,,,,,28.566,77.103
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lima Metropolitan Area,Peru,Active,,,,,0,,,,,,-12.022,-77.114
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chattogram,Bangladesh,Active,,,,,0,,,,,,22.25,91.813
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Campo Mourão,Brazil,Active,,,,,0,,,,,,-24.003,-52.356
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yemelyanovsky Rayon,Russian Federation,Active,,,,,0,,,,,,56.173,92.493
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ban Su Phat Ra,Thailand,Active,,,,,0,,,,,,16.464,102.782
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Forquilhinha,Brazil,Active,,,,,0,,,,,,-28.726,-49.425
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cordoba,Argentina,Active,,,,,0,,,,,,-31.31,-64.208
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bhubaneswar Municipal Corporation,India,Active,,,,,0,,,,,,20.244,85.818
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tokoname,Japan,Active,,,,,0,,,,,,34.858,136.805
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Karabudakhkentsky District,Russian Federation,Active,,,,,0,,,,,,42.817,47.652
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Manaus,Brazil,Active,,,,,0,,,,,,-3.039,-60.05
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Town of Islip,United States,Active,,,,,0,,,,,,40.795,-73.1
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ludhiana (West) Tahsil,India,Active,,,,,0,,,,,,30.854,75.954
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Israel,Active,,,,,0,,,,,,32.007,34.881
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tababela,Ecuador,Active,,,,,0,,,,,,-0.124,-78.356
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Saudi Arabia,Active,,,,,0,,,,,,26.471,49.798
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ramonsky District,Russian Federation,Active,,,,,0,,,,,,51.814,39.23
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bismarck,United States,Active,,,,,0,,,,,,46.772,-100.746
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Thomas County,United States,Active,,,,,0,,,,,,30.9,-83.883
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Luqa,Malta,Active,,,,,0,,,,,,35.858,14.477
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bogota,Colombia,Active,,,,,0,,,,,,4.702,-74.147
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Grapevine,United States,Active,,,,,0,,,,,,32.897,-97.038
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Silao,Mexico,Active,,,,,0,,,,,,20.993,-101.481
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Phitsanulok,Thailand,Active,,,,,0,,,,,,16.783,100.279
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Malé,Maldives,Active,,,,,0,,,,,,4.192,73.529
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Town of Colonie,United States,Active,,,,,0,,,,,,42.748,-73.802
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aeropuerto,Mexico,Active,,,,,0,,,,,,18.836,-99.261
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saskatoon,Canada,Active,,,,,0,,,,,,52.171,-106.7
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ashland,United States,Active,,,,,0,,,,,,38.818,-92.22
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hell,Norway,Active,,,,,0,,,,,,63.458,10.924
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tada-U Township,Myanmar,Active,,,,,0,,,,,,21.702,95.978
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kemerovo,Russian Federation,Active,,,,,0,,,,,,55.27,86.107
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Joinville,Brazil,Active,,,,,0,,,,,,-26.224,-48.797
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Penza,Russian Federation,Active,,,,,0,,,,,,53.111,45.021
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ukhra,India,Active,,,,,0,,,,,,23.624,87.242
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Australia,Active,,,,,0,,,,,,-16.55,143.667
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,"Tanzania, United Republic of",Active,,,,,0,,,,,,-2.444,32.933
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lipetsk,Russian Federation,Active,,,,,0,,,,,,52.638,39.452
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pato Branco,Brazil,Active,,,,,0,,,,,,-26.217,-52.667
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Stockholm,Sweden,Active,,,,,0,,,,,,59.354,17.942
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Durango,Mexico,Active,,,,,0,,,,,,24.124,-104.528
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ushuaia,Argentina,Active,,,,,0,,,,,,-54.843,-68.296
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Huanchaco,Peru,Active,,,,,0,,,,,,-8.085,-79.109
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lewe Township,Myanmar,Active,,,,,0,,,,,,19.622,96.201
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,André,Dominican Republic,Active,,,,,0,,,,,,18.43,-69.669
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dakar,Senegal,Active,,,,,0,,,,,,14.742,-17.493
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pathio,Thailand,Active,,,,,0,,,,,,10.711,99.362
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sørvágur,Faroe Islands,Active,,,,,0,,,,,,62.066,-7.293
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Asaba,Nigeria,Active,,,,,0,,,,,,6.203,6.667
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Toyama,Japan,Active,,,,,0,,,,,,36.648,137.188
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Savannah,United States,Active,,,,,0,,,,,,32.127,-81.202
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of Edinburgh,United Kingdom,Active,,,,,0,,,,,,55.95,-3.373
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Flowood,United States,Active,,,,,0,,,,,,32.311,-90.076
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,George Town,Malaysia,Active,,,,,0,,,,,,5.297,100.277
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cuenca,Ecuador,Active,,,,,0,,,,,,-2.889,-78.984
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chernihiv,Ukraine,Active,,,,,0,,,,,,51.5,31.3
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rhoose,United Kingdom,Active,,,,,0,,,,,,51.397,-3.343
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rio Novo,Brazil,Active,,,,,0,,,,,,-21.512,-43.171
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sairi,India,Active,,,,,0,,,,,,31.082,77.068
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Княжыцкі сельскі Савет,Belarus,Active,,,,,0,,,,,,53.95,30.133
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Қызылжар ауылдық округі,Kazakhstan,Active,,,,,0,,,,,,54.774,69.184
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Uberlândia,Brazil,Active,,,,,0,,,,,,-18.883,-48.226
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ban Pa Dae La Nga,Thailand,Active,,,,,0,,,,,,6.783,101.167
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tuscaloosa,United States,Active,,,,,0,,,,,,33.219,-87.61
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Åland Islands,Finland,Active,,,,,0,,,,,,60.122,19.898
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Huntsville,United States,Active,,,,,0,,,,,,34.637,-86.775
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,South Burlington,United States,Active,,,,,0,,,,,,44.472,-73.153
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ketchikan,United States,Active,,,,,0,,,,,,55.356,-131.714
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Esbjerg,Denmark,Active,,,,,0,,,,,,55.526,8.553
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sullivan County,United States,Active,,,,,0,,,,,,36.475,-82.407
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Peshawar City Tehsil,Pakistan,Active,,,,,0,,,,,,33.994,71.514
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Butembo,"Congo, The Democratic Republic of the",Active,,,,,0,,,,,,0.133,29.267
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Matsuyama,Japan,Active,,,,,0,,,,,,33.827,132.7
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kunisaki,Japan,Active,,,,,0,,,,,,33.479,131.737
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Miritini ward,Kenya,Active,,,,,0,,,,,,-4.028,39.6
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio Concepción,"Bolivia, Plurinational State of",Active,,,,,0,,,,,,-16.233,-62.083
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gibraltar,Gibraltar,Active,,,,,0,,,,,,36.151,-5.35
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Komatsu,Japan,Active,,,,,0,,,,,,36.395,136.407
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,городской округ Тында,Russian Federation,Active,,,,,0,,,,,,55.285,124.778
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Niederanven,Luxembourg,Active,,,,,0,,,,,,49.623,6.204
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Fernando,Philippines,Active,,,,,0,,,,,,16.596,120.303
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cheyenne,United States,Active,,,,,0,,,,,,41.156,-104.812
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Portland,United States,Active,,,,,0,,,,,,43.646,-70.309
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Prionezhsky District,Russian Federation,Active,,,,,0,,,,,,61.885,34.155
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bharatpur,Nepal,Active,,,,,0,,,,,,27.678,84.428
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Grad Kaštela,Croatia,Active,,,,,0,,,,,,43.539,16.298
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New York,United States,Active,,,,,0,,,,,,40.777,-73.873
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vitoria-Gasteiz,Spain,Active,,,,,0,,,,,,42.883,-2.724
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Абухаўскі сельскі Савет,Belarus,Active,,,,,0,,,,,,53.606,24.054
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aïn El Beïda,Algeria,Active,,,,,0,,,,,,31.924,5.411
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint-Louis,France,Active,,,,,0,,,,,,47.601,7.529
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Castilho,Brazil,Active,,,,,0,,,,,,-20.8,-51.567
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint John,Canada,Active,,,,,0,,,,,,45.321,-65.882
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bemidji,United States,Active,,,,,0,,,,,,47.51,-94.933
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yuma,United States,Active,,,,,0,,,,,,32.657,-114.606
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Greenbelt,United States,Active,,,,,0,,,,,,39,-76.917
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cabo Frio,Brazil,Active,,,,,0,,,,,,-22.925,-42.079
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Thessaloniki Regional Unit,Greece,Active,,,,,0,,,,,,40.52,22.971
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lansing,United States,Active,,,,,0,,,,,,42.779,-84.587
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,West Lafayette,United States,Active,,,,,0,,,,,,40.417,-86.933
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Deschutes County,United States,Active,,,,,0,,,,,,44.254,-121.15
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chitungwiza,Zimbabwe,Active,,,,,0,,,,,,-17.932,31.093
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Abu Dhabi,United Arab Emirates,Active,,,,,0,,,,,,24.433,54.651
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Division No. 16,Canada,Active,,,,,0,,,,,,56.653,-111.222
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,La Romana,Dominican Republic,Active,,,,,0,,,,,,18.451,-68.912
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chachagüí,Colombia,Active,,,,,0,,,,,,1.396,-77.291
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kronoby,Finland,Active,,,,,0,,,,,,63.721,23.143
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chișinău,"Moldova, Republic of",Active,,,,,0,,,,,,46.928,28.931
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Taipei,"Taiwan, Province of China",Active,,,,,0,,,,,,25.07,121.552
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Manzanillo,Mexico,Active,,,,,0,,,,,,19.145,-104.559
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São José dos Campos,Brazil,Active,,,,,0,,,,,,-23.228,-45.863
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mississauga,Canada,Active,,,,,0,,,,,,43.677,-79.631
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pudahuel,Chile,Active,,,,,0,,,,,,-33.393,-70.786
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Windhoek,Namibia,Active,,,,,0,,,,,,-22.612,17.081
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cinisi,Italy,Active,,,,,0,,,,,,38.182,13.099
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kaohsiung,"Taiwan, Province of China",Active,,,,,0,,,,,,22.577,120.35
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zaporizhzhia,Ukraine,Active,,,,,0,,,,,,47.867,35.316
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Spata-Loutsa Municipal Unit,Greece,Active,,,,,0,,,,,,37.936,23.944
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ho Chi Minh City,Viet Nam,Active,,,,,0,,,,,,10.819,106.652
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Noyabrsk,Russian Federation,Active,,,,,0,,,,,,63.184,75.269
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wrington,United Kingdom,Active,,,,,0,,,,,,51.383,-2.719
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Andrés,Peru,Active,,,,,0,,,,,,-13.745,-76.22
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aeroport,Russian Federation,Active,,,,,0,,,,,,56.386,85.213
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kastrup,Denmark,Active,,,,,0,,,,,,55.62,12.65
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Charlotte,United States,Active,,,,,0,,,,,,35.214,-80.943
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lauro de Freitas,Brazil,Active,,,,,0,,,,,,-12.911,-38.331
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Miami,United States,Active,,,,,0,,,,,,25.793,-80.291
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Al Jizah,Jordan,Active,,,,,0,,,,,,31.723,35.993
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Ukraine,Active,,,,,0,,,,,,47.076,37.449
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New York,United States,Active,,,,,0,,,,,,40.64,-73.779
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Abu Rudays,Egypt,Active,,,,,0,,,,,,28.967,33.183
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tüpqarağan District,Kazakhstan,Active,,,,,0,,,,,,43.86,51.092
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Poznan,Poland,Active,,,,,0,,,,,,52.421,16.826
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rotterdam,Netherlands,Active,,,,,0,,,,,,51.953,4.431
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Maurizio Canavese,Italy,Active,,,,,0,,,,,,45.203,7.649
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bakrajo,Iraq,Active,,,,,0,,,,,,35.562,45.316
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Minsk,Belarus,Active,,,,,0,,,,,,53.883,28.031
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kyiv,Ukraine,Active,,,,,0,,,,,,50.402,30.45
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Miguel Totoltepec,Mexico,Active,,,,,0,,,,,,19.337,-99.566
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yangon,Myanmar,Active,,,,,0,,,,,,16.907,96.133
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bryansk,Russian Federation,Active,,,,,0,,,,,,53.27,34.337
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Thailand,Active,,,,,0,,,,,,14.875,100.664
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Salt Lake City,United States,Active,,,,,0,,,,,,40.788,-111.978
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yerevan,Armenia,Active,,,,,0,,,,,,40.147,44.396
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Košice,Slovakia,Active,,,,,0,,,,,,48.663,21.241
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Franca,Brazil,Active,,,,,0,,,,,,-20.583,-47.383
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Quebec,Canada,Active,,,,,0,,,,,,46.791,-71.393
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kenner,United States,Active,,,,,0,,,,,,29.993,-90.258
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Winnipeg,Canada,Active,,,,,0,,,,,,49.91,-97.24
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Memphis,United States,Active,,,,,0,,,,,,35.042,-89.977
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bykovo,Russian Federation,Active,,,,,0,,,,,,55.617,38.067
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Plan de Guadalupe,Mexico,Active,,,,,0,,,,,,25.685,-109.081
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Oklahoma City,United States,Active,,,,,0,,,,,,35.393,-97.601
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ban Ta Khli,Thailand,Active,,,,,0,,,,,,15.25,100.35
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Karyamulya,Indonesia,Active,,,,,0,,,,,,-6.75,108.533
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buenavista,Mexico,Active,,,,,0,,,,,,19.277,-103.578
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chatham,Canada,Active,,,,,0,,,,,,42.31,-82.077
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hargeisa,Somalia,Active,,,,,0,,,,,,9.514,44.084
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hobart,Australia,Active,,,,,0,,,,,,-42.836,147.51
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ryazansky District,Russian Federation,Active,,,,,0,,,,,,54.633,39.583
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Achinsky Rayon,Russian Federation,Active,,,,,0,,,,,,56.27,90.572
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Adelaide,Australia,Active,,,,,0,,,,,,-34.945,138.531
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lewiston,United States,Active,,,,,0,,,,,,46.376,-117.014
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lubbock,United States,Active,,,,,0,,,,,,33.664,-101.823
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vale of White Horse,United Kingdom,Active,,,,,0,,,,,,51.683,-1.317
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Calliste,Grenada,Active,,,,,0,,,,,,12.004,-61.786
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mihara,Japan,Active,,,,,0,,,,,,34.436,132.919
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Iquique,Chile,Active,,,,,0,,,,,,-20.535,-70.181
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Altenholz,Germany,Active,,,,,0,,,,,,54.38,10.145
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pelotas,Brazil,Active,,,,,0,,,,,,-31.718,-52.33
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Balice,Poland,Active,,,,,0,,,,,,50.078,19.785
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Passo Fundo,Brazil,Active,,,,,0,,,,,,-28.244,-52.329
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pirkkala,Finland,Active,,,,,0,,,,,,61.414,23.604
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ponta Grossa,Brazil,Active,,,,,0,,,,,,-25.052,-50.189
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pakis,Indonesia,Active,,,,,0,,,,,,-7.927,112.714
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Manta,Ecuador,Active,,,,,0,,,,,,-0.946,-80.679
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Allentown,United States,Active,,,,,0,,,,,,40.652,-75.441
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Brunei Darussalam,Active,,,,,0,,,,,,4.944,114.928
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,El Marqués,Mexico,Active,,,,,0,,,,,,20.617,-100.186
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Villa Gesell,Argentina,Active,,,,,0,,,,,,-37.235,-57.03
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gwangju,"Korea, Republic of",Active,,,,,0,,,,,,35.126,126.809
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Langenhagen,Germany,Active,,,,,0,,,,,,52.461,9.689
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bamako,Mali,Active,,,,,0,,,,,,12.534,-7.95
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Celaya,Mexico,Active,,,,,0,,,,,,20.546,-100.887
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nogales,United States,Active,,,,,0,,,,,,31.418,-110.847
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Campos dos Goytacazes,Brazil,Active,,,,,0,,,,,,-21.698,-41.302
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sorocaba,Brazil,Active,,,,,0,,,,,,-23.483,-47.45
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Denmark,Active,,,,,0,,,,,,56.304,10.619
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Al Hashishiah,Yemen,Active,,,,,0,,,,,,15.476,44.22
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Baton Rouge,United States,Active,,,,,0,,,,,,30.533,-91.15
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Honolulu,United States,Active,,,,,0,,,,,,21.328,-157.922
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mataram,Indonesia,Active,,,,,0,,,,,,-8.561,116.095
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Russian Federation,Active,,,,,0,,,,,,55.592,37.261
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Port-Bouët,Côte d'Ivoire,Active,,,,,0,,,,,,5.261,-3.926
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jeonju-si,"Korea, Republic of",Active,,,,,0,,,,,,35.879,127.12
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Banjulinding,Gambia,Active,,,,,0,,,,,,13.338,-16.652
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ouled Tayeb,Morocco,Active,,,,,0,,,,,,33.927,-4.978
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bodø,Norway,Active,,,,,0,,,,,,67.269,14.365
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dubai,United Arab Emirates,Active,,,,,0,,,,,,25.253,55.364
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Blagoveshchensk,Russian Federation,Active,,,,,0,,,,,,50.425,127.412
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Murindi,Rwanda,Active,,,,,0,,,,,,-1.969,30.139
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saipan Municipality,United States,Active,,,,,0,,,,,,15.119,145.729
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Iwanuma,Japan,Active,,,,,0,,,,,,38.14,140.917
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Duncan,United States,Active,,,,,0,,,,,,34.467,-97.967
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Païta,France,Active,,,,,0,,,,,,-22.014,166.213
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Windsor,Canada,Active,,,,,0,,,,,,42.271,-82.962
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,College Station,United States,Active,,,,,0,,,,,,30.589,-96.364
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Reno,United States,Active,,,,,0,,,,,,39.499,-119.768
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kozhikode,India,Active,,,,,0,,,,,,11.137,75.955
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Formosa,Argentina,Active,,,,,0,,,,,,-26.213,-58.228
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ulan-Ude,Russian Federation,Active,,,,,0,,,,,,51.808,107.438
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zamora,Mexico,Active,,,,,0,,,,,,19.983,-102.267
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Paro,Bhutan,Active,,,,,0,,,,,,27.403,89.425
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Álamos,Mexico,Active,,,,,0,,,,,,27.017,-108.933
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cork,Ireland,Active,,,,,0,,,,,,51.841,-8.491
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Altamira,Brazil,Active,,,,,0,,,,,,-3.254,-52.254
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of Freeport,Bahamas,Active,,,,,0,,,,,,26.559,-78.696
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ada,United States,Active,,,,,0,,,,,,34.8,-96.667
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Zambia,Active,,,,,0,,,,,,-15.331,28.453
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Belgium,Active,,,,,0,,,,,,51.417,3.258
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Durian,Indonesia,Active,,,,,0,,,,,,3.638,98.872
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Big Horn County,United States,Active,,,,,0,,,,,,44.517,-108.083
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Núi Thành,Viet Nam,Active,,,,,0,,,,,,15.408,108.707
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Trois-Rivières,Canada,Active,,,,,0,,,,,,46.35,-72.683
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Пакалюбіцкі сельскі Савет,Belarus,Active,,,,,0,,,,,,52.527,31.017
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Taichung,"Taiwan, Province of China",Active,,,,,0,,,,,,24.265,120.621
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Malew,Isle of Man,Active,,,,,0,,,,,,54.083,-4.624
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Eelde,Netherlands,Active,,,,,0,,,,,,53.125,6.583
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aluva,India,Active,,,,,0,,,,,,10.152,76.402
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Campinas,Brazil,Active,,,,,0,,,,,,-23.008,-47.135
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Newark,United States,Active,,,,,0,,,,,,40.693,-74.169
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São Paulo,Brazil,Active,,,,,0,,,,,,-23.627,-46.658
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Stockholm County,Sweden,Active,,,,,0,,,,,,59.652,17.919
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Apodaca,Mexico,Active,,,,,0,,,,,,25.779,-100.107
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cairo,Egypt,Active,,,,,0,,,,,,30.122,31.406
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Матвеевка,Russian Federation,Active,,,,,0,,,,,,48.528,135.188
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Venice,Italy,Active,,,,,0,,,,,,45.505,12.352
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Derh Pindi,Pakistan,Active,,,,,0,,,,,,31.522,74.404
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Confins,Brazil,Active,,,,,0,,,,,,-19.634,-43.969
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Māngere-Ōtāhuhu,New Zealand,Active,,,,,0,,,,,,-37.01,174.792
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Będzin County,Poland,Active,,,,,0,,,,,,50.474,19.08
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Paisley,United Kingdom,Active,,,,,0,,,,,,55.872,-4.433
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Ukraine,Active,,,,,0,,,,,,48.357,35.101
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Laguindingan,Philippines,Active,,,,,0,,,,,,8.613,124.457
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cheongju-si,"Korea, Republic of",Active,,,,,0,,,,,,36.717,127.499
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Seoul,"Korea, Republic of",Active,,,,,0,,,,,,37.558,126.791
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Ukraine,Active,,,,,0,,,,,,46.677,32.507
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bahawalpur District,Pakistan,Active,,,,,0,,,,,,29.348,71.718
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Surcin Urban Municipality,Serbia,Active,,,,,0,,,,,,44.818,20.309
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nagpur Urban Taluka,India,Active,,,,,0,,,,,,21.092,79.047
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Burbank,United States,Active,,,,,0,,,,,,34.201,-118.359
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,London,Canada,Active,,,,,0,,,,,,43.036,-81.154
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Iraq,Active,,,,,0,,,,,,30.549,47.662
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mar del Plata,Argentina,Active,,,,,0,,,,,,-37.934,-57.573
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ponce,United States,Active,,,,,0,,,,,,18.008,-66.563
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Guayaquil,Ecuador,Active,,,,,0,,,,,,-2.158,-79.884
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zavyalovsky District,Russian Federation,Active,,,,,0,,,,,,56.829,53.458
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Skåne County,Sweden,Active,,,,,0,,,,,,55.542,13.375
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Cruz del Valle,Mexico,Active,,,,,0,,,,,,20.522,-103.311
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tangerang,Indonesia,Active,,,,,0,,,,,,-6.126,106.656
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Southeast,Singapore,Active,,,,,0,,,,,,1.359,103.989
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mapanget Barat,Indonesia,Active,,,,,0,,,,,,1.549,124.926
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vilnius,Lithuania,Active,,,,,0,,,,,,54.634,25.286
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Douglas County,United States,Active,,,,,0,,,,,,47.399,-120.207
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nizhny Novgorod,Russian Federation,Active,,,,,0,,,,,,56.23,43.784
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kathmandu,Nepal,Active,,,,,0,,,,,,27.697,85.359
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Londrina,Brazil,Active,,,,,0,,,,,,-23.334,-51.13
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New Administrative Capital,Egypt,Active,,,,,0,,,,,,30.049,31.84
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Borger,United States,Active,,,,,0,,,,,,35.65,-101.4
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chapecó,Brazil,Active,,,,,0,,,,,,-27.134,-52.657
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ulaanbaatar,Mongolia,Active,,,,,0,,,,,,47.843,106.767
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Łódź,Poland,Active,,,,,0,,,,,,51.722,19.398
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Twin Falls County,United States,Active,,,,,0,,,,,,42.482,-114.488
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yaroslavsky District,Russian Federation,Active,,,,,0,,,,,,57.559,40.158
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Power County,United States,Active,,,,,0,,,,,,42.91,-112.596
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sielnica,Slovakia,Active,,,,,0,,,,,,48.638,19.134
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Karmėlava,Lithuania,Active,,,,,0,,,,,,54.964,24.085
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Francisco Beltrão,Brazil,Active,,,,,0,,,,,,-26.059,-53.064
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wood County,United States,Active,,,,,0,,,,,,39.345,-81.439
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lexington,United States,Active,,,,,0,,,,,,38.036,-84.606
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Caruaru,Brazil,Active,,,,,0,,,,,,-8.283,-35.967
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sosúa,Dominican Republic,Active,,,,,0,,,,,,19.758,-70.57
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Praia,Cabo Verde,Active,,,,,0,,,,,,14.941,-23.485
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tambov,Russian Federation,Active,,,,,0,,,,,,52.701,41.374
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rio de Janeiro,Brazil,Active,,,,,0,,,,,,-22.911,-43.163
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Anne Arundel County,United States,Active,,,,,0,,,,,,39.175,-76.668
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wagram,Austria,Active,,,,,0,,,,,,48.233,14.188
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hobart,United States,Active,,,,,0,,,,,,44.486,-88.134
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sainte-Marie,France,Active,,,,,0,,,,,,-20.887,55.51
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aktobe,Kazakhstan,Active,,,,,0,,,,,,50.246,57.207
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Krasnodon Raion,Ukraine,Active,,,,,0,,,,,,48.418,39.379
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wayaca,Netherlands,Active,,,,,0,,,,,,12.501,-70.015
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kirov,Russian Federation,Active,,,,,0,,,,,,58.501,49.342
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cruzeiro do Sul,Brazil,Active,,,,,0,,,,,,-7.6,-72.769
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Atyrau,Kazakhstan,Active,,,,,0,,,,,,47.122,51.821
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Phulwari,India,Active,,,,,0,,,,,,25.591,85.088
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vantaa,Finland,Active,,,,,0,,,,,,60.317,24.963
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rishikesh,India,Active,,,,,0,,,,,,30.19,78.18
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Banjarbaru,Indonesia,Active,,,,,0,,,,,,-3.442,114.763
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tripoli,Libya,Active,,,,,0,,,,,,32.893,13.29
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vadodara Rural Taluka,India,Active,,,,,0,,,,,,22.336,73.226
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cârcea,Romania,Active,,,,,0,,,,,,44.318,23.889
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mérida,Mexico,Active,,,,,0,,,,,,20.937,-89.658
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Louisville,United States,Active,,,,,0,,,,,,38.174,-85.736
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Antonio,United States,Active,,,,,0,,,,,,29.534,-98.47
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Calgary,Canada,Active,,,,,0,,,,,,51.114,-114.02
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint Louis County,United States,Active,,,,,0,,,,,,38.749,-90.37
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Accra,Ghana,Active,,,,,0,,,,,,5.605,-0.167
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Multan,Pakistan,Active,,,,,0,,,,,,30.203,71.419
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Avelin,France,Active,,,,,0,,,,,,50.563,3.087
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saratov,Russian Federation,Active,,,,,0,,,,,,51.565,46.047
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Al Minya,Egypt,Active,,,,,0,,,,,,28.083,30.733
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Тэльмінскі сельскі Савет,Belarus,Active,,,,,0,,,,,,52.108,23.897
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fontana,Argentina,Active,,,,,0,,,,,,-27.45,-59.056
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Posadas,Argentina,Active,,,,,0,,,,,,-27.386,-55.971
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cincinnati,United States,Active,,,,,0,,,,,,39.1,-84.417
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sacramento County,United States,Active,,,,,0,,,,,,38.696,-121.591
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Douglas County,United States,Active,,,,,0,,,,,,45.783,-95.267
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dayton,United States,Active,,,,,0,,,,,,39.903,-84.219
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Shymkent,Kazakhstan,Active,,,,,0,,,,,,42.364,69.479
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,New Road,Saint Kitts and Nevis,Active,,,,,0,,,,,,17.311,-62.719
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palanga,Lithuania,Active,,,,,0,,,,,,55.973,21.094
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jashore,Bangladesh,Active,,,,,0,,,,,,23.184,89.161
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lexington County,United States,Active,,,,,0,,,,,,33.939,-81.119
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Coimbatore,India,Active,,,,,0,,,,,,11.03,77.043
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Imperatriz,Brazil,Active,,,,,0,,,,,,-5.531,-47.46
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chametla,Mexico,Active,,,,,0,,,,,,24.073,-110.362
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Akherwai,India,Active,,,,,0,,,,,,18.412,76.464
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Koncharu,India,Active,,,,,0,,,,,,12.961,74.89
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rogoza,Slovenia,Active,,,,,0,,,,,,46.48,15.686
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zenata,Algeria,Active,,,,,0,,,,,,35.013,-1.458
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Khila Warangal mandal,India,Active,,,,,0,,,,,,17.917,79.6
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Shchyolkovo,Russian Federation,Active,,,,,0,,,,,,55.867,38.052
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ørsta,Norway,Active,,,,,0,,,,,,62.179,6.071
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Missoula,United States,Active,,,,,0,,,,,,46.916,-114.091
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Los Baños del Inca,Peru,Active,,,,,0,,,,,,-7.139,-78.489
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Riverside,United States,Active,,,,,0,,,,,,33.95,-117.433
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Siem Reap,Cambodia,Active,,,,,0,,,,,,13.411,103.813
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kamloops,Canada,Active,,,,,0,,,,,,50.702,-120.444
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dahme-Spreewald,Germany,Active,,,,,0,,,,,,52.379,13.521
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buchanan County,United States,Active,,,,,0,,,,,,39.767,-94.917
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santarém,Brazil,Active,,,,,0,,,,,,-2.422,-54.793
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Atal Nagar-Nava Raipur,India,Active,,,,,0,,,,,,21.18,81.739
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Turku,Finland,Active,,,,,0,,,,,,60.514,22.263
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ufimsky District,Russian Federation,Active,,,,,0,,,,,,54.557,55.884
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yekaterinburg,Russian Federation,Active,,,,,0,,,,,,56.743,60.803
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ota,Japan,Active,,,,,0,,,,,,35.552,139.78
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fargo,United States,Active,,,,,0,,,,,,46.921,-96.816
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Islands District,China,Active,,,,,0,,,,,,22.309,113.915
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kruje,Albania,Active,,,,,0,,,,,,41.415,19.721
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dhaka,Bangladesh,Active,,,,,0,,,,,,23.843,90.398
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of Velika Gorica,Croatia,Active,,,,,0,,,,,,45.743,16.069
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nong Prue Subdistrict,Thailand,Active,,,,,0,,,,,,13.686,100.749
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,St. Peter,Jersey,Active,,,,,0,,,,,,49.208,-2.195
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,El Alto,"Bolivia, Plurinational State of",Active,,,,,0,,,,,,-16.513,-68.192
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Minneapolis,United States,Active,,,,,0,,,,,,44.882,-93.222
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Сокол,Russian Federation,Active,,,,,0,,,,,,59.911,150.721
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nizhnevartovsk,Russian Federation,Active,,,,,0,,,,,,60.949,76.484
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dahme-Spreewald,Germany,Active,,,,,0,,,,,,52.367,13.503
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Goffs,Canada,Active,,,,,0,,,,,,44.887,-63.513
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Shoueifat,Lebanon,Active,,,,,0,,,,,,33.821,35.488
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Shokat a-Sufi,"Palestine, State of",Active,,,,,0,,,,,,31.246,34.276
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mārupes pagasts,Latvia,Active,,,,,0,,,,,,56.924,23.971
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Waipa District,New Zealand,Active,,,,,0,,,,,,-37.867,175.332
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sioux Falls,United States,Active,,,,,0,,,,,,43.582,-96.742
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dar El Beïda,Algeria,Active,,,,,0,,,,,,36.694,3.215
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Borsbeek,Belgium,Active,,,,,0,,,,,,51.189,4.46
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kongara Nanjayyana Hundi,India,Active,,,,,0,,,,,,12.232,76.657
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pune,India,Active,,,,,0,,,,,,18.582,73.92
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pori,Finland,Active,,,,,0,,,,,,61.462,21.8
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dorval,Canada,Active,,,,,0,,,,,,45.471,-73.741
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kansas City,United States,Active,,,,,0,,,,,,39.297,-94.714
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Taichung,"Taiwan, Province of China",Active,,,,,0,,,,,,24.15,120.646
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yuzhno-Sakhalinsk,Russian Federation,Active,,,,,0,,,,,,46.889,142.718
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,SeaTac,United States,Active,,,,,0,,,,,,47.449,-122.309
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Grünbein,Argentina,Active,,,,,0,,,,,,-38.727,-62.153
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,"Congo, The Democratic Republic of the",Active,,,,,0,,,,,,-4.386,15.444
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Serra,Brazil,Active,,,,,0,,,,,,-20.258,-40.286
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Elx / Elche,Spain,Active,,,,,0,,,,,,38.282,-0.558
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Niamey,Niger,Active,,,,,0,,,,,,13.481,2.177
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tambak Oso,Indonesia,Active,,,,,0,,,,,,-7.38,112.787
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Leeds,United Kingdom,Active,,,,,0,,,,,,53.866,-1.661
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Río Segundo,Costa Rica,Active,,,,,0,,,,,,9.994,-84.209
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yelizovo,Russian Federation,Active,,,,,0,,,,,,53.169,158.451
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São Luís,Brazil,Active,,,,,0,,,,,,-2.585,-44.234
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gannavaram,India,Active,,,,,0,,,,,,16.531,80.797
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Orenburgsky District,Russian Federation,Active,,,,,0,,,,,,51.796,55.457
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Anchorage,United States,Active,,,,,0,,,,,,61.174,-149.996
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Brno,Czechia,Active,,,,,0,,,,,,49.151,16.694
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Luis Talpa,El Salvador,Active,,,,,0,,,,,,13.441,-89.056
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bucharest,Romania,Active,,,,,0,,,,,,44.503,26.102
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ribeirão Preto,Brazil,Active,,,,,0,,,,,,-21.134,-47.774
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tuy Hòa City,Viet Nam,Active,,,,,0,,,,,,13.049,109.334
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ikeja,Nigeria,Active,,,,,0,,,,,,6.577,3.321
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tukayevsky District,Russian Federation,Active,,,,,0,,,,,,55.567,52.1
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kempton Park,South Africa,Active,,,,,0,,,,,,-26.139,28.246
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kulai,Malaysia,Active,,,,,0,,,,,,1.639,103.67
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Luis,Argentina,Active,,,,,0,,,,,,-33.272,-66.357
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Entebbe City,Uganda,Active,,,,,0,,,,,,0.043,32.444
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lincoln,United States,Active,,,,,0,,,,,,40.851,-96.759
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Port Royal,Jamaica,Active,,,,,0,,,,,,17.936,-76.787
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ban Wat Wat,Thailand,Active,,,,,0,,,,,,7.333,100.533
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vrellë e Goleshit,,Active,,,,,0,,,,,,42.573,21.036
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Grant County,United States,Active,,,,,0,,,,,,47.205,-119.317
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,George Town,Cayman Islands,Active,,,,,0,,,,,,19.293,-81.358
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wichita,United States,Active,,,,,0,,,,,,37.653,-97.433
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santiago de Compostela,Spain,Active,,,,,0,,,,,,42.896,-8.415
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São Gonçalo do Amarante,Brazil,Active,,,,,0,,,,,,-5.768,-35.376
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Dominica,Active,,,,,0,,,,,,15.547,-61.3
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Doncaster,United Kingdom,Active,,,,,0,,,,,,53.475,-1.004
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vung Tau City,Viet Nam,Active,,,,,0,,,,,,10.374,107.091
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Astrakhan,Russian Federation,Active,,,,,0,,,,,,46.283,48.006
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cancún,Mexico,Active,,,,,0,,,,,,21.037,-86.877
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Carter Lake,United States,Active,,,,,0,,,,,,41.303,-95.894
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Armstrong Township,Canada,Active,,,,,0,,,,,,47.7,-79.85
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cam Ranh City,Viet Nam,Active,,,,,0,,,,,,11.998,109.219
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vinh,Viet Nam,Active,,,,,0,,,,,,18.738,105.671
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jammu,India,Active,,,,,0,,,,,,32.689,74.838
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rimouski,Canada,Active,,,,,0,,,,,,48.467,-68.517
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Castrillón,Spain,Active,,,,,0,,,,,,43.564,-6.035
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Leke,Indonesia,Active,,,,,0,,,,,,-3.71,128.089
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rapides Parish,United States,Active,,,,,0,,,,,,31.328,-92.55
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zahnašovice,Czechia,Active,,,,,0,,,,,,49.314,17.569
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aïn Arnat,Algeria,Active,,,,,0,,,,,,36.178,5.324
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Plaine Magnien,Mauritius,Active,,,,,0,,,,,,-20.43,57.684
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Assis,Brazil,Active,,,,,0,,,,,,-22.667,-50.417
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Villavicencio,Colombia,Active,,,,,0,,,,,,4.168,-73.614
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Galecio Narcía,Mexico,Active,,,,,0,,,,,,16.562,-93.026
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vigo,Spain,Active,,,,,0,,,,,,42.232,-8.627
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Loiu,Spain,Active,,,,,0,,,,,,43.301,-2.911
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fiumicino,Italy,Active,,,,,0,,,,,,41.8,12.239
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bydgoszcz,Poland,Active,,,,,0,,,,,,53.097,17.978
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Special Capital Region of Jakarta,Indonesia,Active,,,,,0,,,,,,-6.267,106.891
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Innsbruck,Austria,Active,,,,,0,,,,,,47.26,11.344
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vasco da Gama,India,Active,,,,,0,,,,,,15.381,73.831
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Carepa,Colombia,Active,,,,,0,,,,,,7.812,-76.717
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chita,Russian Federation,Active,,,,,0,,,,,,52.026,113.306
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sault Ste. Marie,Canada,Active,,,,,0,,,,,,46.485,-84.509
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Warren County,United States,Active,,,,,0,,,,,,35.7,-85.833
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Albany,United States,Active,,,,,0,,,,,,31.536,-84.194
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Balikpapan,Indonesia,Active,,,,,0,,,,,,-1.268,116.894
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ramstein-Miesenbach,Germany,Active,,,,,0,,,,,,49.437,7.6
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Descanso,Brazil,Active,,,,,0,,,,,,-26.781,-53.503
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Javier,Spain,Active,,,,,0,,,,,,37.775,-0.812
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Midland,United States,Active,,,,,0,,,,,,31.942,-102.202
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ternate,Indonesia,Active,,,,,0,,,,,,0.831,127.381
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Laishevsky District,Russian Federation,Active,,,,,0,,,,,,55.606,49.279
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Norfolk,United States,Active,,,,,0,,,,,,36.895,-76.201
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Warwick,United Kingdom,Active,,,,,0,,,,,,52.37,-1.48
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palma,Spain,Active,,,,,0,,,,,,39.552,2.739
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Saint Lucia,Active,,,,,0,,,,,,13.733,-60.953
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Granadilla de Abona,Spain,Active,,,,,0,,,,,,28.044,-16.573
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sakon Nakhon,Thailand,Active,,,,,0,,,,,,17.195,104.119
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sausa,Peru,Active,,,,,0,,,,,,-11.784,-75.473
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Oryol,Russian Federation,Active,,,,,0,,,,,,52.983,36.1
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Canberra,Australia,Active,,,,,0,,,,,,-35.307,149.195
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lampung Selatan,Indonesia,Active,,,,,0,,,,,,-5.242,105.179
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Centauro del Norte,Mexico,Active,,,,,0,,,,,,27.393,-109.833
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,East Farmingdale,United States,Active,,,,,0,,,,,,40.729,-73.414
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ust-Kamenogorsk,Kazakhstan,Active,,,,,0,,,,,,50.037,82.494
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Perímetro Urbano Valledupar,Colombia,Active,,,,,0,,,,,,10.435,-73.249
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pajonal,Mexico,Active,,,,,0,,,,,,17.997,-92.817
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hollins,United States,Active,,,,,0,,,,,,37.326,-79.976
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sioux City,United States,Active,,,,,0,,,,,,42.403,-96.384
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Bermuda,Active,,,,,0,,,,,,32.364,-64.679
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cercado,"Bolivia, Plurinational State of",Active,,,,,0,,,,,,-17.421,-66.177
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Oshawa,Canada,Active,,,,,0,,,,,,43.922,-78.895
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ouagadougou,Burkina Faso,Active,,,,,0,,,,,,12.353,-1.512
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Viken,Norway,Active,,,,,0,,,,,,60.194,11.1
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vecsés,Hungary,Active,,,,,0,,,,,,47.437,19.256
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mylanahalli,India,Active,,,,,0,,,,,,13.199,77.706
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sydney,Australia,Active,,,,,0,,,,,,-33.946,151.177
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nezahualcóyotl,Mexico,Active,,,,,0,,,,,,19.436,-99.072
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lviv,Ukraine,Active,,,,,0,,,,,,49.812,23.956
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vellanki Agros,India,Active,,,,,0,,,,,,17.231,78.431
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Asarva Taluka,India,Active,,,,,0,,,,,,23.077,72.635
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fujairah,United Arab Emirates,Active,,,,,0,,,,,,25.112,56.324
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Incheon,"Korea, Republic of",Active,,,,,0,,,,,,37.469,126.451
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Parañaque,Philippines,Active,,,,,0,,,,,,14.509,121.019
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of Cape Town,South Africa,Active,,,,,0,,,,,,-33.965,18.602
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Luanda,Angola,Active,,,,,0,,,,,,-8.858,13.231
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gdansk,Poland,Active,,,,,0,,,,,,54.377,18.466
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kalininsky District,Russian Federation,Active,,,,,0,,,,,,56.825,35.758
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tallinn,Estonia,Active,,,,,0,,,,,,59.413,24.832
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hin Lek Fai,Thailand,Active,,,,,0,,,,,,12.63,99.953
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Managua,Nicaragua,Active,,,,,0,,,,,,12.141,-86.168
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,La Guaira,"Venezuela, Bolivarian Republic of",Active,,,,,0,,,,,,10.603,-66.991
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Telde,Spain,Active,,,,,0,,,,,,27.932,-15.387
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Puñal,Dominican Republic,Active,,,,,0,,,,,,19.406,-70.605
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Muharraq,Bahrain,Active,,,,,0,,,,,,26.271,50.634
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Findlay Township,United States,Active,,,,,0,,,,,,40.491,-80.233
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Močići,Croatia,Active,,,,,0,,,,,,42.561,18.268
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Encarnacion,Paraguay,Active,,,,,0,,,,,,-27.226,-55.837
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Semarang,Indonesia,Active,,,,,0,,,,,,-6.971,110.374
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tainan,"Taiwan, Province of China",Active,,,,,0,,,,,,22.95,120.206
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ujalaiwadi,India,Active,,,,,0,,,,,,16.665,74.289
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rajkot East Taluka,India,Active,,,,,0,,,,,,22.309,70.779
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lincoln Parish,Canada,Active,,,,,0,,,,,,45.869,-66.53
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nadi,Fiji,Active,,,,,0,,,,,,-17.755,177.444
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Timor-Leste,Active,,,,,0,,,,,,-8.547,125.525
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hamburg,Germany,Active,,,,,0,,,,,,53.63,9.988
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Belém,Brazil,Active,,,,,0,,,,,,-1.379,-48.476
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Albuquerque,United States,Active,,,,,0,,,,,,35.041,-106.609
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Jose,United States,Active,,,,,0,,,,,,37.362,-121.929
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Torreón,Mexico,Active,,,,,0,,,,,,25.568,-103.411
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Centre County,United States,Active,,,,,0,,,,,,40.851,-77.847
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Anápolis,Brazil,Active,,,,,0,,,,,,-16.363,-48.928
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Argentina,Active,,,,,0,,,,,,-41.151,-71.158
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,County Dublin,Ireland,Active,,,,,0,,,,,,53.421,-6.27
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Roissy-en-France,France,Active,,,,,0,,,,,,49.01,2.548
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Manises,Spain,Active,,,,,0,,,,,,39.489,-0.482
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Pakistan,Active,,,,,0,,,,,,31.365,72.995
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Christ Church,Barbados,Active,,,,,0,,,,,,13.075,-59.492
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Samara,Russian Federation,Active,,,,,0,,,,,,53.504,50.152
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Christchurch,New Zealand,Active,,,,,0,,,,,,-43.489,172.532
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Town of Amherst,United States,Active,,,,,0,,,,,,42.941,-78.732
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hanover Township,United States,Active,,,,,0,,,,,,40.798,-74.415
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ilidža,Bosnia and Herzegovina,Active,,,,,0,,,,,,43.825,18.331
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Araçatuba,Brazil,Active,,,,,0,,,,,,-21.141,-50.425
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sao Vàng,Viet Nam,Active,,,,,0,,,,,,19.902,105.469
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rapid City,United States,Active,,,,,0,,,,,,44.043,-103.057
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Cruz de la Sierra,"Bolivia, Plurinational State of",Active,,,,,0,,,,,,-17.645,-63.135
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Murmashi,Russian Federation,Active,,,,,0,,,,,,68.782,32.751
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Namkum,India,Active,,,,,0,,,,,,23.314,85.322
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Misrata,Libya,Active,,,,,0,,,,,,32.322,15.061
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Cruz do Sul,Brazil,Active,,,,,0,,,,,,-29.683,-52.417
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tulsa,United States,Active,,,,,0,,,,,,36.198,-95.888
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wilmington,United States,Active,,,,,0,,,,,,34.271,-77.903
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Thailand,Active,,,,,0,,,,,,12.68,101.005
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Coyhaique,Chile,Active,,,,,0,,,,,,-45.916,-71.689
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Uttlesford,United Kingdom,Active,,,,,0,,,,,,51.885,0.235
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hương Thủy,Viet Nam,Active,,,,,0,,,,,,16.401,107.703
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Thailand,Active,,,,,0,,,,,,9.136,99.139
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Canticas,Mexico,Active,,,,,0,,,,,,18.103,-94.581
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Chihuahua,Mexico,Active,,,,,0,,,,,,28.703,-105.964
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Teterboro,United States,Active,,,,,0,,,,,,40.85,-74.061
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Faʻaʻā,France,Active,,,,,0,,,,,,-17.554,-149.607
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zanderij,Suriname,Active,,,,,0,,,,,,5.453,-55.188
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cerklje na Gorenjskem,Slovenia,Active,,,,,0,,,,,,46.224,14.457
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kobe,Japan,Active,,,,,0,,,,,,34.633,135.224
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Glewice,Poland,Active,,,,,0,,,,,,53.585,14.902
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Umsning,India,Active,,,,,0,,,,,,25.704,91.978
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mambah Kaba,Liberia,Active,,,,,0,,,,,,6.234,-10.362
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Calama,Chile,Active,,,,,0,,,,,,-22.498,-68.908
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Le Lamentin,France,Active,,,,,0,,,,,,14.591,-61.003
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Duluth,United States,Active,,,,,0,,,,,,46.842,-92.194
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pouso Alegre,Brazil,Active,,,,,0,,,,,,-22.289,-45.919
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Prokopyevsky Municipal Okrug,Russian Federation,Active,,,,,0,,,,,,53.806,86.871
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Milwaukee,United States,Active,,,,,0,,,,,,42.947,-87.897
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Providenciales,Turks and Caicos Islands,Active,,,,,0,,,,,,21.774,-72.266
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Eastleigh,United Kingdom,Active,,,,,0,,,,,,50.95,-1.357
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jamnagar City Taluka,India,Active,,,,,0,,,,,,22.466,70.013
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chitose,Japan,Active,,,,,0,,,,,,42.775,141.692
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Argentina,Active,,,,,0,,,,,,-36.542,-59.721
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fresno,United States,Active,,,,,0,,,,,,36.776,-119.718
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bangor,United States,Active,,,,,0,,,,,,44.807,-68.828
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Marília,Brazil,Active,,,,,0,,,,,,-22.197,-49.926
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Castilla,Peru,Active,,,,,0,,,,,,-5.206,-80.616
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Constantine,Algeria,Active,,,,,0,,,,,,36.276,6.62
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Adliwala,India,Active,,,,,0,,,,,,31.71,74.797
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santana do Paraíso,Brazil,Active,,,,,0,,,,,,-19.471,-42.487
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ramos Arizpe,Mexico,Active,,,,,0,,,,,,25.544,-100.928
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Umeå,Sweden,Active,,,,,0,,,,,,63.792,20.283
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bullhead City,United States,Active,,,,,0,,,,,,35.162,-114.56
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ikaluit,Canada,Active,,,,,0,,,,,,63.756,-68.556
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Brandon,Canada,Active,,,,,0,,,,,,49.908,-99.951
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Limbung,Indonesia,Active,,,,,0,,,,,,-0.151,109.404
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wonju-si,"Korea, Republic of",Active,,,,,0,,,,,,37.438,127.96
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Safford,United States,Active,,,,,0,,,,,,32.85,-109.633
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Andrés,Colombia,Active,,,,,0,,,,,,12.584,-81.711
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Братский район,Russian Federation,Active,,,,,0,,,,,,56.371,101.698
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Temple City,United States,Active,,,,,0,,,,,,34.1,-118.033
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bartlesville,United States,Active,,,,,0,,,,,,36.767,-96
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,San Luis Río Colorado,Mexico,Active,,,,,0,,,,,,32.45,-114.8
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Happy Valley-Goose Bay,Canada,Active,,,,,0,,,,,,53.319,-60.411
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chimbote,Peru,Active,,,,,0,,,,,,-9.083,-78.6
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,St Andrew,Guernsey,Active,,,,,0,,,,,,49.435,-2.602
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Minot,United States,Active,,,,,0,,,,,,48.259,-101.28
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sacheon-si,"Korea, Republic of",Active,,,,,0,,,,,,35.089,128.07
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ghiroda,Romania,Active,,,,,0,,,,,,45.81,21.338
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Port Vila,Vanuatu,Active,,,,,0,,,,,,-17.699,168.32
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ulsan,"Korea, Republic of",Active,,,,,0,,,,,,35.594,129.352
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Guarulhos,Brazil,Active,,,,,0,,,,,,-23.432,-46.469
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Reynosa,Mexico,Active,,,,,0,,,,,,26.009,-98.229
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Baghdad,Iraq,Active,,,,,0,,,,,,33.263,44.234
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Las Jarretaderas,Mexico,Active,,,,,0,,,,,,20.68,-105.254
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint-Jacques-de-la-Lande,France,Active,,,,,0,,,,,,48.072,-1.732
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Paraná,Argentina,Active,,,,,0,,,,,,-31.794,-60.481
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Libreville,Gabon,Active,,,,,0,,,,,,0.459,9.412
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Boston,United States,Active,,,,,0,,,,,,42.364,-71.005
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ob,Russian Federation,Active,,,,,0,,,,,,55.013,82.651
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,North Charleston,United States,Active,,,,,0,,,,,,32.899,-80.041
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tampa,United States,Active,,,,,0,,,,,,27.976,-82.533
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cerro Colorado,Peru,Active,,,,,0,,,,,,-16.341,-71.573
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Recife,Brazil,Active,,,,,0,,,,,,-8.127,-34.923
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Malharganj Tahsil,India,Active,,,,,0,,,,,,22.722,75.801
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Irkutsk,Russian Federation,Active,,,,,0,,,,,,52.268,104.389
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,São José dos Pinhais,Brazil,Active,,,,,0,,,,,,-25.529,-49.176
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sepang,Malaysia,Active,,,,,0,,,,,,2.746,101.715
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zelenogradsky District,Russian Federation,Active,,,,,0,,,,,,54.89,20.593
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Springfield,United States,Active,,,,,0,,,,,,43.333,-72.517
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tha Chang,Thailand,Active,,,,,0,,,,,,14.95,102.313
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Azara,India,Active,,,,,0,,,,,,26.106,91.586
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Carolina,United States,Active,,,,,0,,,,,,18.439,-66.002
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vientiane Capital,Lao People's Democratic Republic,Active,,,,,0,,,,,,17.988,102.563
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pekanbaru,Indonesia,Active,,,,,0,,,,,,0.461,101.444
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Macapá,Brazil,Active,,,,,0,,,,,,0.051,-51.072
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pretoria,South Africa,Active,,,,,0,,,,,,-25.65,28.217
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Vikram Nagar,India,Active,,,,,0,,,,,,26.761,80.889
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kursk,Russian Federation,Active,,,,,0,,,,,,51.751,36.296
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bole,Ethiopia,Active,,,,,0,,,,,,8.978,38.799
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bayeux,Brazil,Active,,,,,0,,,,,,-7.148,-34.951
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rio Grande,Argentina,Active,,,,,0,,,,,,-53.778,-67.75
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Izamba,Ecuador,Active,,,,,0,,,,,,-1.2,-78.567
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Thunder Bay,Canada,Active,,,,,0,,,,,,48.372,-89.324
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chicopee,United States,Active,,,,,0,,,,,,42.189,-72.538
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Comodoro Rivadavia,Argentina,Active,,,,,0,,,,,,-45.785,-67.466
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palembang,Indonesia,Active,,,,,0,,,,,,-2.898,104.7
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Flandes,Colombia,Active,,,,,0,,,,,,4.283,-74.8
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Srpska,Montenegro,Active,,,,,0,,,,,,42.359,19.252
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dusseldorf,Germany,Active,,,,,0,,,,,,51.289,6.767
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Atlanta,United States,Active,,,,,0,,,,,,33.637,-84.428
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Río Gallegos,Argentina,Active,,,,,0,,,,,,-51.609,-69.313
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Campeche,Mexico,Active,,,,,0,,,,,,19.817,-90.5
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dar es Salaam,"Tanzania, United Republic of",Active,,,,,0,,,,,,-6.878,39.203
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Вологодский муниципальный округ,Russian Federation,Active,,,,,0,,,,,,59.282,39.945
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Juazeiro do Norte,Brazil,Active,,,,,0,,,,,,-7.219,-39.271
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,el Prat de Llobregat,Spain,Active,,,,,0,,,,,,41.297,2.078
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lapu-Lapu,Philippines,Active,,,,,0,,,,,,10.307,123.979
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Ukraine,Active,,,,,0,,,,,,47.058,31.92
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Petrolina,Brazil,Active,,,,,0,,,,,,-9.363,-40.569
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Arlington,United States,Active,,,,,0,,,,,,38.852,-77.038
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Roissy-en-France,France,Active,,,,,0,,,,,,49.01,2.548
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dieppe,Canada,Active,,,,,0,,,,,,46.107,-64.692
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wellington,New Zealand,Active,,,,,0,,,,,,-41.327,174.807
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipal Area Council,Nigeria,Active,,,,,0,,,,,,9.007,7.263
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Concón,Chile,Active,,,,,0,,,,,,-32.95,-71.479
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Americana,Brazil,Active,,,,,0,,,,,,-22.756,-47.269
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Sauce Viejo,Argentina,Active,,,,,0,,,,,,-31.711,-60.811
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,London,United Kingdom,Active,,,,,0,,,,,,51.331,0.032
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tapachula,Mexico,Active,,,,,0,,,,,,14.794,-92.37
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kota Sentosa,Malaysia,Active,,,,,0,,,,,,1.484,110.344
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hamilton,Canada,Active,,,,,0,,,,,,43.162,-79.928
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,городской округ Ульяновск,Russian Federation,Active,,,,,0,,,,,,54.268,48.227
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ube,Japan,Active,,,,,0,,,,,,33.93,131.279
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ha Josias II,Lesotho,Active,,,,,0,,,,,,-29.462,27.552
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cheboksary,Russian Federation,Active,,,,,0,,,,,,56.09,47.347
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,North Canton,United States,Active,,,,,0,,,,,,40.916,-81.442
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Caldas Novas,Brazil,Active,,,,,0,,,,,,-17.725,-48.61
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nuuk,Greenland,Active,,,,,0,,,,,,64.191,-51.678
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Kosewo,Poland,Active,,,,,0,,,,,,52.451,20.652
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chernivtsi,Ukraine,Active,,,,,0,,,,,,48.259,25.98
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ware County,United States,Active,,,,,0,,,,,,31.25,-82.4
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Zhytomyr,Ukraine,Active,,,,,0,,,,,,50.25,28.65
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Calliaqua,Saint Vincent and the Grenadines,Active,,,,,0,,,,,,13.144,-61.211
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Palaikythro,Cyprus,Active,,,,,0,,,,,,35.16,33.488
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Haifa,Israel,Active,,,,,0,,,,,,32.811,35.043
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Athens-Clarke County Unified Government,United States,Active,,,,,0,,,,,,33.949,-83.322
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Le Grand-Saconnex,Switzerland,Active,,,,,0,,,,,,46.238,6.109
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Andres Avelino Caceres Dorregaray,Peru,Active,,,,,0,,,,,,-13.155,-74.204
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tuluá,Colombia,Active,,,,,0,,,,,,4.1,-76.233
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,City of Medan,Indonesia,Active,,,,,0,,,,,,3.558,98.672
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mayminsky Rayon,Russian Federation,Active,,,,,0,,,,,,51.969,85.836
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saint George,United States,Active,,,,,0,,,,,,37.091,-113.593
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Blagnac,France,Active,,,,,0,,,,,,43.635,1.368
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Puerto Montt,Chile,Active,,,,,0,,,,,,-41.439,-73.094
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cedar Rapids,United States,Active,,,,,0,,,,,,41.885,-91.711
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pavlodar,Kazakhstan,Active,,,,,0,,,,,,52.195,77.074
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Uruapan,Mexico,Active,,,,,0,,,,,,19.397,-102.039
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bashar,Algeria,Active,,,,,0,,,,,,31.646,-2.279
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ust-Abakansky Rayon,Russian Federation,Active,,,,,0,,,,,,53.74,91.385
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Berlin,Germany,Active,,,,,0,,,,,,52.56,13.288
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Muscat,Oman,Active,,,,,0,,,,,,23.593,58.282
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Västra Götaland County,Sweden,Active,,,,,0,,,,,,57.663,12.28
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Macaé,Brazil,Active,,,,,0,,,,,,-22.343,-41.766
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Castro,Chile,Active,,,,,0,,,,,,-42.5,-73.75
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Branson,United States,Active,,,,,0,,,,,,36.532,-93.2
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Portage,United States,Active,,,,,0,,,,,,42.235,-85.552
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Burgas,Bulgaria,Active,,,,,0,,,,,,42.57,27.515
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sentani,Indonesia,Active,,,,,0,,,,,,-2.577,140.516
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jerusalem,Israel,Active,,,,,0,,,,,,31.867,35.217
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Whitehorse,Canada,Active,,,,,0,,,,,,60.709,-135.067
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Porto Velho,Brazil,Active,,,,,0,,,,,,-8.709,-63.902
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Guaymas,Mexico,Active,,,,,0,,,,,,27.969,-110.925
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Simpson Bay,Netherlands,Active,,,,,0,,,,,,18.041,-63.109
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,David Sur,Panama,Active,,,,,0,,,,,,8.391,-82.435
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Phoenix,United States,Active,,,,,0,,,,,,33.434,-112.012
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Aguascalientes,Mexico,Active,,,,,0,,,,,,21.706,-102.318
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Raleigh County,United States,Active,,,,,0,,,,,,37.787,-81.124
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Port Said,Egypt,Active,,,,,0,,,,,,31.283,32.233
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,St. John's,Canada,Active,,,,,0,,,,,,47.619,-52.752
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buon Ma Thuot,Viet Nam,Active,,,,,0,,,,,,12.668,108.12
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yakutsk,Russian Federation,Active,,,,,0,,,,,,62.093,129.771
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Teixeira de Freitas,Brazil,Active,,,,,0,,,,,,-17.525,-39.669
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Uberaba,Brazil,Active,,,,,0,,,,,,-19.765,-47.965
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Greater Sudbury,Canada,Active,,,,,0,,,,,,46.625,-80.799
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,North Bay,Canada,Active,,,,,0,,,,,,46.364,-79.423
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Omura,Japan,Active,,,,,0,,,,,,32.917,129.914
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dunedin City,New Zealand,Active,,,,,0,,,,,,-45.929,170.197
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cascade County,United States,Active,,,,,0,,,,,,47.482,-111.371
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Roskilde,Denmark,Active,,,,,0,,,,,,55.586,12.132
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Prague,Czechia,Active,,,,,0,,,,,,50.101,14.26
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rach Gia City,Viet Nam,Active,,,,,0,,,,,,9.958,105.133
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Almaty,Kazakhstan,Active,,,,,0,,,,,,43.353,77.042
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Indianapolis,United States,Active,,,,,0,,,,,,39.717,-86.294
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rionegro,Colombia,Active,,,,,0,,,,,,6.164,-75.423
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Entzheim,France,Active,,,,,0,,,,,,48.542,7.634
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sofia,Bulgaria,Active,,,,,0,,,,,,42.695,23.406
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Garching bei München,Germany,Active,,,,,0,,,,,,48.354,11.786
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Gulshan-e-Iqbal Town,Pakistan,Active,,,,,0,,,,,,24.907,67.161
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lebrija,Colombia,Active,,,,,0,,,,,,7.126,-73.185
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Frankfurt,Germany,Active,,,,,0,,,,,,50.033,8.571
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Wanchaq,Peru,Active,,,,,0,,,,,,-13.536,-71.939
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Corrientes,Argentina,Active,,,,,0,,,,,,-27.446,-58.762
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Maringá,Brazil,Active,,,,,0,,,,,,-23.476,-52.016
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Đà Nẵng,Viet Nam,Active,,,,,0,,,,,,16.044,108.199
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cluj-Napoca,Romania,Active,,,,,0,,,,,,46.785,23.686
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Les Abymes,France,Active,,,,,0,,,,,,16.265,-61.532
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Caxias do Sul,Brazil,Active,,,,,0,,,,,,-29.197,-51.188
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Columbus,United States,Active,,,,,0,,,,,,39.998,-82.892
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Somma Lombardo,Italy,Active,,,,,0,,,,,,45.63,8.723
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,La Serena,Chile,Active,,,,,0,,,,,,-29.916,-71.199
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,La Soukra,Tunisia,Active,,,,,0,,,,,,36.851,10.227
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Toyonaka,Japan,Active,,,,,0,,,,,,34.786,135.438
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Makinohara,Japan,Active,,,,,0,,,,,,34.797,138.181
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Bauru,Brazil,Active,,,,,0,,,,,,-22.164,-49.069
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Los Angeles,United States,Active,,,,,0,,,,,,33.943,-118.408
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Huejotzingo,Mexico,Active,,,,,0,,,,,,19.158,-98.371
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ash Shalif,Algeria,Active,,,,,0,,,,,,36.213,1.332
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,La Lima,Honduras,Active,,,,,0,,,,,,15.453,-87.924
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Iași,Romania,Active,,,,,0,,,,,,47.179,27.621
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Djibouti,Djibouti,Active,,,,,0,,,,,,11.547,43.159
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Barrigada Municipality,United States,Active,,,,,0,,,,,,13.483,144.796
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,London,United Kingdom,Active,,,,,0,,,,,,51.505,0.054
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Chelyabinsk,Russian Federation,Active,,,,,0,,,,,,55.306,61.503
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Liéhon,France,Active,,,,,0,,,,,,48.978,6.247
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Suthep,Thailand,Active,,,,,0,,,,,,18.771,98.963
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lisbon,Portugal,Active,,,,,0,,,,,,38.774,-9.134
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Madrid,Spain,Active,,,,,0,,,,,,40.494,-3.567
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Hat Yai,Thailand,Active,,,,,0,,,,,,6.933,100.395
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Loudoun County,United States,Active,,,,,0,,,,,,38.944,-77.456
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Darwin,Australia,Active,,,,,0,,,,,,-12.415,130.877
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dortmund,Germany,Active,,,,,0,,,,,,51.518,7.612
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nouaceur,Morocco,Active,,,,,0,,,,,,33.367,-7.59
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Foz do Iguaçu,Brazil,Active,,,,,0,,,,,,-25.596,-54.487
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Sheffield,United Kingdom,Active,,,,,0,,,,,,53.394,-1.39
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Reykjanesbær,Iceland,Active,,,,,0,,,,,,63.985,-22.606
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Perico,Argentina,Active,,,,,0,,,,,,-24.393,-65.098
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Fua'amotu,Tonga,Active,,,,,0,,,,,,-21.244,-175.144
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Aracaju,Brazil,Active,,,,,0,,,,,,-10.984,-37.07
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Philadelphia,United States,Active,,,,,0,,,,,,39.872,-75.241
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Agra,India,Active,,,,,0,,,,,,27.156,77.961
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jefman,Indonesia,Active,,,,,0,,,,,,-0.926,131.121
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cleveland,United States,Active,,,,,0,,,,,,41.412,-81.85
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Santa Rosa,Ecuador,Active,,,,,0,,,,,,-3.435,-79.978
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Grozny,Russian Federation,Active,,,,,0,,,,,,43.388,45.7
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Freire,Chile,Active,,,,,0,,,,,,-38.927,-72.647
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Scharnhausen,Germany,Active,,,,,0,,,,,,48.69,9.222
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Rio Branco,Brazil,Active,,,,,0,,,,,,-9.869,-67.894
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Maguwoharjo,Indonesia,Active,,,,,0,,,,,,-7.788,110.432
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Brazil,Active,,,,,0,,,,,,-25.0,-53.501
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Barquisimeto,"Venezuela, Bolivarian Republic of",Active,,,,,0,,,,,,10.043,-69.359
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Paso Carrasco,Uruguay,Active,,,,,0,,,,,,-34.838,-56.031
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Oxford,United States,Active,,,,,0,,,,,,33.588,-85.858
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tha Phae,Thailand,Active,,,,,0,,,,,,8.54,99.945
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,"Tanzania, United Republic of",Active,,,,,0,,,,,,-3.429,37.074
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ponta Delgada,Portugal,Active,,,,,0,,,,,,37.741,-25.698
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ust-Ilimsky,Russian Federation,Active,,,,,0,,,,,,58.133,102.55
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Daegu,"Korea, Republic of",Active,,,,,0,,,,,,35.894,128.659
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lazrou,Algeria,Active,,,,,0,,,,,,35.752,6.309
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Winston-Salem,United States,Active,,,,,0,,,,,,36.138,-80.225
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mérignac,France,Active,,,,,0,,,,,,44.829,-0.715
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Yellowknife,Canada,Active,,,,,0,,,,,,62.469,-114.443
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Belo Horizonte,Brazil,Active,,,,,0,,,,,,-19.851,-43.951
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Prescott,United States,Active,,,,,0,,,,,,34.654,-112.42
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Greven,Germany,Active,,,,,0,,,,,,52.135,7.685
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Arapahoe County,United States,Active,,,,,0,,,,,,39.572,-104.851
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jales,Brazil,Active,,,,,0,,,,,,-20.267,-50.55
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Campina Grande,Brazil,Active,,,,,0,,,,,,-7.27,-35.896
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nordland,Norway,Active,,,,,0,,,,,,68.581,15.021
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cascade Charter Township,United States,Active,,,,,0,,,,,,42.881,-85.523
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Mihail Kogălniceanu,Romania,Active,,,,,0,,,,,,44.362,28.488
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Greer,United States,Active,,,,,0,,,,,,34.896,-82.219
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Акцябрскі сельскі Савет,Belarus,Active,,,,,0,,,,,,55.126,30.35
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ladyville,Belize,Active,,,,,0,,,,,,17.539,-88.308
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Middleton One Row,United Kingdom,Active,,,,,0,,,,,,54.509,-1.429
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Cherkasy,Ukraine,Active,,,,,0,,,,,,49.417,32
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Padang,Indonesia,Active,,,,,0,,,,,,-0.875,100.352
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Ellis County,United States,Active,,,,,0,,,,,,38.85,-99.276
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Batumi,Georgia,Active,,,,,0,,,,,,41.61,41.6
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Buenos Aires,Argentina,Active,,,,,0,,,,,,-34.559,-58.416
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Municipio de Delfín Gallo,Argentina,Active,,,,,0,,,,,,-26.841,-65.105
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Saidpur,Bangladesh,Active,,,,,0,,,,,,25.759,88.909
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Boyeros,Cuba,Active,,,,,0,,,,,,22.99,-82.408
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,,Thailand,Active,,,,,0,,,,,,14.1,99.917
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Perímetro Urbano Neiva,Colombia,Active,,,,,0,,,,,,2.95,-75.294
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Flint,United States,Active,,,,,0,,,,,,42.966,-83.744
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Washington,United States,Active,,,,,0,,,,,,35.55,-77.05
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Londonderry,United States,Active,,,,,0,,,,,,42.932,-71.436
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tampico,Mexico,Active,,,,,0,,,,,,22.296,-97.866
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Columbus,United States,Active,,,,,0,,,,,,33.466,-88.381
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tuguegarao,Philippines,Active,,,,,0,,,,,,17.642,121.734
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Jeju,"Korea, Republic of",Active,,,,,0,,,,,,33.511,126.493
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Pokhara,Nepal,Active,,,,,0,,,,,,28.201,83.981
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Camocim,Brazil,Active,,,,,0,,,,,,-2.9,-40.833
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Lomé,Togo,Active,,,,,0,,,,,,6.166,1.254
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Tashkent,Uzbekistan,Active,,,,,0,,,,,,41.257,69.271
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Masescha,Liechtenstein,Active,,,,,0,,,,,,47.132,9.569
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Dushanbe,Tajikistan,Active,,,,,0,,,,,,38.547,68.816
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Nouakchott,Mauritania,Active,,,,,0,,,,,,18.299,-15.958
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Khartoum,Sudan,Active,,,,,0,,,,,,15.593,32.552
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Brazzaville (municipality),Congo,Active,,,,,0,,,,,,-4.251,15.257
+Google,ggcs,https://peering.google.com/static/js/site/modules/pages/infrastructure.html,Avarua,Cook Islands,Active,,,,,0,,,,,,-21.202,-159.807
