@@ -7,7 +7,7 @@ With the aim of creating a more comprehensive picture of global cloud and CDN in
 - [Microsoft Edge Locations](https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region)
 - [Google Datacentre/PoP/GGC Locations](https://peering.google.com/static/js/site/modules/pages/infrastructure.html)
 - [Fastly PoPs](https://www.fastly.com/network-map/)
-- [Facebook (now Meta) Network Appliances](https://anuragbhatia.com/2022/07/networking/isp-column/facebook-cache-fna-updates-july-2022/)
+- [Facebook (now Meta) Network Appliances](https://anuragbhatia.com/post/2024/05/facebook-fna-update-2024-and-backbone-analysis/)
 - [Akamai](https://www.akamai.com/why-akamai)
 - [Netflix Open Connect Appliances (OCAs)](https://openconnect.netflix.com/en/)
 - [CacheFly](https://www.cachefly.com/network-map/)
