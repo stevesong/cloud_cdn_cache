@@ -1,0 +1,301 @@
+Provider,Details,Street,City,State,PostCode,Country,Service Name,URL,Status,Latitude,Longitude
+Hurricane Electric,DataHive,840 7th Ave. SW,Calgary,AB,T2P 3G2,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.0472492,-114.0798204
+Hurricane Electric,Arrow Calgary DC2,2712 - 37th Ave. NE,Calgary,AB,T1Y 5L3,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.0871239,-113.9967265
+Hurricane Electric,Wolfpaw Edmonton 1,"10060 Jasper Ave., Suite 301",Edmonton,AB,T5J 3R8,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.5416565,-113.4926823
+Hurricane Electric,Cologix Vancouver VAN1,555 W Hastings St.,Vancouver,BC,V6B 4N4,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,49.2846966,-123.1119349
+Hurricane Electric,Harbor Exchange MMR,555 W Hastings St.,Vancouver,BC,V6B 4N4,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,49.2846966,-123.1119349
+Hurricane Electric,Cologix VAN3,2828 Natal Street.,Vancouver,BC,V5M 2H1,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,49.2594269,-123.0296962
+Hurricane Electric,Global Server Centre,167 Lombard Ave.,Winnipeg,MB,R3B 0V3,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,49.8962404,-97.1369607
+Hurricane Electric,Manitoba Hydro Telecom,360 Portage Ave.,Winnipeg,MB,R3C 0G8,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,49.8922903,-97.1463651
+Hurricane Electric,Fibre Centre,770 St George Blvd.,Moncton,NB,E1E 2C6,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,46.0843706,-64.8116574
+Hurricane Electric,EXA Halifax,7071 Bayers Rd.,Halifax,NS,B3L 2C2,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,44.6556226,-63.6259245
+Hurricane Electric,PureColo Ottawa,"390 March Rd., Suite 108",Ottawa,ON,K2K 0G7,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.3402387,-75.9101509
+Hurricane Electric,Equinix Toronto TR1,"151 Front St West, Suite 706",Toronto,ON,M5J 2N1,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.6446728,-79.3841283
+Hurricane Electric,Cologix Toronto TOR1,151 Front St West,Toronto,ON,M5J 2N1,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.6446728,-79.3841283
+Hurricane Electric,Equinix Toronto TR2,45 Parliament St,Toronto,ON,M5A 0G7,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.6509296,-79.3619788
+Hurricane Electric,EdgeConneX Toronto,565 Gordon Baker Rd.,Toronto,ON,M2H 3B4,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.8093155,-79.342601
+Hurricane Electric,Cologix MTL3,1250 Blvd Rene Levesque W,Montreal,QC,H3B 4W8,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.4976616,-73.5704955
+Hurricane Electric,Cologix Montreal MTL11,875 Saint-Antoine St. W,Montreal,QC,H3C 1A6,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.4992833,-73.5650989
+Hurricane Electric,Vantage Quebec City,2675 Boulevard du Parc Technologique,Quebec,QC,G1P 4S5,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,46.7955664,-71.306849
+Hurricane Electric,University of Saskatchewan / Innovation Place,"110 Maintenance Rd, Suite C2",Saskatoon,SK,S7N 4L5,Canada,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.1346361,-106.6326086
+Hurricane Electric,SYT Buenos Aires,Suipacha 128,Buenos Aires,,1401,Argentina,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-34.606681,-58.3793669
+Hurricane Electric,Ascenty SCL2 Santiago,Guacolda 2100 Comuna de quilicura,Santiago,,8710067,Chile,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-33.3382751,-70.7074482
+Hurricane Electric,Equinix BG1 Bogotá,Carrera 106 15A- 25,Zona Franca de Bogotá,,CP 110921,Colombia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,4.6719599,-74.1551191
+Hurricane Electric,GlobeNet Fortaleza,Rua Raimundo Esteves 333,Fortaleza,,60182-330,Brazil,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-3.7348846,-38.4580167
+Hurricane Electric,Equinix RJ2 Rio de Janeiro,"Estrada Adhemar Bebiano, 1380",Rio de Janeiro,RJ,21051-070,Brazil,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-22.8713852,-43.273228
+Hurricane Electric,Equinix SP2 São Paulo,"Alameda Araguaia 3641, Tamboré",Barueri,São Paulo,06455000,Brazil,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-23.5031284,-46.8273343
+Hurricane Electric,Equinix SP4 São Paulo,Ceci Avenue 1900,Barueri,São Paulo,06455000,Brazil,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-23.4974691,-46.8145101
+Hurricane Electric,Spin18 São Paulo,Rua do Rocio São Paulo 423,São Paulo,,S03178-200,Brazil,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-23.5946885,-46.6876175
+Hurricane Electric,RASH/ANIX,Rruga e Durrësit 219 Tirana,Tirana,,1001,Albania,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.3307502,19.8113916
+Hurricane Electric,Interxion VIE1,Louis Haefliger-Gasse 10,Vienna,,A-1210,Austria,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.2696411,16.4102184
+Hurricane Electric,Interxion Brussels (BRU1),"Wezembeekstraat 2 bus 1, Brussels",Zaventem,,1930,Belgium,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.8709669,4.4762038
+Hurricane Electric,Telepoint Sofia Centre,122 Ovcha Pole St,Sofia,,1303,Bulgaria,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.7003881,23.3126139
+Hurricane Electric,Equinix Sofia SO1,"5030 str Duzhba-1, Suite 10",Sofia,,1592,Bulgaria,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.670385,23.397418
+Hurricane Electric,CE Colo Prague,1428/47 Nad Elektrarnou,Prague,,,Czech Republic,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.0605801,14.4833783
+Hurricane Electric,CarrierColo Berlin Luetzow (I/P/B/ site B),105/106 Lutzowstrasse,Berlin,,10785,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.50202,13.3693399
+Hurricane Electric,Interxion Dusseldorf,In der Steele 29,Dusseldorf,,,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.18827,6.86722
+Hurricane Electric,Interxion Frankfurt FRA1,302 Hanauer Landstrasse,Frankfurt,,60314,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.12007,8.73561
+Hurricane Electric,Equinix Frankfurt FR5,Kleyerstrasse 90,Frankfurt,,60326,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.0988499,8.6320043
+Hurricane Electric,Equinix Frankfurt FR7,Gutleutstrasse 310,Frankfurt,,60327,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.0971235,8.6440024
+Hurricane Electric,Equinix Frankfurt FR2,Kruppstrasse 121-127,Frankfurt,,60388,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.1438563,8.7399277
+Hurricane Electric,NTT FRA1 Frankfurt,Eschborner Landstrasse 100,Frankfurt,,60489,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.1281919,8.6014355
+Hurricane Electric,ITENOS Frankfurt FRA1,90 Kleyerstrasse,Frankfurt,,60326,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.0988499,8.6320043
+Hurricane Electric,Telehouse Frankfurt,Kleyerstrasse 75-87,Frankfurt,,60326,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.0969757,8.6300397
+Hurricane Electric,GlobalConnect Hamburg (HAM2),Wendenstrasse 379,Hamburg,,20537,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.5508567,10.047003
+Hurricane Electric,Equinix Munich MU1,"Seidlestrasse 3, Alte Hopfenpost",Munich,,80335,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.1435436,11.5548935
+Hurricane Electric,EdgeConneX Munich,155 Landsbergerstrasse,Munich,,80687,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.1398668,11.5263741
+Hurricane Electric,Maincubes FRA01,Goethering 29,Offenbach am Main,,63067,Germany,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.1096446,8.7431139
+Hurricane Electric,Interxion CPH1,Industriparken 20,Ballerup,,2750,Denmark,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,55.7288513,12.3758662
+Hurricane Electric,Telia Eesti/Elion,Sole 14,Tallinn,,10611,Estonia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,59.4351607,24.7148021
+Hurricane Electric,Equinix Barcelona BA1,30-32 Carrer de l'Acer,Barcelona,,,Spain,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.3515906,2.1374618
+Hurricane Electric,Interxion Madrid,71 Calle Albasanz,Madrid,,28037,Spain,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.4393725,-3.62108
+Hurricane Electric,Equinix Madrid MD2,6 Calle Valgrande,Madrid,,28108,Spain,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.5368503,-3.6486081
+Hurricane Electric,Equinix Helsinki HE3,2 Parrukatu,Helsinki,,00570,Finland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,60.185101,24.9687135
+Hurricane Electric,Equinix Helsinki HE6,12 Sinimaentie,Helsinki,,02630,Finland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,60.2030805,24.7779559
+Hurricane Electric,Pasila Broadcast Tower / Digita,Radiokatu 5B,Helsinki,,,Finland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,60.2031354,24.9246459
+Hurricane Electric,Interxion Marseille MRS1,40 Avenue Roger Salengro,Marseille,,13003,France,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.3103272,5.3734539
+Hurricane Electric,Telehouse Paris TH2,137 Blvd Voltaire,Paris,,75011,France,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.856169,2.3834304
+Hurricane Electric,Interxion PAR2,#20-22 Rue des Gardineaux,Paris,,93300,France,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.8551247,2.3354493
+Hurricane Electric,Interxion PAR1,45 Avenue Victor Hugo,Paris,,93534,France,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.8713363,2.2895889
+Hurricane Electric,Equinix Paris PA7,130-136 Boulevard de Verdun,Paris,,92400,France,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.9039951,2.2574866
+Hurricane Electric,Equinix Paris PA2,114 Rue Ambroise Croizat,Paris,,93200,France,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.9272777,2.3496336
+Hurricane Electric,Lamda Hellix Athens Campus,76 Ifaistou,Athens,,19400,Greece,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.8713935,23.8702784
+Hurricane Electric,SRCE Zagreb,Josipa Marohnica 5,Zagreb,,,Croatia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.7923193,15.9696436
+Hurricane Electric,GTS Hungary,Victor Hugo u 18-22,Budapest,,,Hungary,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.5179586,19.0557115
+Hurricane Electric,Dataplex Budapest,Asztalos Sandor utca 13,Budapest,,,Hungary,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.4490367,19.107302
+Hurricane Electric,T-Systems Data Center,13 Asztalos Sándor,Budapest,,1087,Hungary,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.49343,19.1027582
+Hurricane Electric,Equinix Dublin DB1,"Kingswood Road, City West Business Campus",Dublin,,24,Ireland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.2946376,-6.4163372
+Hurricane Electric,Equinix Dublin DB2,Nangor Road,Dublin,,,Ireland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.3284744,-6.3907413
+Hurricane Electric,Equinix Dublin DB3,"Unit 2, Northwest Business Park, Ballycoolin",Dublin,,15,Ireland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.4107498,-6.3520675
+Hurricane Electric,Interxion DUB1,Unit 35 Lavery Avenue,Dublin,,12,Ireland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.3342704,-6.365787
+Hurricane Electric,MIX,Via Caldera 21 Bldg D,Milan,,,Italy,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.476974,9.1020545
+Hurricane Electric,IRIDEOS Avalon (Enter),Via Caldera 21 Palazzo B Ala 2,Milan,,20153,Italy,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.476177,9.1038866
+Hurricane Electric,Equinix Milan ML2,125 Via Savona,Milan,,20144,Italy,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.448639,9.1473188
+Hurricane Electric,NaMeX,6/b Via dei Tizi,Rome,,,Italy,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.8989257,12.5121937
+Hurricane Electric,Data Logistics Center,"Juozapaviciaus str, 13",Vilnius,,LT-09311,Lithuania,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,54.6917246,25.2884537
+Hurricane Electric,LuxConnect DC,4 Rue Graham Bell,Bettembourg,,3235,Luxembourg,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,49.5051956,6.113479
+Hurricane Electric,LVRTC TV Tower,Zakusalas krastmala 1,Riga,,LV-1050,Latvia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,56.9239599,24.1371076
+Hurricane Electric,Telesmart Skopje,NN Nikola Parapunov,Skopje,,1000,North Macedonia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.0064342,21.3833079
+Hurricane Electric,NIKHEF,105 Science Park,Amsterdam,,1098 XG,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.3559617,4.9513421
+Hurricane Electric,Equinix Amsterdam AM7,Kuiperbergweg 13,Amsterdam,,1101 AE,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.3030828,4.9380211
+Hurricane Electric,Interxion AMS8,37 Pudongweg,Amsterdam,,1437 EM,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.2760119,4.742854
+Hurricane Electric,Equinix Amsterdam AM3,610 Science Park,Amsterdam,,1098 XH,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.3547195,4.9616013
+Hurricane Electric,Interxion AMS9,121 Science Park,Amsterdam,,1098 XG,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.3561063,4.9527265
+Hurricane Electric,Global Switch,2-6 Henk Sneevlietweg,Amsterdam,,1066 VH,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.3449285,4.8292414
+Hurricane Electric,Iron Mountain Amsterdam (AMS-1),35 J.W. Lucasweg,Amsterdam,,2031 BE,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.3917224,4.6649651
+Hurricane Electric,Maincubes AMS01,Capronilaan 2,Schiphol-Rijk,,1119 NR,Netherlands,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.2820421,4.7731768
+Hurricane Electric,STACK Infra / Digiplex,Selma Ellefsensvei 1 / Ulvenveien 89b,Oslo,,,Norway,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,59.9250553,10.8091233
+Hurricane Electric,4 Data Center Katowice,7 Adamskiego,Katowice,,40-069,Poland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.2537996,19.0028092
+Hurricane Electric,Equinix Warsaw WA1/LIM/PLIX,Al Jerozolimskie #65-79,Warsaw,,00-697,Poland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.227662,21.003816
+Hurricane Electric,EdgeConneX Warsaw,64a Nowogrodska,Warsaw,,02-014,Poland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,52.2265186,20.9991722
+Hurricane Electric,Equinix Lisbon LS1,"14 Av. Severiano Falcao, Lisbon",Sacavem,,2685,Portugal,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.7879166,-9.1233269
+Hurricane Electric,NXDATA-1,8 Dimitrie Pompeiu Blvd,Bucharest,,,Romania,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,44.4819175,26.1207534
+Hurricane Electric,Telenor Beograd,92 Omladinskih Brigada,Belgrade,,11070,Serbia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,44.8094841,20.3993044
+Hurricane Electric,Telxius Derio Hub,"Parque Tecnológico de Bizkaia, Astintze Kalea 24",Derio,,,Spain,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.2889591,-2.8812061
+Hurricane Electric,Equinix Stockholm SK1,Mariehallsvagen 36,Stockholm,,,Sweden,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,59.3628257,17.9556175
+Hurricane Electric,Interxion Stockholm,Esbogatan 11,Stockholm,,,Sweden,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,59.4183216,17.9277045
+Hurricane Electric,Equinix Stockholm SK2,Kvastvagen 25-29,Stockholm,,SE-128 62,Sweden,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,59.2636708,18.1053629
+Hurricane Electric,Equinix Geneva GV1,Rue de la Confederation 6,GeneVA,,,Switzerland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,46.2035186,6.1444769
+Hurricane Electric,Equinix Zurich ZH4,Josefstrasse 225,Zurich,,8005,Switzerland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.3877404,8.5201949
+Hurricane Electric,Interxion ZUR1,Sagereistrasse,Glattbrugg,,8152,Switzerland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.4315892,8.5597778
+Hurricane Electric,NTT Zürich 1,Hofwisenstrasse 54-56,Rümlang,,CH-8153,Switzerland,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.4496853,8.5402817
+Hurricane Electric,Sitel Bratislava,Kopcianska 20/c,BratislaVA,,851 01,Slovakia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,48.1171397,17.0939073
+Hurricane Electric,Telemach Hosting,Brnciceva 49,Ljubljana,,SI-1231,Slovenia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,46.0946377,14.5577378
+Hurricane Electric,Equinix Istanbul IL2,3. Cd.No:4 Yukari Dudullu Organize Sanayi Bolgesi (OSB) Umraniye,Istanbul,,34775,Turkey,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.9963964,29.1712033
+Hurricane Electric,NewTelco Kyiv,Gaydara 50 Street,Kyiv,,01033,Ukraine,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,50.4436285,30.5123334
+Hurricane Electric,Pulsant Edinburgh South Gyle,The Clocktower Estate,Edinburgh,,EH12 9LB,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,55.9293386,-3.2939434
+Hurricane Electric,aql Salem Church,11-15 Hunslet Road,Leeds,,LS10 1JQ,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.7930998,-1.540874
+Hurricane Electric,Telehouse East London,14 Coriander Ave.,London,,E14 2AA,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5120546,-0.0019717
+Hurricane Electric,Equinix London LD8,6&7 Harbour Exchange Square,London,,E14 9GE,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.4992263,-0.0143502
+Hurricane Electric,Telehouse North London,14 Coriander Ave.,London,,E14 2AA,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5120546,-0.0019717
+Hurricane Electric,Equinix London LD9,"Powergate, Volt Avenue",London,,NW10 6PW,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5318382,-0.2573596
+Hurricane Electric,Interxion LON1,11 Hanbury Street,London,,E1 6QR,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5202605,-0.0730764
+Hurricane Electric,Global Switch London East,3 Nutmeg Lane,London,,E14 2AX,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5109428,-0.0034599
+Hurricane Electric,LDeX1 London,"The Oxgate Centre, Oxgate Lane",London,,NW2 7JA,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5688564,-0.2303926
+Hurricane Electric,Equinix London LD5 Slough,8 Buckingham Ave.,London,,SL1 4AX,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5224355,-0.6290175
+Hurricane Electric,Iron Mountain London (LON-1),724-729 Dundee Rd.,London,,SL1 4JU,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,51.5268697,-0.6332816
+Hurricane Electric,Equinix Manchester MA1,Lloyd Street North,Manchester,,M15 6SE,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.4630997,-2.2354437
+Hurricane Electric,Equinix Manchester MA2,"Reynolds House, 4 Archway",Manchester,,M15 5RN,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.4643932,-2.2476333
+Hurricane Electric,Equinix Manchester MA3,76 Trafford Wharf Road,Manchester,,M17 1HE,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.4680232,-2.2934391
+Hurricane Electric,LDeX2 Manchester,Unit 6 Waterside,Manchester,,M17 1WD,United Kingdom,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,53.466184,-2.293758
+Hurricane Electric,Equinix Dubai DX1,"International Media Production Zone, Building F90",Dubai,,,United Arab Emirates,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,25.0275695,55.1817037
+Hurricane Electric,CNX (Sabay Digital),308 Preah Monivong Blvd,Phnom Penh,,,Cambodia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,11.5580817,104.9205279
+Hurricane Electric,Mega iAdvantage,"399 Chai Wan Rd, 32nd Floor",Hong Kong,,,Hong Kong,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,22.2660937,114.2465196
+Hurricane Electric,Equinix Hong Kong HK1,"168 Yeung Uk Rd, 17th Floor",Tsuen Wan,NT,,Hong Kong,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,22.3655638,114.119481
+Hurricane Electric,HKCOLO - Sino Favour,"8/F Sino Favour Centre, 1 On Yip Street",Chaiwan,,,Hong Kong,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,22.266561,114.246735
+Hurricane Electric,Digital Realty HKG11,11 Kin Chuen St.,Hong Kong,,,Hong Kong,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,22.3705365,114.1290982
+Hurricane Electric,Equinix Osaka OS1,"Nishi-Shinsaibashi Bldg., 1-26-1 Shin-machi",Osaka,,550-0013,Japan,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,34.6772421,135.4933776
+Hurricane Electric,Equinix Tokyo TY2,3-8-21 Higashi ShinagaWA Shinagawa-ku,Tokyo,,,Japan,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,35.6174494,139.7481187
+Hurricane Electric,KINX Dogok,"5F, Daelim Acrotel, 467-6, Dogok-dong, Gangnam-gu",Seoul,,,South Korea,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.4881202,127.0510778
+Hurricane Electric,Equinix SL1,"Digital Media City 24, Sangam-dong",Seoul,,,South Korea,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.5738788,126.8978453
+Hurricane Electric,PLDT Diliman,8003-A East Ave.,Manila (Quezon),,1101,Philippines,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,14.6442316,121.0481649
+Hurricane Electric,VITRO Makati 1 Manila,"RCBC Plaza Tower II, 6811 Ayala Ave.",Manila (Makati),,,Philippines,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,14.5611018,121.016363
+Hurricane Electric,AIMS Kuala Lumpur (Menara AIMS),Changkat Raja Chulan,Kuala Lumpur,,,Malaysia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,3.1493525,101.7060731
+Hurricane Electric,Equinix Singapore SG1,20 Ayer Rajah Crescent #05-05/08,Singapore,,,Singapore,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,1.2951755,103.7898594
+Hurricane Electric,Global Switch Singapore,"Tai Seng Avenue Global Switch, Suite 2",Singapore,,,Singapore,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,1.3377152,103.8906808
+Hurricane Electric,Iron Mountain Singapore (SIN-1),1 Serangoon North Ave. 6,Singapore,,554502,Singapore,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,1.3760039,103.8712298
+Hurricane Electric,Epsilontel,"151 Lorong Chuan, Lobby A #06-02",Singapore,,,Singapore,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,1.3520996,103.8608495
+Hurricane Electric,Digital Realty SIN10,29A International Business Park,Singapore,,609934,Singapore,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,1.3277276,103.7460583
+Hurricane Electric,Chief Telecom LY Bldg,"8/9F, No 250, Yang-Guang St., NeiHu District",Taipei,,,Taiwan,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,25.073517,121.5775369
+Hurricane Electric,TCC Technology (TCCT),"1856 Interlink Tower II, Bangna Trad Rd",Bangkok,,,Thailand,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,13.6636512,100.6513449
+Hurricane Electric,Djibouti Data Center,"Haramous 3G Building, Boulaos Street",Djibouti,,,Djibouti,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,11.5519444,43.1888889
+Hurricane Electric,Rack Centre Lagos,"Jagal Close, Oregun",Lagos,,100212,Nigeria,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,6.5986237,3.3710862
+Hurricane Electric,iColo Mombasa One,Mombasa Road,Mombasa,,30708,Kenya,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-4.0299282,39.6323255
+Hurricane Electric,"Africa Data Centers NBO1, Nairobi","Sameer Business Park, Mombasa Road",Nairobi,,,Kenya,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-1.3300105,36.8661904
+Hurricane Electric,Teraco CT1,"240 Main Road, Great Westerford Building",Cape Town,,7700,South Africa,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-33.9894028,18.466402
+Hurricane Electric,Teraco DB1,1 Riverhorse Close,Durban,,4037,South Africa,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-29.7779935,30.9931532
+Hurricane Electric,Teraco JB1,"5 Brewery Street, Isando",Johannesburg,,1600,South Africa,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-26.1381028,28.1975604
+Hurricane Electric,Equinix Sydney SY1,639 Gardeners Road,Sydney,NSW,2020,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-33.9218679,151.1880252
+Hurricane Electric,Global Switch Sydney East,400 Harris St.,Sydney,NSW,2007,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-33.8756413,151.1975863
+Hurricane Electric,NEXTDC S1,4 Eden Park Dr.,Sydney,NSW,2113,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-33.7851693,151.1315154
+Hurricane Electric,Equinix Melbourne ME1,578 Lorimer Street,Melbourne,Victoria,3207,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-37.8220982,144.9154843
+Hurricane Electric,NEXTDC M1,820 Lorimer Street,Brisbane City,Victoria,3006,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-37.8218323,144.9316651
+Hurricane Electric,NEXTDC P1,4 Millrose Dr.,Perth,WA,6090,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-31.8641471,115.8958663
+Hurricane Electric,NEXTDC B1,20 Wharf Street,Brisbane,Queensland,4000,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-27.4655132,153.0296348
+Hurricane Electric,Digital Realty ErskinePark 2,13-23 Templar Rd.,Sydney,,2759,Australia,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-33.817205,150.7961173
+Hurricane Electric,University of Guam,303 University Drive,Mangilao,,96923,Guam,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,13.433887,144.8049191
+Hurricane Electric,Vocus Auckland Albany,7A Parkhead Place,Auckland (Albany),,,New Zealand,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-36.7501622,174.6965248
+Hurricane Electric,Datacentre220,"220 Queen Street, 1st FloOR",AucklaND,,1010,New Zealand,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,-36.8492349,174.765539
+Hurricane Electric,RSA Dexter Avenue Datacenter,445 Dexter Avenue,Montgomery,AL,36104,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.3783868,-86.3029664
+Hurricane Electric,TierPoint Little Rock,15707 Chenal Pkwy.,Little Rock,AR,72211,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,34.7560412,-92.4442068
+Hurricane Electric,Digital Realty Phoenix,"120 E Van Buren St, 3rd Floor",Phoenix,AZ,85004,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.4519088,-112.0719012
+Hurricane Electric,PhoenixNAP,3402 E University Dr.,Phoenix,AZ,85034,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.4160625,-112.0091614
+Hurricane Electric,EdgeConneX Phoenix,"3011 S. 52nd St., Suite 107",Phoenix,AZ,85282,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.3952995,-111.9701135
+Hurricane Electric,Iron Mountain Phoenix (AZP-1),615 N 48th St.,Phoenix,AZ,85008,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.4544742,-111.9774182
+Hurricane Electric,H5 Phoenix,2600 W. Germann Rd.,Phoenix (Chandler),AZ,85286,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.2770662,-111.8856914
+Hurricane Electric,CyrusOne Phoenix (Chandler),2605 South Ellis,Phoenix (Chandler),AZ,85286,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.2676243,-111.8827558
+Hurricane Electric,Involta,1215 E Pennsylvania St.,Tucson,AZ,85714,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.1721388,-110.9538372
+Hurricane Electric,Hurricane Electric Fremont 1,760 Mission Ct.,Fremont,CA,94539,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.4898965,-121.9310449
+Hurricane Electric,Hurricane Electric Fremont 2,48233 Warm Springs Blvd.,Fremont,CA,94539,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.4718094,-121.9201106
+Hurricane Electric,Equinix Los Angeles LA1,600 W 7th St.,Los Angeles,CA,90017,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,34.0474175,-118.2571683
+Hurricane Electric,CoreSite One Wilshire,624 S Grand Ave.,Los Angeles,CA,90017,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,34.0481615,-118.2556337
+Hurricane Electric,Crown Castle,"624 S Grand Ave., Suite 1207",Los Angeles,CA,90017,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,34.0481615,-118.2556337
+Hurricane Electric,Equinix Los Angeles LA4,445 N Douglas St.,El Segundo,CA,90017,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.9208068,-118.3837171
+Hurricane Electric,Equinix Palo Alto SV8,529 Bryant St.,Palo Alto,CA,94301,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.4459131,-122.1607418
+Hurricane Electric,NTT (Ragingwire) CA1,1200 Striker Ave.,Sacramento,CA,95834,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.6504135,-121.4893549
+Hurricane Electric,Digital Realty San Francisco SFR1,200 Paul Ave.,San Francisco,CA,94124,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.723698,-122.398056
+Hurricane Electric,Digital Realty (365 Main),365 Main St.,San Francisco,CA,94105,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.7886128,-122.3906175
+Hurricane Electric,Hurricane Electric San Jose(C),"55 S Market, 14th Floor",San Jose,CA,95113,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.3341944,-121.8917041
+Hurricane Electric,Equinix San Jose SV1,11 Great Oaks Blvd.,San Jose,CA,95119,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.2415906,-121.7833286
+Hurricane Electric,Cologix SV1,2050 Martin Ave.,Santa Clara,CA,95050,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.3654305,-121.9617379
+Hurricane Electric,EdgeConneX Santa Clara,1700 Richard Ave.,Santa Clara,CA,95050,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.3643118,-121.9587845
+Hurricane Electric,Coresite DE1,"910 15th St., Suite 740",Denver,CO,80202,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.7457378,-104.9955208
+Hurricane Electric,910Telecom,"910 15th St., Suite 1040",Denver,CO,80202,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.745723,-104.9955114
+Hurricane Electric,Iron Mountain Denver (DEN-1),4300 Brighton Blvd.,Denver,CO,80216,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.7773595,-104.968274
+Hurricane Electric,Flexential DEN03 Aurora,"11900 East Cornell Ave., Suite A",Aurora,CO,80014,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.6611907,-104.8505229
+Hurricane Electric,EdgeConnex Denver,8535 Highfield Pkwy.,Englewood,CO,80112,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.5608519,-104.8275558
+Hurricane Electric,H5 Denver,5350 South Valentia Way,Greenwood Village,CO,80111,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.616418,-104.8912868
+Hurricane Electric,Equinix Miami MI3,4680 Conference Way South,Miami,FL,33431,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,26.3884362,-80.1089169
+Hurricane Electric,SBA Edge - JAX,421 W Church St,Jacksonville,FL,32202,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,30.3314378,-81.662921
+Hurricane Electric,Cologix JAX1,421 W Church St,Jacksonville,FL,32202,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,30.3314378,-81.662921
+Hurricane Electric,Equinix Miami MI1/NOTA,50 NE 9th St,Miami,FL,33132,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,25.7823647,-80.1931295
+Hurricane Electric,"ColoHouse Miami / South Reach Networks, Miami","36 NE 2nd St, Suite 520",Miami,FL,33131,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,25.775811,-80.1928715
+Hurricane Electric,CoreSite MI1,2115 NW 22nd St.,Miami,FL,33142,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,25.7975456,-80.2300465
+Hurricane Electric,CoreSite OR1,9701 South John Young Pkwy.,Orlando,FL,32819,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,28.4271691,-81.4198213
+Hurricane Electric,365 Data Centers TA1,"655 North Franklin St, Suite 1000",Tampa,FL,33602,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,27.9499419,-82.4584011
+Hurricane Electric,Digital Realty ATL1,56 Marietta St.,Atlanta,GA,30303,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.7554212,-84.3915738
+Hurricane Electric,"CoreSite AT1, Atlanta",55 Marietta St.,Atlanta,GA,30303,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.7559437,-84.3911017
+Hurricane Electric,Equinix Atlanta AT1,180 Peachtree Street NW,Atlanta,GA,30303,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.7585659,-84.3877321
+Hurricane Electric,QTS Atlanta-Metro ATL1,1033 Jefferson St NW,Atlanta,GA,30318,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.7776421,-84.4210962
+Hurricane Electric,H5 Atlanta,"345 Courtland St. NE, 5th Floor",Atlanta,GA,30308,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.765199,-84.3836503
+Hurricane Electric,EdgeConneX Atlanta,1003 Donnelly Ave. SW,Atlanta,GA,30310,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,33.7293661,-84.4201245
+Hurricane Electric,QTS Atlanta-Suwanee SUW1,300 Satellite Blvd. NW,Suwanee,GA,30024,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,34.0354003,-84.061067
+Hurricane Electric,University of Guam,303 University Drive,Mangilao,Guam,96923,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,13.433887,144.8049191
+Hurricane Electric,DRFortress,3375 Koapaka St.,Honolulu,HI,96819,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,21.3352011,-157.9171036
+Hurricane Electric,SFN IA-Davenport,2814 N Clark St.,Davenport,IA,52804,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.5485849,-90.621089
+Hurricane Electric,Connect Des Moines,666 Walnut Street,Des Moines,IA,50309,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.5856243,-93.625372
+Hurricane Electric,Involta Idaho 2,2653 S Victory View Way,Boise,ID,83709,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.5798994,-116.2907708
+Hurricane Electric,Equinix Chicago CH1,350 E Cermak Rd.,Chicago,IL,60616,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.8526292,-87.619079
+Hurricane Electric,Digital Realty Chicago CHI1,350 E Cermak Rd.,Chicago,IL,60616,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.8526292,-87.619079
+Hurricane Electric,Coresite CH1,427 S. LaSalle St.,Chicago,IL,60605,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.8761246,-87.6316405
+Hurricane Electric,Netrality Chicago,717 S Wells St.,Chicago,IL,60607,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.8728291,-87.6333469
+Hurricane Electric,QTS Chicago CHI1,2800 South Ashland Ave.,Chicago,IL,60608,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.8421662,-87.6689761
+Hurricane Electric,Equinix Chicago CH3,1905 Lunt Avenue,Elk Grove Village,IL,60007,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.0018385,-87.9551304
+Hurricane Electric,Lifeline Henry Street,733 W. Henry Street,Indianapolis,IN,46225,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.7597125,-86.1723622
+Hurricane Electric,"Markley Group, One Summer Street",1 Summer St.,Boston,MA,02110,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.3551536,-71.0601162
+Hurricane Electric,Coresite BO1,70 Innerbelt Rd.,Somerville,MA,02143,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.3767118,-71.0797656
+Hurricane Electric,"Firstlight Fiber Regen Hut, Portland",9 Westland Ave.,Portland,ME,04101,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.6581955,-70.2995806
+Hurricane Electric,Deep Edge Realty PVM,340 Cumberland Ave.,Portland,ME,04101,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.6574579,-70.2612678
+Hurricane Electric,123net Southfield (Metro Detroit),24700 Northwestern Hwy.,Southfield,MI,48075,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.4716411,-83.2380596
+Hurricane Electric,EdgeConneX Detroit,21005 Lahser Rd.,Southfield,MI,48033,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.4476953,-83.2626713
+Hurricane Electric,Zayo/Neutral Path MSP1,713 E Church St.,Belle Plaine,MN,56011,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,44.62374,-93.7582051
+Hurricane Electric,Cologix Minneapolis,511 11th Ave. S,Minneapolis,MN,55415,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,44.9709371,-93.2538952
+Hurricane Electric,Zayo/Neutral Path RST1,"220 S Broadway, Suite LL12",Rochester,MN,55904,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,44.020727,-92.4625025
+Hurricane Electric,CenturyLink (Level 3),1100 Walnut St.,Kansas City,MO,64106,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.0978286,-94.581547
+Hurricane Electric,Netrality Kansas City (1102),1102 Grand Ave.,Kansas City,MO,64106,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.1008094,-94.5811036
+Hurricane Electric,Netrality St. Louis (210),"210 Tucker, Suite 515",Saint Louis,MO,63101,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.6292617,-90.1971786
+Hurricane Electric,Netrality St. Louis (900),900 Walnut,Saint Louis,MO,63101,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.625536,-90.195238
+Hurricane Electric,NOCIX North Kansas City,1530 Swift St.,North Kansas City,MO,64116,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.1373431,-94.5777582
+Hurricane Electric,iConnect Billings/Granite Tower,"222 North 32nd Street, Suite 301",Billings,MT,59102,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.781043,-108.5125463
+Hurricane Electric,iConnect Missoula,110 East Broadway,Missoula,MT,59801,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,46.8720852,-113.9933832
+Hurricane Electric,Segra Data Centers (DC74),3101 International Airport Drive,Charlotte,NC,28208,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,35.1938406,-80.9384514
+Hurricane Electric,702 Communications Fargo,2911 Fiechtner Dr. S,Fargo,ND,58103,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,46.8646909,-96.8317166
+Hurricane Electric,1623 Farnam/NCC,1623 Farnam St.,Omaha,NE,68102,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.2573699,-95.9381644
+Hurricane Electric,Crown Castle 1 Sundial,"The Sundial Center, 1 Sundial Ave.",Manchester,NH,03103,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.9718407,-71.4704059
+Hurricane Electric,Iron Mountain New Jersey (NJE-1),3003 Woodbridge Ave.,Edison,NJ,08837,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.5208237,-74.3477501
+Hurricane Electric,165 Halsey (Tishman Properties),165 Halsey St.,Newark,NJ,07102,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7368242,-74.1735438
+Hurricane Electric,QTS Piscataway PNJ1,101 Possumtown Road,Piscataway,NJ,08854,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.5571382,-74.4842139
+Hurricane Electric,Equinix New York NY5,800 Secaucus Road,Secaucus,NJ,07094,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7786143,-74.0723186
+Hurricane Electric,NJFX,1410 Wall Church Rd.,Wall,NJ,07719,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.1615776,-74.0531363
+Hurricane Electric,H5 Albuquerque,505 Marquette Ave NW,Albuquerque,NM,87102,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,35.0889349,-106.6525257
+Hurricane Electric,Fiberhub LAS1,"1110 Palms Airport Dr., Suite 110",Las Vegas,NV,89119,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,36.0660209,-115.1385112
+Hurricane Electric,EdgeConneX Las Vegas,1541 Pama Lane,Las Vegas,NV,89119,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,36.0654152,-115.1307871
+Hurricane Electric,Roller Network,"3545 Airway Dr., Suite 114",Reno,NV,89511,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.469107,-119.769519
+Hurricane Electric,365 Data Centers Buffalo BU1,350 Main St.,Buffalo,NY,14202,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,42.8842134,-78.8756835
+Hurricane Electric,Equinix New York NY9,"111 8th Ave., Suite 734",New York,NY,10011,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7417806,-74.0045012
+Hurricane Electric,Digital Realty NYC1,60 Hudson St.,New York,NY,10013,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.717729,-74.0083059
+Hurricane Electric,Telehouse New York Chelsea,85 10th Ave.,New York,NY,10011,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7431145,-74.0077052
+Hurricane Electric,Digital Realty NYC2,"111 8th Ave., Suite 634",New York,NY,10011,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7414688,-74.0033873
+Hurricane Electric,Coresite NY1,"32 Avenue of the Americas, Suite 700",New York,NY,10013,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7200627,-74.0047478
+Hurricane Electric,Telehouse New York Teleport Staten Island,7 Teleport Dr.,New York,NY,10011,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.6070144,-74.1748932
+Hurricane Electric,Webair 501 Franklin Ave.,"501 Franklin Ave., Suite 200",Garden City,NY,11530,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7228542,-73.631663
+Hurricane Electric,H5 Cleveland,1625 Rockwell Ave.,Cleveland,OH,44114,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.5067004,-81.6830495
+Hurricane Electric,Cologix Columbus COL2,555 Scherers Court,Columbus,OH,43085,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.1157571,-83.0024012
+Hurricane Electric,CyrusOne,209-229 West 7th St.,Cincinnati,OH,45202,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.1029023,-84.5174673
+Hurricane Electric,RACK59 Data Center,"7725 West Reno Ave., Suite 304",Oklahoma City,OK,73127,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,35.467274,-97.649603
+Hurricane Electric,Pittock Bldg Portland,921 SW Washington St.,Portland,OR,97205,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.5214812,-122.6803373
+Hurricane Electric,EdgeConneX Portland,23245 NW Evergreen Parkway,Hillsboro,OR,97124,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.5527939,-122.9146213
+Hurricane Electric,Flexential - Portland/Hillsboro 2,5737 NE Huffman St.,Hillsboro,OR,97124,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,45.5579713,-122.9170219
+Hurricane Electric,Equinix Philadelphia PH1,401 North Broad St.,Philadelphia,PA,19108,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.9600092,-75.1601767
+Hurricane Electric,Netrality Philadelphia,401 North Broad St.,Philadelphia,PA,19108,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.9600092,-75.1601767
+Hurricane Electric,DataBank PIT1,"100 South Commons, Suite 126",Pittsburgh,PA,15212,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.4511154,-80.0050619
+Hurricane Electric,Prov.net PVD2,304 Carpenter Street,Providence,RI,02909,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.8177714,-71.429096
+Hurricane Electric,SDN Communications,5300 N La Mesa,Sioux Falls,SD,57107,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.6070694,-96.809215
+Hurricane Electric,365 Data Centers NA1,"147 Fourth Ave., 8th Floor",Nashville,TN,37219,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,36.1627009,-86.7786931
+Hurricane Electric,EdgeConneX Nashville,1841 Air Lane Dr.,Nashville,TN,37210,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,36.1448813,-86.7017215
+Hurricane Electric,"Switch Data Foundry 01, Austin",4100 Smith School Rd.,Austin,TX,78744,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,30.1996082,-97.7140789
+Hurricane Electric,Equinix Dallas DA1,"1950 N Stemmons Freeway, Suite 1034",Dallas,TX,75207,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.8007033,-96.8191899
+Hurricane Electric,Cologix DAL1,"1950 N Stemmons Freeway, Suite 1032",Dallas,TX,75207,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.8009333,-96.8195337
+Hurricane Electric,Databank DFW1,400 South Akard St.,Dallas,TX,75202,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.7779804,-96.7980942
+Hurricane Electric,Equinix Dallas DA6,"1950 N Stemmons Freeway, Suite 4000",Dallas,TX,75207,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.8007541,-96.8191669
+Hurricane Electric,Flexential - Dallas(DAL01),"1950 N Stemmons Freeway, Suite 2033",Dallas,TX,75207,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.8006365,-96.8195162
+Hurricane Electric,CyrusOne Dallas (Carrollton),1649 W. Frankford Rd.,Carrollton,TX,75007,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.9920271,-96.9302905
+Hurricane Electric,QTS Dallas DFW1,6431 Longhorn Drive,Irving,TX,75063,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,32.8969115,-96.9829614
+Hurricane Electric,Consolidated Houston,811 Louisiana St.,Houston,TX,77002,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,29.7596105,-95.3665939
+Hurricane Electric,Netrality Houston,1301 Fannin St.,Houston,TX,77002,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,29.7533755,-95.3657529
+Hurricane Electric,Databank HOU2,5170 Westway Park Blvd.,Houston,TX,77041,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,29.8442947,-95.5567107
+Hurricane Electric,MDC McAllen MCA2,422 South 11th St.,McAllen,TX,78501,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,26.1993898,-98.2321541
+Hurricane Electric,H5 San Antonio,100 Taylor St.,San Antonio,TX,78205,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,29.4293716,-98.4867924
+Hurricane Electric,DataBank SLC1,179 Social Hall Ave.,Salt Lake City,UT,84111,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.768519,-111.8858312
+Hurricane Electric,EdgeConneX Salt Lake City,2302 South Presidents Drive,Salt Lake City,UT,84120,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.721107,-111.9849806
+Hurricane Electric,Flexential - Salt Lake City (SLC04),"572 S Delong St., Suite 100",Salt Lake City,UT,84101,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.7569068,-111.954124
+Hurricane Electric,DataBank Salt Lake City SLC2,14944 Pony Express Road,Bluffdale,UT,84065,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,40.4796377,-111.904737
+Hurricane Electric,Equinix Ashburn DC2,21715 Filigree Ct.,Ashburn,VA,20147,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.0164362,-77.4590349
+Hurricane Electric,NTT (Ragingwire) VA1,44664 Guilford Dr.,Ashburn,VA,20147,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.0227694,-77.4548779
+Hurricane Electric,DataBank Ashburn (IAD1),"21635 Red Rum Dr., Suite 100",Ashburn,VA,20147,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,39.0155041,-77.4817721
+Hurricane Electric,QTS Ashburn IAD2,1506 Moran Road,Dulles Sterling,VA,20166,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.9944275,-77.448146
+Hurricane Electric,Iron Mountain Manassas (VA-1),11680 Hayden Rd.,Manassas,VA,20109,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.7743101,-77.5455013
+Hurricane Electric,Coresite VA1,12100 Sunrise Valley Dr.,Reston,VA,20191,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.9506292,-77.364564
+Hurricane Electric,Pixel Factory Data Center,"9680 Atlee Commons Dr., Suite 102",Ashland,VA,23005,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.6990274,-77.4364474
+Hurricane Electric,QTS Richmond RIC1,6000 Technology Blvd.,Sandston,VA,23150,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,37.4890707,-77.2462608
+Hurricane Electric,Telxius,900 Corporate Landing Pkwy.,Virginia Beach,VA,23454,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,36.7881076,-76.0093488
+Hurricane Electric,Globalinx Virginia Beach,1632 Corporate Landing Pkwy.,Virginia Beach,VA,23454,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,36.7842158,-76.0086286
+Hurricane Electric,VELCO VT1,"Velco, 366 Pinnacle Ridge Rd.",Rutland,VT,05701,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.6601199,-72.9926751
+Hurricane Electric,Equinix Seattle SE2,"2001 6th Ave., Suite 1200",Seattle,WA,98121,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.6143474,-122.3388835
+Hurricane Electric,Westin Building MMR,2001 6th Ave.,Seattle,WA,98121,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.6143474,-122.3388835
+Hurricane Electric,H5 Seattle,"1000 Denny Way, Suite 100",Seattle,WA,98109,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.6190504,-122.3363373
+Hurricane Electric,EdgeConneX Seattle,"3245 S 116th St., Building 6, Suite 133",Seattle,WA,98168,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.4996826,-122.2921279
+Hurricane Electric,Neutron Spokane,"422 W Riverside Ave., Suite 1401",Spokane,WA,99201,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,47.6582781,-117.4191654
+Hurricane Electric,5NINES,222 W Washington Ave.,Madison,WI,53703,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,43.0732389,-89.3871329
+Hurricane Electric,Alpha Technologies DC1,2020 Union Carbide Dr.,South Charleston,WV,25303,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,38.3531643,-81.6965361
+Hurricane Electric,Range/ACT,1621 Diamond Creek Rd.,Cheyenne,WY,82009,USA,Point of Presence,https://he.net/HurricaneElectricNetworkMap.pdf,Active,41.1310277,-104.9005977
